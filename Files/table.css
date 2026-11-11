@@ -1,0 +1,53 @@
+.table-row-cell:odd {
+  -fx-background-color: -fx-table-cell-border-color, -fx-control-inner-background;
+  -fx-background-insets: 0, 0 0 1 0;
+}
+.table-row-cell:focused:odd {
+  -fx-background-color: -fx-focus-color, -fx-cell-focus-inner-border, -fx-control-inner-background;
+  -fx-background-insets: 0, 1, 2;
+}
+
+.table-view:focused .table-row-cell:filled:focused:selected {
+  -fx-background-color: -fx-focus-color, -fx-cell-focus-inner-border, -fx-selection-bar;
+  -fx-background-insets: 0, 1, 2;
+  -fx-background: -fx-accent;
+  -fx-text-fill: -fx-selection-bar-text;
+}
+.check-box .box {
+-fx-background-color: white;
+-fx-border-color:white;
+-fx-border-radius:3px;
+}
+
+.check-box:selected .mark {
+-fx-background-color: grey;
+}
+.check-box:selected .box {
+-fx-background-color: white;
+}
+.combo-box, .text-field{
+-fx-background-color: white;
+}
+
+.combo-box .arrow {
+    -fx-background-color: black;
+}
+.combo-box .arrow-button {
+    -fx-background-color: white;
+}
+.text-area {
+    -fx-background-insets: 0;
+    -fx-background-color: transparent, white, transparent, white;
+}
+
+.text-area .content {
+    -fx-background-color: transparent, white, transparent, white;
+}
+
+.text-area:focused .content {
+    -fx-background-color: transparent, white, transparent, white;
+}
+
+.text-area:focused {
+    -fx-highlight-fill: #7ecfff;
+}

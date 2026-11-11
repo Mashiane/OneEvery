@@ -1,0 +1,5281 @@
+﻿AppType=JavaFX
+Build1=Default,b4j.example
+File1=app.png
+File10=cog_start.png
+File11=control_power_blue.png
+File12=css.png
+File13=css_add.png
+File14=database.png
+File15=database_add.png
+File16=database_connect.png
+File17=door_in.png
+File18=folder.png
+File19=fontawesome-webfont.ttf
+File2=application_add.png
+File20=frmEditor.bjl
+File21=frmListView.bjl
+File22=frmSplitPane.bjl
+File23=html.png
+File24=html_add.png
+File25=jtidytags.txt
+File26=layers.png
+File27=listview.css
+File28=material-components-web.min.css
+File29=material-components-web.min.js
+File3=brick.png
+File30=Material-Design-Icons.ttf
+File31=monitor.png
+File32=open.png
+File33=package.png
+File34=package_add.png
+File35=page_white_gear.png
+File36=page_white_php.png
+File37=page_world.png
+File38=resources.zip
+File39=richtext.css
+File4=brick_add.png
+File40=save.png
+File41=script.png
+File42=script_add.png
+File43=script_code.png
+File44=script_gear.png
+File45=script_link.png
+File46=seasons.png
+File47=server_go.png
+File48=table.css
+File49=tag.png
+File5=bricks.png
+File50=tag_blue.png
+File51=tag_blue_add.png
+File52=templates.png
+File53=terminal.png
+File54=trash.png
+File55=vAccessControl.bjl
+File56=vAppView.bjl
+File57=vAttributes.bjl
+File58=vClassDefinition.bjl
+File59=vClasses.bjl
+File6=build.png
+File60=vCLI.bjl
+File61=vCode.bjl
+File62=vCSS.bjl
+File63=vCSSFiles.bjl
+File64=vEditor.bjl
+File65=vElementAttributes.bjl
+File66=vElementClasses.bjl
+File67=vElementIT.bjl
+File68=vElementt.bjl
+File69=vEmptyPanel.bjl
+File7=bullet.png
+File70=vFileSelector.bjl
+File71=vFontButton.bjl
+File72=vFontGrid.bjl
+File73=vFontSelector.bjl
+File74=vGetQuery.bjl
+File75=vHTML.bjl
+File76=vJQuery.bjl
+File77=vJSFiles.bjl
+File78=vLists.bjl
+File79=vMacro.bjl
+File8=cmy.png
+File80=vMain.bjl
+File81=vPage.bjl
+File82=vPageHTML.bjl
+File83=vParent.bjl
+File84=vProject.bjl
+File85=vProjectTree.bjl
+File86=vProperty.bjl
+File87=vRecords.bjl
+File88=vReport.bjl
+File89=vTabElement.bjl
+File9=cog.png
+File90=vTabPane.bjl
+File91=vTemplates.bjl
+File92=vTemplatesAttributes.bjl
+File93=vTemplatesClasses.bjl
+File94=vTranspile.bjl
+File95=vTV.bjl
+FileGroup1=Default Group\1.png
+FileGroup10=Default Group
+FileGroup11=Default Group\1.png
+FileGroup12=Default Group\1.png
+FileGroup13=Default Group\1.png
+FileGroup14=Default Group\1.png
+FileGroup15=Default Group\1.png
+FileGroup16=Default Group\1.png
+FileGroup17=Default Group\1.png
+FileGroup18=Default Group\1.png
+FileGroup19=Default Group
+FileGroup2=Default Group\1.png
+FileGroup20=Default Group\0.Views
+FileGroup21=Default Group\0.Views
+FileGroup22=Default Group\0.Views
+FileGroup23=Default Group\1.png
+FileGroup24=Default Group\1.png
+FileGroup25=Default Group
+FileGroup26=Default Group\1.png
+FileGroup27=Default Group\2.css
+FileGroup28=Default Group
+FileGroup29=Default Group
+FileGroup3=Default Group\1.png
+FileGroup30=Default Group
+FileGroup31=Default Group\1.png
+FileGroup32=Default Group\1.png
+FileGroup33=Default Group\1.png
+FileGroup34=Default Group\1.png
+FileGroup35=Default Group\1.png
+FileGroup36=Default Group\1.png
+FileGroup37=Default Group\1.png
+FileGroup38=Default Group
+FileGroup39=Default Group\2.css
+FileGroup4=Default Group\1.png
+FileGroup40=Default Group\1.png
+FileGroup41=Default Group\1.png
+FileGroup42=Default Group\1.png
+FileGroup43=Default Group\1.png
+FileGroup44=Default Group
+FileGroup45=Default Group\1.png
+FileGroup46=Default Group\1.png
+FileGroup47=Default Group\1.png
+FileGroup48=Default Group\2.css
+FileGroup49=Default Group\1.png
+FileGroup5=Default Group\1.png
+FileGroup50=Default Group\1.png
+FileGroup51=Default Group\1.png
+FileGroup52=Default Group
+FileGroup53=Default Group\1.png
+FileGroup54=Default Group\1.png
+FileGroup55=Default Group\0.Views
+FileGroup56=Default Group\0.Views
+FileGroup57=Default Group\0.Views
+FileGroup58=Default Group\0.Views
+FileGroup59=Default Group\0.Views
+FileGroup6=Default Group\1.png
+FileGroup60=Default Group\0.Views
+FileGroup61=Default Group
+FileGroup62=Default Group\0.Views
+FileGroup63=Default Group\0.Views
+FileGroup64=Default Group\0.Views
+FileGroup65=Default Group\0.Views
+FileGroup66=Default Group\0.Views
+FileGroup67=Default Group\0.Views
+FileGroup68=Default Group\0.Views
+FileGroup69=Default Group\0.Views
+FileGroup7=Default Group\1.png
+FileGroup70=Default Group\0.Views
+FileGroup71=Default Group\0.Views
+FileGroup72=Default Group\0.Views
+FileGroup73=Default Group\0.Views
+FileGroup74=Default Group\0.Views
+FileGroup75=Default Group\0.Views
+FileGroup76=Default Group
+FileGroup77=Default Group\0.Views
+FileGroup78=Default Group\0.Views
+FileGroup79=Default Group
+FileGroup8=Default Group\1.png
+FileGroup80=Default Group\0.Views
+FileGroup81=Default Group\0.Views
+FileGroup82=Default Group\0.Views
+FileGroup83=Default Group\0.Views
+FileGroup84=Default Group\0.Views
+FileGroup85=Default Group\0.Views
+FileGroup86=Default Group\0.Views
+FileGroup87=Default Group\0.Views
+FileGroup88=Default Group\0.Views
+FileGroup89=Default Group\0.Views
+FileGroup9=Default Group\1.png
+FileGroup90=Default Group\0.Views
+FileGroup91=Default Group
+FileGroup92=Default Group
+FileGroup93=Default Group
+FileGroup94=Default Group
+FileGroup95=Default Group\0.Views
+Group=Default Group
+Library1=archiver
+Library10=jnet
+Library11=jokhttputils2
+Library12=jpdfjet
+Library13=jpoi
+Library14=jrandomaccessfile
+Library15=jreflection
+Library16=jrldialogsx
+Library17=jserver
+Library18=jshell
+Library19=json
+Library2=byteconverter
+Library20=jsql
+Library21=jstringutils
+Library22=jtidy
+Library23=jxmlsax
+Library24=jxui
+Library25=mashpoi
+Library26=mashpropertybag
+Library27=xml2map
+Library28=xmlbuilder
+Library29=jawtrobot
+Library3=cssutils
+Library4=javaobject
+Library5=jcontrolsfx
+Library6=jcore
+Library7=jcustomtoast
+Library8=jdateutils
+Library9=jfx
+Module1=|absolute|C:\b4j\shared\Badger
+Module10=|relative|..\..\..\..\b4j\shared\HTMLElement
+Module11=HTMLPage
+Module12=|absolute|C:\b4j\shared\jMash
+Module13=JQuery
+Module14=|absolute|C:\b4j\shared\TabStopManager
+Module15=|absolute|C:\b4j\shared\TextFlow
+Module16=|absolute|C:\b4j\shared\Utils
+Module2=CLI
+Module3=|absolute|C:\b4j\shared\clsCodeModule
+Module4=|absolute|C:\b4j\shared\clsKVS
+Module5=|absolute|C:\b4j\shared\CodeArea
+Module6=|absolute|C:\b4j\shared\CustomListView
+Module7=|absolute|C:\b4j\shared\DBUtils
+Module8=frmMacros
+Module9=HTMLApp
+NumberOfFiles=95
+NumberOfLibraries=29
+NumberOfModules=16
+Version=10.5
+@EndOfDesignText@
+#Region Project Attributes 
+	#MainFormWidth: 600
+	#MainFormHeight: 600 
+	'#AdditionalJar: sqlite-jdbc-3.7.2
+	#AdditionalJar: sqlite-jdbc-3.21.0
+	'#VirtualMachineArgs: -Xms512m -Xmx1024m -XX:MetaspaceSize=128m -XX:MaxMetaspaceSize=256m -XX:MinHeapFreeRatio=40 -XX:MaxHeapFreeRatio=70 
+	'-Dprism.verbose=true
+	#AdditionalJar: richtextfx-fat-0.6.10
+	#AdditionalJar: FontAwesome
+	#AdditionalJar: MaterialIcons
+	'#AdditionalJar: jtds
+	#MergeLibraries: true
+	#LibraryAuthor: Anele Mashy Mbanga anele@mbangas.com
+	#LibraryName: OneEvery
+	#LibraryVersion: 1
+	#IgnoreWarnings: 9,12,14
+	#CommandLineArgs: nodebug 'options debug | nodebug
+#End Region
+
+Sub Process_Globals
+	Private fx As JFX
+	Public MainForm As Form
+	Public treeProject As TreeView
+	Private pnlParent As Pane
+	Public splitMain As SplitPane
+	Private StatusBar1 As StatusBar
+	Private ac As Archiver
+	Private Dlg As DialogsX
+	Private awesome As Font
+    Private btnPocketReference As Button
+	Private btnCopySC As Button
+	Private btnSnap As Button
+	Private btnPrint As Button
+	Public tabs As TabPane
+	Private appimg As Image
+	Private nodeText As String
+	Public ImagesFolder As String
+	Public etvProject As EditableTV
+	Private Dlg As DialogsX
+	Public letvAccessControl As ListViewETV	
+	Private folderimg As Image
+	Private Pages As TreeItem
+	Private pageimg As Image
+	Private AppView As WebView
+	Private indexPath As String
+	Private txtHTML As CodeArea
+	Private etvPage As EditableTV
+	Private PageMap As Map
+	Private pnlProperty As Pane
+	Private PageName As String
+	Private publishimg As Image
+	Private appadd As Image
+	Private pageadd As Image
+	Private Elements As TreeItem
+	Private compimg As Image
+	Private elImg As Image
+	Private Tags As TreeItem
+	Private tagImg As Image
+	Private addTag As Image
+	Private htmlImg As Image
+	Private Frameworks As TreeItem
+	Private frameImg As Image
+	Private frameAdd As Image
+	Private btnNewRecord As Button
+	Private btnReIndexRecords As Button
+	Private etvRecords As EditableTV
+	Private etvLists As EditableTV
+	Private Categories As TreeItem
+	Private catimg As Image
+	Public InternalSQL As SQL
+	Private tabElement As TabPane
+	Private etvElement As EditableTV
+	Private splitElement As SplitPane
+	Private tblReport As EditableTV
+	'Private PieChart As PieChart
+	Private pnlEmpty As Pane
+	Private attributes As ListViewETV
+	Private classes As ListViewETV
+	Private attrTI As TreeItem
+	Private attrImg As Image
+	Private etvElemAttributes As EditableTV
+	Private btnNewRecord1 As Button
+	Private treeCM As ContextMenu
+	Private classTI As TreeItem
+	Private classImg As Image
+	Private devices As TreeItem
+	Private deviceimg As Image
+	Private etvClassDefinition As EditableTV
+	Private btnSaveAll As Button
+	Private btnSaveAllElements As Button
+	Private lblTitle As Label
+	Private lblTitle1 As Label
+	Private btnNewElementClass As Button
+	Private btnSaveElementClasses As Button
+	Private etvElementClasses As EditableTV
+	Private lblTitle2 As Label
+	Private btnReIndexRecords1 As Button
+	Private threeimg As Image
+	Private threeTI As TreeItem
+	Private cogImg As Image
+	Private cogTI As TreeItem
+	Private btnEditorParse As Button
+	Private txtHTMLSource As TextArea
+	Private btnGetLast As Button
+	'Private parser As SaxParser
+	Private css As ListViewETV
+	Private btnElemPage As Button
+	Private btnToPage As Button
+	Private btnDeleteElements As Button
+	Private btnDeleteRecords As Button
+	Private btnImportStructure As Button
+	Private terminal As Image
+	Private btnExecuteCommand As Button
+	Private txtCommand As TextField
+	Private txtCommands As CodeArea
+	Private btnPasteHTML As Button
+	Private scriptImg As Image
+	Private templatesImg As Image
+	Private templates As TreeItem
+	Private btnAddTemplate As Button
+	Private btnDeleteTemplates As Button
+	Private btnSaveTemplates As Button
+	Private etvTemplates As EditableTV
+	Private btnAddTemplateAttributes As Button
+	Private btnDeleteTemplatesAttributes As Button
+	Private btnSaveTemplatesAttributes As Button
+	Private etvTemplatesAttributes As EditableTV
+	Private lblTemplatesAttributes As Label
+	Private btnAddTemplatesClasses As Button
+	Private btnDeleteTemplatesClasses As Button
+	Private btnSaveTemplatesClasses As Button
+	Private etvTemplatesClasses As EditableTV
+	Private lblTemplatesClasses As Label
+	Private btnTemplatesAttributesNames As Button
+	Private btnTemplatesClassesNames As Button
+	Private btnTemplatesNames As Button
+	Private btnRefreshTemplates As Button
+	Private btnRecordNames As Button
+	Private badge As Badger
+	Private btnGenerateCode As Button
+	Private btnExtractAttributes As Button
+	Private btnExtractClasses As Button
+	Private ActiveElement As String
+	Private btnMacro As Button
+	Private Macros As TreeItem
+	Private cogStart As Image
+	Private btnDeleteMacro As Button
+	Private btnExecute As Button
+	Private btnPreview As Button
+	Private btnSaveMacro As Button
+	Private txtArguements As TextField
+	Private txtDescription As TextField
+	Private txtMacroCommands As CodeArea
+	Private txtMacroName As TextField
+	Private txtValues As TextField
+	Private btnMacroRecords As Button
+	Private scriptcog As Image
+	Private txtJQuery As TextArea
+	Private txtTranspile As TextArea
+End Sub
+
+Sub TreeClear
+	Pages.Children.Clear
+	Elements.Children.Clear
+	Tags.Children.Clear
+	Frameworks.Children.Clear
+	Categories.Children.clear
+	devices.children.clear
+	classTI.Children.clear
+	attrTI.Children.clear
+	cogTI.Children.clear
+	templates.Children.clear
+	Macros.Children.clear
+End Sub
+
+
+Sub CSSFiles_Show
+	'add the vertical splitter
+	splitMain.SetSizeLimits(2,1,1)
+	LoadMiddleLayout("vTabPane")
+	AddTabLayout("vRecords","CSS Files")
+	LoadPropertyBagLayout("")
+	btnToPage.Visible = False
+	btnGenerateCode.Visible = False
+	btnRecordNames.Visible = False
+	etvRecords.ImagesFolder = ImagesFolder
+	etvRecords.setparentform(MainForm)
+	etvRecords.SetReportViewer
+	'set up the fields etc
+	etvRecords.PrimaryKey = "id"
+	etvRecords.SecondaryKey = "file"
+	etvRecords.AddTextBoxProperty("id","","ID","id")
+	etvRecords.AddFilePickerProperty("CSS Script","","File to add to the website","file")
+	Dim lstFrameworks As List = DBUtils.ExecuteField(InternalSQL,"Frameworks","Framework",False,True)
+	etvRecords.AddComboBoxProperty("Framework",CLI.Framework,"Framework","framework",lstFrameworks,True)
+	etvRecords.AddCheckBoxProperty("Active","1","Active","Active")
+	etvRecords.AddTextBoxProperty("Tab Index","0","Value","TabIndex")
+	etvRecords.ShowUpdate = True
+	etvRecords.ShowDelete = True
+	etvRecords.ShowAddChild = False
+	etvRecords.ShowMoveDown = True
+	etvRecords.ShowMoveUp = True
+	etvRecords.ShowClone = True
+	etvRecords.DataSource = "CSSFiles"
+	etvRecords.TabIndex = "TabIndex"
+	etvRecords.DataBase = CLI.AppDB
+	etvRecords.AlwaysTell = False
+	etvRecords.HandleCrud = True
+	etvRecords.SetWidth("id","50")
+	etvRecords.SetWidth("File","600")
+	etvRecords.SetWidth("Framework","200")
+	etvRecords.RefreshColumns
+	etvRecords.SQLQuery = "select * from cssfiles order by TabIndex desc"
+	etvRecords.LoadSQLData(Null)
+	lblTitle.Text = $"CSS Files: ${etvRecords.RecordCount+1}"$
+End Sub
+
+Sub JSFiles_Show
+	'add the vertical splitter
+	splitMain.SetSizeLimits(2,1,1)
+	LoadMiddleLayout("vTabPane")
+	AddTabLayout("vRecords","JavaScript Files")
+	LoadPropertyBagLayout("")
+	btnToPage.Visible = False
+	btnGenerateCode.Visible = False
+	btnRecordNames.Visible = False
+	etvRecords.ImagesFolder = ImagesFolder
+	etvRecords.setparentform(MainForm)
+	etvRecords.SetReportViewer
+	'set up the fields etc
+	etvRecords.PrimaryKey = "id"
+	etvRecords.SecondaryKey = "file"
+	etvRecords.AddTextBoxProperty("id","","ID","id")
+	etvRecords.AddFilePickerProperty("Java Script File","","File to add to the website","file")
+	Dim lstFrameworks As List = DBUtils.ExecuteField(InternalSQL,"Frameworks","Framework",False,True)
+	etvRecords.AddComboBoxProperty("Framework",CLI.Framework,"Framework","framework",lstFrameworks,True)
+	etvRecords.AddCheckBoxProperty("Active","1","Active","Active")
+	etvRecords.AddTextBoxProperty("Tab Index","0","Value","TabIndex")
+	etvRecords.ShowUpdate = True
+	etvRecords.ShowDelete = True
+	etvRecords.ShowAddChild = False
+	etvRecords.ShowMoveDown = True
+	etvRecords.ShowMoveUp = True
+	etvRecords.ShowClone = True
+	etvRecords.DataSource = "JSFiles"
+	etvRecords.TabIndex = "TabIndex"
+	etvRecords.DataBase = CLI.AppDB
+	etvRecords.AlwaysTell = False
+	etvRecords.HandleCrud = True
+	etvRecords.SetWidth("id","50")
+	etvRecords.SetWidth("File","600")
+	etvRecords.SetWidth("Framework","200")
+	etvRecords.RefreshColumns
+	etvRecords.SQLQuery = "select * from JSFiles order by TabIndex desc"
+	etvRecords.LoadSQLData(Null)
+	lblTitle.Text = $"JavaScript Files: ${etvRecords.RecordCount+1}"$
+End Sub
+
+
+'the creator database holds universal details
+Sub Creator_Prepare
+	InternalSQL.InitializeSQLite(File.dirapp,"creator.db",True)
+	'component templates table
+	DBUtils.InitializeNewTable("Templates","id","id")
+	DBUtils.AddFieldOfInteger("id",True,True)
+	DBUtils.AddFieldOfText("Framework",True,False)
+	DBUtils.AddFieldOfText("Instance",True,False)
+	DBUtils.AddFieldOfText("TypeOf",True,False)
+	DBUtils.AddFieldOfText("Name",True,False)
+	DBUtils.AddFieldOfText("Text",True,False)
+	DBUtils.AddFieldOfText("Value",True,False)
+	DBUtils.AddFieldOfInteger("TextAfter",True,False)
+	DBUtils.AddFieldOfText("DisplayName",True,False)
+	DBUtils.AddFieldOfText("Key",True,True)
+	DBUtils.AddFieldOfText("Template",True,False)
+	DBUtils.CreateTableFromDefinition(InternalSQL)
+	'templates example
+	DBUtils.InitializeNewTable("TemplatesAttributes","id","id")
+	DBUtils.AddFieldOfText("Attribute",True,False)
+	DBUtils.AddFieldOfText("Framework",True,False)
+	DBUtils.AddFieldOfText("DisplayName",True,False)
+	DBUtils.AddFieldOfInteger("Fixed",False,False)
+	DBUtils.AddFieldOfText("FieldType",False,False)
+	DBUtils.AddFieldOfText("DefaultValue",False,False)
+	DBUtils.AddFieldOfText("IsFile",False,False)
+	DBUtils.AddFieldOfText("Description",False,False)
+	DBUtils.AddFieldOfText("List",False,False)
+	DBUtils.AddFieldOfText("Key",True,True)
+	DBUtils.AddFieldOfText("ParentKey",True,False)
+	DBUtils.AddFieldOfInteger("Active",True,False)
+	DBUtils.AddFieldOfInteger("Required",True,False)
+	DBUtils.AddFieldOfText("Instance",True,False)
+	DBUtils.CreateTableFromDefinition(InternalSQL)
+	
+	DBUtils.InitializeNewTable("TemplatesClasses","id","id")
+	DBUtils.AddFieldOfText("Class",True,False)
+	DBUtils.AddFieldOfText("Framework",True,False)
+	DBUtils.AddFieldOfText("DisplayName",True,False)
+	DBUtils.AddFieldOfInteger("Fixed",False,False)
+	DBUtils.AddFieldOfText("FieldType",False,False)
+	DBUtils.AddFieldOfText("DefaultValue",False,False)
+	DBUtils.AddFieldOfText("IsFile",False,False)
+	DBUtils.AddFieldOfText("Description",False,False)
+	DBUtils.AddFieldOfText("List",False,False)
+	DBUtils.AddFieldOfText("Key",True,True)
+	DBUtils.AddFieldOfText("ParentKey",True,False)
+	DBUtils.AddFieldOfInteger("Active",True,False)
+	DBUtils.AddFieldOfInteger("Required",True,False)
+	DBUtils.CreateTableFromDefinition(InternalSQL)
+		
+	DBUtils.InitializeNewTable("Imports","id","id")
+	DBUtils.AddFieldOfInteger("id",True,True)
+	DBUtils.AddFieldOfText("Name",True,False)
+	DBUtils.AddFieldOfText("Text",True,False)
+	DBUtils.AddFieldOfText("Attributes",True,False)
+	DBUtils.AddFieldOfText("Placement",True,False)	
+	DBUtils.AddFieldOfInteger("ElementsID",True,False)
+	DBUtils.CreateTableFromDefinition(InternalSQL)
+	
+	'create frameworks
+	DBUtils.InitializeNewTable("Frameworks","id","id")
+	DBUtils.AddFieldOfInteger("id",True,True)
+	DBUtils.AddFieldOfText("Framework",True,True)
+	DBUtils.AddFieldOfText("Abbreviation",True,False)
+	DBUtils.CreateTableFromDefinition(InternalSQL)
+	'create css
+	DBUtils.InitializeNewTable("CSS","id","id")
+	DBUtils.AddFieldOfInteger("id",True,True)
+	DBUtils.AddFieldOfText("classname",True,False)
+	DBUtils.AddFieldOfInteger("ElementID",True,False)
+	DBUtils.AddFieldOfText("attribute",True,False)
+	DBUtils.AddFieldOfText("Framework",True,False)
+	DBUtils.AddFieldOfText("DefaultValue",False,False)
+	DBUtils.AddFieldOfInteger("Active",True,False)
+	DBUtils.AddFieldOfText("DisplayName",True,False)
+	DBUtils.AddFieldOfText("List",False,False)
+	DBUtils.AddFieldOfInteger("Fixed",False,False)
+	DBUtils.AddFieldOfInteger("OnPage",False,False)
+	DBUtils.AddFieldOfText("Key",True,True)
+	DBUtils.AddFieldOfInteger("Multiple",True,False)
+	DBUtils.CreateTableFromDefinition(InternalSQL)
+	
+	'create elements
+	DBUtils.InitializeNewTable("Elements","id","id")
+	DBUtils.AddFieldOfInteger("id",True,True)
+	DBUtils.AddFieldOfText("Element",True,False)
+	DBUtils.AddFieldOfText("Framework",True,False)
+	DBUtils.AddFieldOfText("Category",True,False)
+	DBUtils.AddFieldOfText("TypeOf",True,False)
+	DBUtils.AddFieldOfText("Key",True,False)
+	DBUtils.AddFieldOfText("Text",False,False)
+	DBUtils.AddFieldOfText("Value",False,False)	
+	DBUtils.AddFieldOfText("Contenteditable",False,False)
+	DBUtils.AddFieldOfText("contextmenu",False,False)
+	DBUtils.AddFieldOfText("draggable",False,False)
+	DBUtils.AddFieldOfText("dropzone",False,False)
+	DBUtils.AddFieldOfText("Hidden",False,False)
+	DBUtils.AddFieldOfInteger("ParentID",True,False)
+	DBUtils.AddFieldOfText("spellcheck",False,False)
+	DBUtils.AddFieldOfInteger("TabIndex",True,False)
+	DBUtils.AddFieldOfText("Name",True,False)
+	DBUtils.AddFieldOfInteger("Active",True,False)
+	DBUtils.AddFieldOfInteger("TextAfter",True,False)
+	DBUtils.AddFieldOfInteger("TextPropertyName",True,False)	
+	DBUtils.AddFieldOfText("WrapWith",False,False)	
+	DBUtils.CreateTableFromDefinition(InternalSQL)
+	'create the attributes table, these are linked to elements
+	DBUtils.InitializeNewTable("Attributes","id","id")
+	DBUtils.AddFieldOfInteger("ElementID",True,False)
+	DBUtils.AddFieldOfText("Attribute",True,False)
+	DBUtils.AddFieldOfText("Framework",True,False)
+	DBUtils.AddFieldOfText("DisplayName",True,False)
+	DBUtils.AddFieldOfInteger("Fixed",False,False)
+	DBUtils.AddFieldOfText("FieldType",False,False)
+	DBUtils.AddFieldOfText("DefaultValue",False,False)
+	DBUtils.AddFieldOfText("IsFile",False,False)
+	DBUtils.AddFieldOfText("MinRange",False,False)
+	DBUtils.AddFieldOfText("MaxRange",False,False)
+	DBUtils.AddFieldOfText("Description",False,False)
+	DBUtils.AddFieldOfText("List",False,False)
+	DBUtils.AddFieldOfText("Key",True,True)
+	DBUtils.AddFieldOfInteger("Active",True,False)
+	DBUtils.AddFieldOfInteger("Required",True,False)
+	DBUtils.CreateTableFromDefinition(InternalSQL)
+	'create the classes tables, these are linked to elements
+	DBUtils.InitializeNewTable("Classes","id","id")
+	DBUtils.AddFieldOfInteger("ElementID",True,False)
+	DBUtils.AddFieldOfText("Class",True,False)
+	DBUtils.AddFieldOfText("Framework",True,False)
+	DBUtils.AddFieldOfText("DisplayName",True,False)
+	DBUtils.AddFieldOfText("Description",False,False)
+	DBUtils.AddFieldOfText("Key",True,True)
+	DBUtils.AddFieldOfInteger("Fixed",False,False)
+	DBUtils.AddFieldOfText("List",False,False)
+	DBUtils.AddFieldOfInteger("Active",True,False)	
+	DBUtils.CreateTableFromDefinition(InternalSQL)
+	
+	'create tags
+	DBUtils.InitializeNewTable("Tags","id","id")
+	DBUtils.AddFieldOfInteger("id",True,True)
+	DBUtils.AddFieldOfText("Tag",True,True)
+	DBUtils.CreateTableFromDefinition(InternalSQL)
+	'create categories for elements
+	DBUtils.InitializeNewTable("Categories","id","id")
+	DBUtils.AddFieldOfInteger("id",True,True)
+	DBUtils.AddFieldOfText("Category",True,True)
+	DBUtils.CreateTableFromDefinition(InternalSQL)
+		
+	'create classes that could be useful in elements
+	DBUtils.InitializeNewTable("FrameworkClasses","id","id")
+	DBUtils.AddFieldOfText("ClassName",True,False)
+	DBUtils.AddFieldOfText("Class",True,False)
+	DBUtils.AddFieldOfInteger("Active",True,False)
+	DBUtils.AddFieldOfText("Framework",True,False)
+	DBUtils.AddFieldOfText("Category",True,False)
+	DBUtils.AddFieldOfText("List",False,False)
+	DBUtils.AddFieldOfText("Key",True,True) ' framework plus class
+	DBUtils.CreateTableFromDefinition(InternalSQL)
+	
+	'create devices
+	DBUtils.InitializeNewTable("Devices","id","id")
+	DBUtils.AddFieldOfText("ClassSize",True,False)
+	DBUtils.AddFieldOfText("Description",True,False)
+	DBUtils.AddFieldOfText("Framework",True,False)
+	DBUtils.AddFieldOfText("Key",True,False)
+	DBUtils.CreateTableFromDefinition(InternalSQL)
+	
+	'create logs
+	DBUtils.InitializeNewTable("Logs","id","id")
+	DBUtils.AddFieldOfText("DoneOn",True,False)
+	DBUtils.AddFieldOfText("Command",True,False)
+	DBUtils.CreateTableFromDefinition(InternalSQL)
+	
+	'create macros
+	DBUtils.InitializeNewTable("Macros","id","id")
+	DBUtils.AddFieldOfText("macro",True,False)
+	DBUtils.AddFieldOfText("key",True,True)
+	DBUtils.AddFieldOfText("framework",True,False)
+	DBUtils.addfieldoftext("Description",True,False)
+	DBUtils.AddFieldOfText("arguements",True,False)
+	DBUtils.AddFieldOfText("macrocode",True,False)
+	DBUtils.CreateTableFromDefinition(InternalSQL)
+End Sub
+
+'create a context menu for the treeview
+Sub ContextMenu_Build
+	treeCM.Initialize("cm")
+	Dim addMenu As List = jMash.CreateList(",","Add Div,Add U-nordered L-ist,Add LI-st Item,Add A-nchor")
+	For Each amenu As String In addMenu
+		Dim parentMenu As MenuItem
+		parentMenu.Initialize(amenu, "treecm")
+		treeCM.MenuItems.Add(parentMenu)
+	Next
+	'treeProject.ContextMenu = treeCM
+End Sub
+
+
+'detect which menu item was selected
+Sub treecm_Action
+   Dim mi As MenuItem = Sender
+   Log(mi.Text)
+End Sub
+
+Sub AppStart (Form1 As Form, Args() As String)
+	MainForm = Form1
+	awesome = fx.LoadFont(File.DirAssets,"fontawesome-webfont.ttf",20)
+	jMash.Initializekvs(File.DirApp, "oneevery.db")
+	MainForm.Initialize("frm", 1230, 610)
+	MainForm.RootPane.LoadLayout("vMain")
+	splitMain.LoadLayout("vProjectTree")
+	splitMain.LoadLayout("vParent")
+	splitMain.LoadLayout("vProperty")
+	splitMain.SetSizeLimits(0,300,300)
+	splitMain.SetSizeLimits(2,500,500)
+	jMash.MaximizeStage(MainForm)
+	MainForm.Stylesheets.Add(File.GetUri(File.DirAssets, "table.css"))
+	MainForm.Stylesheets.Add(File.GetUri(File.DirAssets, "listview.css"))
+	ContextMenu_Build
+	MainForm.Show
+	Dlg.Initialize
+	Dlg.SetParentWindow(MainForm)
+	'prepare creator database
+	Creator_Prepare
+	CLI.Initialize
+	MainForm.Title = "OneEvery"
+	MainForm.BackColor = fx.Colors.white
+	MainForm.Icon = fx.LoadImage(File.DirAssets, "seasons.png")
+	
+	File.MakeDir(File.DirApp, "Projects")
+	File.MakeDir(File.DirApp, "css")
+	File.MakeDir(File.DirApp, "js")
+	CreateStatusBar
+	'initialize images
+	appimg.Initialize(File.DirAssets,"app.png")
+	folderimg.Initialize(File.DirAssets,"folder.png")
+	pageimg.Initialize(File.DirAssets,"page_world.png")
+	publishimg.Initialize(File.DirAssets,"build.png")
+	appadd.Initialize(File.DirAssets,"application_add.png")
+	pageadd.Initialize(File.DirAssets,"html_add.png")
+	compimg.Initialize(File.dirassets,"brick.png")
+	elImg.Initialize(File.DirAssets,"tag.png")
+	tagImg.Initialize(File.DirAssets,"tag_blue.png")
+	addTag.Initialize(File.DirAssets,"tag_blue_add.png")
+	htmlImg.Initialize(File.DirAssets,"html.png")
+	frameImg.Initialize(File.DirAssets,"package.png")
+	frameAdd.Initialize(File.DirAssets,"package_add.png")
+	catimg.Initialize(File.DirAssets,"cmy.png")
+	attrImg.Initialize(File.DirAssets,"bricks.png")
+	classImg.Initialize(File.DirAssets,"css.png")
+	deviceimg.Initialize(File.DirAssets,"monitor.png")
+	threeimg.Initialize(File.DirAssets,"bullet.png")
+	cogImg.Initialize(File.DirAssets,"cog.png")
+	terminal.Initialize(File.DirAssets,"terminal.png")
+	scriptImg.Initialize(File.DirAssets,"script_link.png")
+	templatesImg.Initialize(File.DirAssets,"templates.png")
+	cogStart.Initialize(File.DirAssets,"cog_start.png")
+	scriptcog.Initialize(File.DirAssets,"script_gear.png")
+	InitializeTree
+	
+	'open the last project that the user was working on	
+	'open the last project
+	If jMash.ContainsKey("lastproject") Then
+		CLI.AppMap = jMash.GetObject("lastproject")
+		If CLI.AppMap.IsInitialized Then
+			App_Initialize
+			etvProject.SetPropertyBag(CLI.AppMap)
+			CLI.App_GetDetails
+			MainForm.Title = "OneEvery: " & CLI.AppName
+			App_OpenDB
+			jMash.WebViewLoadFile(CLI.App.wwwPath,"index.html",AppView)
+			'jMash.ShowHTML(CLI.App.wwwpath,"index.html",txtHTML)
+		End If
+	End If
+End Sub
+
+'Return true to allow the default exceptions handler to handle the uncaught exception.
+Sub Application_Error (Error As Exception, StackTrace As String) As Boolean
+	Return True
+End Sub
+
+'draw a pie of the app statistics
+Sub Creator_Grid
+	'hide the property bag
+	splitMain.SetSizeLimits(2,550,550)
+	LoadMiddleLayout("vTabPane")
+	AddTabLayout("vReport","Statistics")
+	LoadPropertyBagLayout("vEmptyPanel")
+	
+	Dim tFrameworks As Int = DBUtils.RecordCount(InternalSQL,"Frameworks","id")
+	Dim tCategories As Int = DBUtils.RecordCountQry(InternalSQL,"select count(*) from (select distinct category from elements)")
+	Dim tElements As Int = DBUtils.RecordCountQry(InternalSQL,"select count(id) from Elements where parentid = 0")
+	Dim tTags As Int = DBUtils.RecordCountQry(InternalSQL,"select count(*) from (select distinct typeof from elements)")
+	Dim tPages As Int = DBUtils.RecordCount(CLI.AppSQL,"Pages","id")
+	Dim tattr As Int = DBUtils.RecordCountQry(InternalSQL,"select count(*) from (select distinct attribute from attributes)")
+	Dim tclass As Int = DBUtils.RecordCountQry(InternalSQL,"select count(*) from (select distinct class from classes)")
+	Dim tdevices As Int = DBUtils.RecordCount(InternalSQL,"Devices","id")
+	
+	tblReport.ImagesFolder = ImagesFolder
+	tblReport.setparentform( MainForm)
+	tblReport.SetReportViewer
+	'set up the fields etc
+	tblReport.AddLabelProperty("Description","Description")
+	tblReport.AddLabelProperty("Total","Total")
+	tblReport.HasActions = False
+	tblReport.RefreshColumns
+	'add the records
+	Dim lstRecords As List
+	lstRecords.Initialize 
+	lstRecords.Add(CreateMap("Description":"Frameworks","Total":tFrameworks))
+	lstRecords.Add(CreateMap("Description":"Devices","Total":tdevices))
+	lstRecords.Add(CreateMap("Description":"Categories","Total":tCategories))
+	lstRecords.Add(CreateMap("Description":"Tags","Total":tTags))
+	lstRecords.Add(CreateMap("Description":"Styles","Total":tclass))
+	lstRecords.Add(CreateMap("Description":"Attributes","Total":tattr))
+	lstRecords.Add(CreateMap("Description":"Elements","Total":tElements))
+	lstRecords.Add(CreateMap("Description":"Pages","Total":tPages))
+	tblReport.AddRows(lstRecords,True)
+	'Creator_Pie(lstRecords)
+End Sub
+
+'create the pie chart
+'Sub Creator_Pie(records As List)
+'	PieChart.Initialize("PC")
+'	PieChart.Title = jMash.LongDateToday
+'	PieChart.LabelLineLength = 10
+'	pnlEmpty.AddNode(PieChart, 0,0,550,550)
+'	PieChart.Animated = True
+'	PieChart.RemoveAllData
+'	PieChart.LegendSide = PieChart.SIDE_TOP
+'	For Each rec As Map In records
+'		Dim desc As String = rec.GetDefault("Description","")
+'		Dim tot As String = rec.GetDefault("Total","")
+'		Dim pieSeries As PieData
+'		pieSeries.Initialize(desc,tot)
+'		PieChart.AddData(pieSeries)
+'	Next
+'End Sub
+
+'display the labels with values
+'Sub PC_TransformLabel(Text As String) As String
+'	Try
+'		'Displays the data value after the name
+'		Dim PosSpace As Int = Text.IndexOf(":")
+'		If PosSpace <> -1 Then
+'			Text = Text.SubString2(0, PosSpace)
+'		End If
+'		Dim Data As PieData = PieChart.GetData(Text)
+'		If Data.IsInitialized Then
+'			Return Data.Value & " " & Text
+'		Else
+'			Return Text
+'		End If
+'	Catch
+'		Log("PC_TransformLabel: " & LastException)
+'	End Try
+'End Sub
+
+Sub CLI_PropertyBag
+	splitElement.LoadLayout("vCode")
+	splitElement.loadlayout("vAppView")
+	'hide some buttons
+	Dim sw As Long = MainForm.width
+	Dim ea As Long = (sw / 2)
+	splitElement.SetSizeLimits(1,300,ea)
+	
+	LoadPropertyBagLayout("vTabElement")
+	tabElement.LoadLayout("vProject","Project")
+	
+	etvProject.ImagesFolder = ImagesFolder
+	etvProject.SetPropertyBagWidths(200,300)
+	'etvProject.Locked = True
+	etvProject.AddLabelProperty("Project Details","projectdetails")
+	etvProject.AddTextBoxProperty("App Name", "", "The WebApp Name without spaces", "AppName")
+	etvProject.AddTextBoxProperty("Site Title","","The title for the website","SiteTitle")
+	etvProject.AddTextBoxProperty("App ID", "com.", "The application id", "AppID")
+	etvProject.AddTextBoxProperty("Framework",CLI.Framework,"Framework","framework")
+	etvProject.AddTextBoxProperty("Version", "1.00","The version for the app","Version")
+	etvProject.AddTextBoxProperty("Author", "","The name of the author of this app","Author")
+	etvProject.AddTextBoxProperty("Website", "","The website link of this app","WebSite")
+	etvProject.AddTextBoxProperty("Email", "","The contact email address","Email")
+	etvProject.AddTextBoxProperty("Copyrights", "","The copyrights details of this app","Copyrights")
+	etvProject.AddCheckBoxProperty("UseFontAwesome","1","Use Font Awesome","UseFontAwesome")
+	etvProject.AddLabelProperty("Pages","pages")
+	etvProject.AddLabelProperty("Total Pages","pagecount")
+	etvProject.AddLabelProperty("Active Page","activepage")
+	etvProject.AddLabelProperty("Page Components","pagecomponents")
+	etvProject.AddLabelProperty("Active Element","activeelement")
+	
+	etvProject.HandleCrud = False
+	etvProject.setloading(False)
+	etvProject.SetPropertyBagWidths(150,300)
+	etvProject.SetPropertyBag(CLI.AppMap)
+	
+	PageName = jMash.GetSimple("active_page")
+	ActiveElement = jMash.GetSimple("active_element")
+	
+	Dim totPages As Int = DBUtils.RecordCount(CLI.appsql,"Pages","id")
+	Dim totcomp As Int = DBUtils.RecordCountQry(CLI.AppSQL,$"select count(id) from Components where PageName = '${PageName}'"$)
+	etvProject.SetProperty("pagecount",totPages)
+	etvProject.SetProperty("activepage",PageName)
+	etvProject.SetProperty("pagecomponents",totcomp)
+	etvProject.SetProperty("activeelement",ActiveElement)
+End Sub
+
+Sub CLI_Show
+	'add the vertical splitter
+	splitMain.SetSizeLimits(2,500,500)
+	LoadMiddleLayout("vTabPane")
+	AddTabLayout("vElementIT","Command Line Interface")
+	splitElement.LoadLayout("vCLI")
+	CLI_PropertyBag
+	'prepare publish
+	App_PreparePublish
+	'get the active page
+	If PageName <> "" Then Page_Preview(PageName)
+	txtCommand.RequestFocus
+	'refresh the macros
+	Macros_Load
+End Sub
+
+Sub CLI_Stats
+	PageName = jMash.GetSimple("active_page")
+	ActiveElement = jMash.GetSimple("active_element")
+	
+	Dim totPages As Int = DBUtils.RecordCount(CLI.appsql,"Pages","id")
+	Dim totcomp As Int = DBUtils.RecordCountQry(CLI.AppSQL,$"select count(id) from Components where PageName = '${PageName}'"$)
+	etvProject.SetProperty("pagecount",totPages)
+	etvProject.SetProperty("activepage",PageName)
+	etvProject.SetProperty("pagecomponents",totcomp)
+	etvProject.SetProperty("activeelement",ActiveElement)
+End Sub
+
+Sub Editor_Show
+	'add the vertical splitter
+	splitMain.SetSizeLimits(2,600,600)
+	LoadMiddleLayout("vTabPane")
+	AddTabLayout("vElementIT","PlayGround")
+	splitElement.LoadLayout("vEditor")
+	splitElement.loadlayout("vAppView")
+	'hide some buttons
+	Dim sw As Long = MainForm.width
+	Dim ea As Long = (sw / 2)
+	splitElement.SetSizeLimits(1,300,ea)
+	'property bag
+	LoadPropertyBagLayout("vTabElement")
+	tabElement.LoadLayout("vElementt","Element")
+	'show last saved text
+	txtHTMLSource.Text = jMash.GetSimple("lasteditor")
+End Sub
+
+Sub JavaScript_Show
+	'add the vertical splitter
+	'hide the property bag
+	splitMain.SetSizeLimits(2,5,5)
+	LoadMiddleLayout("vTabPane")
+	AddTabLayout("vElementIT","JavaScript")
+	splitElement.LoadLayout("vJQuery")
+	splitElement.loadlayout("vTranspile")
+	'hide some buttons
+	Dim sw As Long = MainForm.width
+	Dim ea As Long = (sw / 2)
+	splitElement.SetSizeLimits(1,300,ea)
+	'show last saved text
+	txtJQuery.Text = jMash.GetSimple("lastjquery")
+End Sub
+
+'build the element and show how it is defined
+Sub Editor_Preview(editorCode As String)
+	'create an empty page to preview this element
+	Dim pgSource As HTMLPage
+	pgSource.Initialize(CLI.App,"index")
+	pgSource.PageTitle = "Preview"
+	If CLI.SiteTitle <> "" Then
+		pgSource.PageTitle = "Preview | " & CLI.SiteTitle
+	End If
+	pgSource.AddContent(editorCode)
+	pgSource.build
+	jMash.WebViewLoadFile(CLI.App.wwwPath,"index.html",AppView)
+End Sub
+
+
+'show the grid of frameworks in the app
+Sub Frameworks_Grid
+	'hide the property bag
+	splitMain.SetSizeLimits(2,1,1)
+	LoadMiddleLayout("vTabPane")
+	AddTabLayout("vRecords","Frameworks")
+	LoadPropertyBagLayout("")
+	btnReIndexRecords.Visible = False
+	btnGenerateCode.Visible = False
+	btnRecordNames.Visible = False
+	btnToPage.Visible = False
+	etvRecords.ImagesFolder = ImagesFolder
+	etvRecords.setparentform(MainForm)
+	etvRecords.SetReportViewer
+	'set up the fields etc
+	etvRecords.PrimaryKey = "id"
+	etvRecords.SecondaryKey = "Framework"
+	etvRecords.FieldNames = "id,Framework,Abbreviation"
+	etvRecords.FieldWidths = "100,300,200"
+	etvRecords.FieldHeaders = "ID,Framework Name,Abbreviation"
+	etvRecords.FieldDefaults = $"-1,"","""$
+	etvRecords.FieldControls = "IsLabel,IsTextBox,IsTextBox"
+	etvRecords.FieldLists = $""","","""$
+	etvRecords.ShowUpdate = True
+	etvRecords.ShowDelete = True
+	etvRecords.DataSource = "Frameworks"
+	etvRecords.DataBase = File.Combine(File.DirApp,"creator.db")
+	etvRecords.TabIndex = ""
+	etvRecords.AlwaysTell = False
+	etvRecords.HandleCrud = True
+	etvRecords.CreateFromProperties
+	etvRecords.RefreshColumns
+	etvRecords.SQLQuery = "select * from frameworks order by framework desc"
+	etvRecords.LoadSQLData(Null)
+	lblTitle.Text = $"Frameworks: ${etvRecords.RecordCount+1}"$
+End Sub
+
+'show all the html tags
+Sub Tags_Grid
+	'hide the property bag
+	splitMain.SetSizeLimits(2,500,500)
+	LoadMiddleLayout("vTabPane")
+	AddTabLayout("vRecords","Tags")
+	LoadPropertyBagLayout("vLists")
+	btnGenerateCode.Visible = False
+	btnReIndexRecords.Visible = False
+	btnRecordNames.Visible = False
+	btnToPage.Visible = False
+	etvRecords.ImagesFolder = ImagesFolder
+	etvRecords.setparentform(MainForm)
+	etvRecords.SetReportViewer
+	'set up the fields etc
+	etvRecords.PrimaryKey = "id"
+	etvRecords.SecondaryKey = "Tag"
+	etvRecords.FieldNames = "id,Tag"
+	etvRecords.FieldWidths = "100,300"
+	etvRecords.FieldHeaders = "ID,Tag Name"
+	etvRecords.FieldDefaults = $"-1,"""$
+	etvRecords.FieldControls = "IsLabel,IsTextBox"
+	etvRecords.FieldLists = $""","""$
+	etvRecords.ShowUpdate = True
+	etvRecords.ShowDelete = True
+	etvRecords.DataSource = "Tags"
+	etvRecords.DataBase = File.Combine(File.DirApp,"creator.db")
+	etvRecords.TabIndex = ""
+	etvRecords.AlwaysTell = False
+	etvRecords.HandleCrud = True
+	etvRecords.CreateFromProperties
+	etvRecords.RefreshColumns
+	etvRecords.SQLQuery = "select * from tags order by tag desc"
+	etvRecords.LoadSQLData(Null)
+	lblTitle.Text = $"Tags: ${etvRecords.RecordCount+1}"$
+	'set tags list
+	Tags_List
+End Sub
+
+'show a grid of all the categories
+Sub Categories_Grid
+	'hide the property bag
+	splitMain.SetSizeLimits(2,500,500)
+	LoadMiddleLayout("vTabPane")
+	AddTabLayout("vRecords","Categories")
+	LoadPropertyBagLayout("vLists")
+	btnReIndexRecords.Visible = False
+	btnGenerateCode.Visible = False
+	btnRecordNames.Visible = False
+	btnToPage.Visible = False
+	etvRecords.ImagesFolder = ImagesFolder
+	etvRecords.SetParentForm(MainForm)
+	etvRecords.SetReportViewer
+	'set up the fields etc
+	etvRecords.PrimaryKey = "id"
+	etvRecords.SecondaryKey = "Category"
+	etvRecords.FieldNames = "id,Category"
+	etvRecords.FieldWidths = "100,300"
+	etvRecords.FieldHeaders = "ID,Category Name"
+	etvRecords.FieldDefaults = $"-1,"""$
+	etvRecords.FieldControls = "IsLabel,IsTextBox"
+	etvRecords.FieldLists = $""","""$
+	etvRecords.ShowUpdate = True
+	etvRecords.ShowDelete = True
+	etvRecords.DataSource = "Categories"
+	etvRecords.DataBase = File.Combine(File.DirApp,"creator.db")
+	etvRecords.TabIndex = ""
+	etvRecords.AlwaysTell = False
+	etvRecords.HandleCrud = True
+	etvRecords.CreateFromProperties
+	etvRecords.RefreshColumns
+	etvRecords.SQLQuery = "select * from Categories order by Category desc"
+	etvRecords.LoadSQLData(Null)
+	lblTitle.Text = $"Categories: ${etvRecords.RecordCount+1}"$
+	'set tags list
+	Categories_List
+End Sub
+
+'here you define the target database and table, the primary key and the field to write the list items to
+'the crud functionality will be handled outside the property bag
+'meaning: each retrieved value will be saved in the tag property with autoincrement id field
+Sub Categories_List
+	etvLists.ImagesFolder = ImagesFolder
+	etvLists.SetParentForm(MainForm)
+	etvLists.SetPropertyBagWidths(200,300)
+	etvLists.DataSource = "Categories"
+	etvLists.DataBase = File.Combine(File.DirApp,"creator.db")
+	etvLists.PrimaryKey = "id"
+	etvLists.SecondaryKey = "Category"
+	etvLists.HandleCrud = False   ' update/delete will be handles externally
+	etvLists.AddBiggerTextAreaProperty("Categories (Separated by comma)","","List of Categories to add","list")
+	etvLists.AddSaveButton
+End Sub
+
+
+'here you define the target database and table, the primary key and the field to write the list items to
+'the crud functionality will be handled outside the property bag
+'meaning: each retrieved value will be saved in the tag property with autoincrement id field
+Sub Tags_List
+	etvLists.ImagesFolder = ImagesFolder
+	etvLists.SetParentForm(MainForm)
+	etvLists.SetPropertyBagWidths(200,300)
+	etvLists.DataSource = "Tags"
+	etvLists.DataBase = File.Combine(File.DirApp,"creator.db")
+	etvLists.PrimaryKey = "id"
+	etvLists.SecondaryKey = "Tag"
+	etvLists.HandleCrud = False   ' update/delete will be handles externally
+	etvLists.AddBiggerTextAreaProperty("Tags (Separated by comma)","","List of tags to add","list")
+	etvLists.AddSaveButton
+End Sub
+
+'show the grid of pages in the app
+Sub Pages_Grid
+	'hide the property bag
+	splitMain.SetSizeLimits(2,1,1)
+	LoadMiddleLayout("vTabPane")
+	AddTabLayout("vRecords","Pages")
+	LoadPropertyBagLayout("")
+	btnGenerateCode.Visible = False
+	btnRecordNames.Visible = False
+	etvRecords.ImagesFolder = ImagesFolder
+	etvRecords.setparentform(MainForm)
+	etvRecords.SetReportViewer
+	'set up the fields etc
+	etvRecords.PrimaryKey = "id"
+	etvRecords.SecondaryKey = "PageName"
+	etvRecords.FieldNames = "id,PageName,Title,Description,TabIndex,Active"
+	etvRecords.FieldWidths = "100,200,200,300,150,150"
+	etvRecords.FieldHeaders = "ID,Page Name,Title,Description,Tab Index,Active"
+	etvRecords.FieldDefaults = $"-1,"","","","",1"$
+	etvRecords.FieldControls = "IsLabel,IsTextBox,IsTextBox,IsTextBox,IsTextBox,IsCheckBox"
+	etvRecords.FieldLists = $""","","","","","""$
+	etvRecords.ShowUpdate = True
+	etvRecords.ShowDelete = True
+	etvRecords.ShowMoveDown = True
+	etvRecords.ShowMoveUp = True
+	etvRecords.DataSource = "Pages"
+	etvRecords.DataBase = CLI.AppDB
+	etvRecords.TabIndex = "TabIndex"
+	etvRecords.AlwaysTell = False
+	etvRecords.HandleCrud = True
+	etvRecords.CreateFromProperties
+	etvRecords.RefreshColumns
+	etvRecords.SQLQuery = "select * from pages order by tabindex desc"
+	etvRecords.LoadSQLData(Null)
+	lblTitle.Text = $"Pages: ${etvRecords.RecordCount+1}"$
+End Sub
+
+'show the selected element from the elements grid
+Sub Elements_Show(id As String)
+	'read the element from the db
+	Dim lstTypes As List = DBUtils.ExecuteField(InternalSQL,"Tags","Tag",False,True)
+	Dim lstFrameworks As List = DBUtils.ExecuteField(InternalSQL,"Frameworks","Framework",False,True)
+	Dim lstCategory As List = DBUtils.ExecuteField(InternalSQL,"Categories","Category",False,True)
+	LoadPropertyBagLayout("vTabElement")
+	tabElement.LoadLayout("vElementt","Element")
+	tabElement.LoadLayout("vAttributes","Attributes")
+	tabElement.loadlayout("vClasses","Styles")
+	tabElement.LoadLayout("vCSS","CSS")
+	Attributes_Initialize
+	Classes_Initialize
+	CSS_Initialize
+	etvElement.ImagesFolder = ImagesFolder
+	etvElement.SetParentForm(MainForm)
+	etvElement.SetPropertyBagWidths(200,300)
+	'set up the fields etc
+	etvElement.PrimaryKey = "id"
+	etvElement.SecondaryKey = "Element"
+	etvElement.ReadOnly = etvElement.CreateList(",","id")
+	etvElement.AddTextBoxProperty("id","","ID","id")
+	etvElement.AddTextBoxProperty("Parent","0","Parent id of parent element","parentid")
+	etvElement.AddTextBoxProperty("TabIndex","0","Tab index for sorting","TabIndex")
+	etvElement.AddTextBoxProperty("Element ID","","Element ID","element")
+	etvElement.AddTextBoxProperty("Element Name","","Element Name","name")	
+	etvElement.AddComboBoxproperty("Instance","","Type","typeof",lstTypes,True)
+	etvElement.AddComboBoxProperty("Framework",CLI.Framework,"Framework","framework",lstFrameworks,True)
+	etvElement.AddComboBoxproperty("Category","","Category","category",lstCategory,False)
+	etvElement.AddTextBoxProperty("Text","","Text","text")
+	etvElement.AddTextBoxProperty("Text Property Name","","Text Property Name","Text Property Name")
+	etvElement.AddTextBoxProperty("Value","","Value","value")
+	etvElement.AddCheckBoxProperty("Active","1","Active","active")
+	etvElement.AddCheckBoxProperty("Text After","0","TextAfter","TextAfter")
+	etvElement.AddComboBoxproperty("Wrap With","","Wrap this element inside","WrapWith",etvElement.CreateList(",","div,ul,li"),True)
+	'add global attributes
+	etvElement.AddLabelProperty("Global Attributes","gbl")
+	etvElement.AddCheckBoxProperty("Content Editable","0","Allows you to make an element editable","Contenteditable")
+	etvElement.AddTextBoxProperty("Context Menu","","Associate this element with a menu element","contextmenu")
+	etvElement.AddCheckBoxProperty("Draggable","0","Whether you can drag this element","draggable")
+	etvElement.AddComboBoxproperty("Drop Zone","","What happens when an element is dropped on this element","dropzone",etvElement.CreateList(",",",copy,move,link"),True)
+	etvElement.AddCheckBoxProperty("Hidden","0","Hides an element","hidden")
+	etvElement.AddCheckBoxProperty("Spell Check","0","Whether the element needs its spelling /grammar checked","spellcheck")
+	
+	etvElement.ShowUpdate = True
+	etvElement.ShowDelete = True
+	etvElement.ShowAddChild = True
+	etvElement.ShowMoveDown = False
+	etvElement.ShowMoveUp = False
+	etvElement.ShowClone = False
+	etvElement.ParentID = "parentid"
+	etvElement.DataSource = "Elements"
+	etvElement.DataBase = File.Combine(File.DirApp,"creator.db")
+	etvElement.TabIndex = "TabIndex"
+	etvElement.AlwaysTell = False
+	etvElement.AddSaveDeleteButton
+	etvElement.HandleCrud = True
+	etvElement.SetLoading(False)
+	etvElement.SetRecord(id)
+	'load the attributes for this element
+	Attributes_Load(id)
+	Classes_Load(id)
+	CSS_Load(id)
+	'preview the element
+	Elements_Render(id)
+End Sub
+
+'load all the classes for the element
+Sub Classes_Load(id As String)
+	'clear any existing classes
+	classes.Load("[]",150,150)
+	If id = "" Or id = "-1" Then Return
+	'get the attributes for the element
+	Dim attr As List
+	attr.Initialize
+	attr = DBUtils.ExecuteMaps(InternalSQL,$"select * from Classes where ElementID = ${id}"$,Null)
+	'convert to json
+	Dim attrJSON As String = jMash.List2JSON(attr)
+	'load to the attributes editable tv
+	classes.Load(attrJSON,150,150)
+	classes.SetListViewSize(150,150)
+	classes.EditTV.SetPropertyBagWidths(150,200)
+End Sub
+
+'load css for the element
+Sub CSS_Load(id As String)
+	'clear any existing css attributes
+	css.Load("[]",150,150)
+	If id = "" Or id = "-1" Then Return
+	'get the attributes for the element
+	Dim attr As List
+	attr.Initialize
+	attr = DBUtils.ExecuteMaps(InternalSQL,$"select * from CSS where ElementID = ${id}"$,Null)
+	'convert to json
+	Dim attrJSON As String = jMash.List2JSON(attr)
+	'load to the attributes editable tv
+	css.Load(attrJSON,150,150)
+	css.SetListViewSize(150,150)
+	css.EditTV.SetPropertyBagWidths(150,200)
+End Sub
+
+'load all the attributes for the element
+Sub Attributes_Load(id As String)
+	'clear any existing attributes
+	attributes.Load("[]",150,150)
+	If id = "" Or id = "-1" Then Return
+	'get the attributes for the element
+	Dim attr As List
+	attr.Initialize 
+	attr = DBUtils.ExecuteMaps(InternalSQL,$"select * from Attributes where ElementID = ${id}"$,Null)
+	'convert to json
+	Dim attrJSON As String = jMash.List2JSON(attr)
+	'load to the attributes editable tv
+	attributes.Load(attrJSON,150,150)
+	attributes.SetListViewSize(150,150)
+	attributes.EditTV.SetPropertyBagWidths(150,200)
+End Sub
+
+'render the attributes for the selected element
+Sub Attributes_Add(iSQL As SQL,el As HTMLElement, id As String)
+	'clear any existing attributes
+	If id = "" Or id = "-1" Then Return
+	'get the attributes for the element
+	Dim attr As List
+	attr.Initialize 
+	attr = DBUtils.ExecuteMaps(iSQL,$"select * from Attributes where ElementID = ${id} and Active = 1"$,Null)
+	For Each attrm As Map In attr
+		Dim Attribute As String = attrm.GetDefault("attribute","")
+		Dim DefaultValue As String = attrm.GetDefault("defaultvalue","")
+		Dim IsFile As String = attrm.GetDefault("isfile","0")
+		If IsFile = "1" Then
+			If DefaultValue.StartsWith("http") Then
+			Else
+				DefaultValue = $"file:///${CLI.App.wwwPath.Replace("\","//")}//${DefaultValue.Replace("/","//")}"$
+			End If
+		End If
+		el.AddProperty(Attribute,DefaultValue)
+	Next
+End Sub
+
+'render the classes for the selected element
+Sub Classes_Add(iSQL As SQL,el As HTMLElement, id As String)
+	'clear any existing attributes
+	If id = "" Or id = "-1" Then Return
+	'get the attributes for the element
+	Dim attr As List
+	attr.Initialize 
+	attr = DBUtils.ExecuteMaps(iSQL,$"select Class from Classes where ElementID = ${id} and Active = 1"$,Null)
+	For Each attrm As Map In attr
+		Dim sClass As String = attrm.GetDefault("class","")
+		el.AddClass(sClass)
+	Next
+End Sub
+
+'render the css styles for the selected element
+Sub CSS_Add(el As HTMLElement, id As String)
+	'clear any existing attributes
+	If id = "" Or id = "-1" Then Return
+	'get the attributes for the element
+	Dim attr As List
+	attr.Initialize 
+	attr = DBUtils.ExecuteMaps(InternalSQL,$"select attribute,DefaultValue from CSS where ElementID = ${id} and Active = 1 and OnPage = 0"$,Null)
+	For Each attrm As Map In attr
+		Dim sClass As String = attrm.GetDefault("attribute","")
+		Dim sDefaultValue As String = attrm.GetDefault("defaultvalue","")
+		el.AddStyleAttribute(sClass,sDefaultValue)
+	Next
+End Sub
+
+'add style to page
+Sub Style_Add(el As HTMLElement, id As String)
+	'clear any existing attributes
+	If id = "" Or id = "-1" Then Return
+	'get the attributes for the element
+	Dim attr As List
+	attr.Initialize 
+	attr = DBUtils.ExecuteMaps(InternalSQL,$"select classname,attribute,DefaultValue,multiple from CSS where ElementID = ${id} and Active = 1 and OnPage = 1"$,Null)
+	For Each attrm As Map In attr
+		Dim classname As String = attrm.GetDefault("classname","")
+		Dim attribute As String = attrm.GetDefault("attribute","")
+		Dim DefaultValue As String = attrm.GetDefault("defaultvalue","")
+		Dim multiple As String = attrm.GetDefault("multiple","")
+		Dim nLine As String = $"${attribute}:${DefaultValue};"$
+		If multiple = "0" Then
+			el.AddCssRule(classname,nLine)
+		Else
+			el.addcssrule(classname,DefaultValue)
+		End If
+	Next
+End Sub
+
+private Sub CleanID(propTag As String) As String
+	'check if property does not exist
+	propTag = propTag.replace(".","").replace(" ","").Replace("null","").ToLowerCase.Trim
+	Return propTag
+End Sub
+
+'build the element and show how it is defined
+Sub Elements_Render(id As String)
+	'clear existing preview and source
+	AppView.LoadHtml("")
+	'jMash.CodeAreaSetText(txtHTML,"","1",False)
+	If id = "" Then Return
+	'prepare the app for publishing
+	App_PreparePublish
+	'read the element from database
+	Dim element As String = DBUtils.ReadField(InternalSQL,"Elements","id",id,"Element")
+	Dim source As String = Elements_Build(id)
+	'source = source.Replace(">",">" & CRLF)
+	'create an empty page to preview this element
+	Dim pgSource As HTMLPage
+	pgSource.Initialize(CLI.App,"index")
+	pgSource.PageTitle = element
+	If CLI.SiteTitle <> "" Then
+		pgSource.PageTitle = element & " | " & CLI.SiteTitle
+	End If
+	pgSource.AddContent(source)
+	Style_Add(pgSource.Style,id)
+	pgSource.build
+	'build the structure
+	source = jMash.HTML_TidyCode(source)
+	HTML_Structure
+	'jMash.CodeAreaSetText(txtHTML,source,"1",False)
+	jMash.WebViewLoadFile(CLI.App.wwwPath,"index.html",AppView)
+End Sub
+
+'preview the actual app page
+Sub Page_Preview(pgName As String)
+	'clear the code and preview
+	AppView.LoadHtml("")
+	jMash.CodeAreaSetText(txtHTML,"","1",False)
+	'build the page
+	wait for (Page_Build(pgName)) complete(Result As Boolean)
+	jMash.WebViewLoadFile(CLI.App.wwwPath,$"${pgName}.html"$,AppView)
+	jMash.ShowHTML(CLI.App.wwwpath,$"${pgName}.html"$,txtHTML)
+End Sub
+
+
+Sub Elements_Build(id As String) As String
+	If id = "" Then Return ""
+	Dim ElementMap As Map = DBUtils.ReadRecord(InternalSQL,"Elements","id",id)
+	If ElementMap.IsInitialized = False Then Return ""
+	Dim typeof As String = ElementMap.GetDefault("typeof","")
+	Dim text As String = ElementMap.GetDefault("text","")
+	Dim value As String = ElementMap.GetDefault("value","")
+	Dim Element As String = ElementMap.GetDefault("element","")
+	Dim contenteditable As String = ElementMap.GetDefault("contenteditable","0")
+	Dim contextmenu As String = ElementMap.GetDefault("contextmenu","")
+	Dim draggable As String = ElementMap.GetDefault("draggable","0")
+	Dim dropzone As String = ElementMap.GetDefault("dropzone","")
+	Dim sname As String = ElementMap.GetDefault("name","")
+	Dim spellcheck As String = ElementMap.GetDefault("spellcheck","0")
+	Dim textafter As String = ElementMap.GetDefault("textafter","0")
+	Dim wrapwith As String = ElementMap.GetDefault("wrapwith","")
+	If contenteditable = "1" Then contenteditable = "true"
+	If contenteditable = "0" Then contenteditable = "false"
+	If draggable = "0" Then draggable = "false"
+	If draggable = "1" Then draggable = "true"
+	If spellcheck = "1" Then spellcheck="true"
+	If spellcheck="0" Then spellcheck="false"
+	Dim eid As String = CleanID(Element)
+	'lets create the element
+	Dim El As HTMLElement
+	El.Initialize(eid,typeof)
+	El.TextAfter = IIf(textafter="0",False,True)
+	El.Text = text
+	If value <> "" Then El.SetVALUE(value)
+	'update global variables
+	If contenteditable = "true" Then El.SetContentEditable(contenteditable)
+	If contextmenu <> "" Then El.AddProperty("contextmenu",contextmenu)
+	If draggable = "true" Then El.SetDraggable(draggable)
+	If dropzone <> "" Then El.AddProperty("dropzone",dropzone)
+	If spellcheck="true" Then El.AddProperty("spellcheck",spellcheck)
+	If sname <> "" Then El.setname(sname)
+	
+	'add the attributes
+	Attributes_Add(InternalSQL,El,id)
+	'add the classes
+	Classes_Add(InternalSQL,El,id)
+	'add the css styles
+	CSS_Add(El,id)
+	'find other children
+	Dim sbChilds As StringBuilder
+	sbChilds.Initialize 
+	Dim childs As List = DBUtils.ExecuteMaps(InternalSQL,$"select * from Elements where parentid = ${id} and active = 1 order by tabindex"$,Null)
+	For Each childM As Map In childs
+		Dim childid As String = childM.GetDefault("id","")
+		sbChilds.Append(Elements_Build(childid))
+	Next
+	El.AddContent(sbChilds.ToString)
+	If wrapwith <> "" Then
+		Dim parentEL As HTMLElement
+		parentEL.Initialize("",wrapwith)
+		parentEL.AddElement(El)
+		Return parentEL.html
+	End If
+	Return El.html
+End Sub
+
+'build the components for the page
+Sub Components_Build(id As String) As String
+	If id = "" Then Return ""
+	Dim ElementMap As Map = DBUtils.ReadRecord(CLI.appsql,"Components","id",id)
+	If ElementMap.IsInitialized = False Then Return ""
+	Dim typeof As String = ElementMap.GetDefault("typeof","")
+	Dim text As String = ElementMap.GetDefault("text","")
+	Dim value As String = ElementMap.GetDefault("value","")
+	Dim Element As String = ElementMap.GetDefault("element","")
+	Dim sname As String = ElementMap.GetDefault("name","")
+	Dim textafter As String = ElementMap.GetDefault("textafter","0")
+	Dim eid As String = CleanID(Element)
+	'lets create the element
+	Dim El As HTMLElement
+	El.Initialize(eid,typeof)
+	El.TextAfter = iif(textafter="0",False,True)
+	El.Text = text
+	If value <> "" Then El.SetVALUE(value)
+	If sname <> "" Then El.setname(sname)
+	'update global variables
+	Attributes_Add(CLI.appsql,El,id)
+	'add the classes
+	Classes_Add(CLI.AppSQL,El,id)
+	'add the css styles
+	'CSS_Add(El,id)
+	'find other children
+	Dim sbChilds As StringBuilder
+	sbChilds.Initialize 
+	Dim childs As List = DBUtils.ExecuteField1(CLI.appsql,$"select id from Components where parentid = ${id} and Active = 1 order by tabindex"$,"id",False,True)
+	For Each childM As String In childs
+		sbChilds.Append(Components_Build(childM))
+	Next
+	El.AddContent(sbChilds.ToString)
+	Return El.html
+End Sub
+
+
+'initialize the classes property bag to add classes to an element
+Sub Classes_Initialize
+	classes.Setloading(True)
+	classes.SetParentForm(MainForm)
+	classes.SetSavePath("Class")
+	classes.PrimaryKey = "id"     'IMPORTANT
+	classes.SecondaryKey = "Class"
+	classes.setImagesFolder(ImagesFolder)
+	classes.AddTextBoxProperty("Id", "", "Unique sequence identifier", "id")
+	classes.AddComboBoxProperty("Framework",CLI.Framework,"Framework","Framework",DBUtils.ExecuteField(InternalSQL,"Frameworks","framework",False,True),True)
+	Dim lstFrameworks As List = DBUtils.ExecuteField(InternalSQL,"FrameworkClasses","Class",False,True)
+	classes.AddComboBoxProperty("Class","","Class Name","Class",lstFrameworks,True)
+	classes.AddTextBoxProperty("Display Name","","The name to display for this class","DisplayName")
+	classes.AddCheckBoxProperty("Fixed","0","If on, this class cannot be changed","fixed")
+	classes.AddCheckBoxProperty("Active","1","This class can be rendered","Active")
+	classes.AddTextAreaProperty("Description","","Description of this attribute","Description")
+	classes.AddTextAreaProperty("List","","List of values to select from","List")
+	classes.Setloading(False)
+	classes.SetListViewSize(150,150)
+	classes.EditTV.SetPropertyBagWidths(150,200)
+	classes.CRUDOnlyButtons
+End Sub
+
+'initialize the attributes property bag to add attributes to an element
+Sub Attributes_Initialize
+	attributes.Setloading(True)
+	attributes.SetParentForm(MainForm)
+	attributes.SetSavePath("Element")
+	attributes.PrimaryKey = "id"     'IMPORTANT
+	attributes.SecondaryKey = "Attribute"
+	attributes.setImagesFolder(ImagesFolder)
+	attributes.AddTextBoxProperty("Id", "", "Unique sequence identifier", "id")
+	attributes.AddComboBoxProperty("Framework",CLI.Framework,"Framework","Framework",DBUtils.ExecuteField(InternalSQL,"Frameworks","framework",False,True),True)
+	attributes.AddTextBoxProperty("Attribute", "", "Unique attribute identifier", "Attribute")
+	attributes.AddTextBoxProperty("Default Value","","Default value for this attribute","DefaultValue")
+	attributes.AddTextBoxProperty("Display Name","","The name to display for this attribute","DisplayName")
+	attributes.AddCheckBoxProperty("Fixed","0","If on, this attribute cannot be changed","fixed")
+	attributes.AddCheckBoxProperty("Active","1","This attribute can be rendered","Active")
+	Dim xl As List
+	xl = attributes.EditTV.CreateList(",","Boolean,String,Int,Color")
+	attributes.AddComboBoxProperty("Field Type","String","Type of field this is","FieldType",xl,True)
+	attributes.AddCheckBoxProperty("File","0","The default value is a file link","IsFile")
+	attributes.AddTextBoxProperty("MinRange","","Min Range for this attribute","MinRange")
+	attributes.AddTextBoxProperty("MaxRange","","Max Range for this attribute","MaxRange")
+	attributes.AddTextAreaProperty("Description","","Description of this attribute","Description")
+	attributes.AddTextAreaProperty("List","","List of values to select from","List")
+	attributes.Setloading(False)
+	attributes.SetListViewSize(150,150)
+	attributes.EditTV.SetPropertyBagWidths(150,200)
+	attributes.crudonlybuttons
+End Sub
+
+Sub CSS_Initialize
+	css.Setloading(True)
+	css.SetParentForm(MainForm)
+	css.SetSavePath("CSS")
+	css.PrimaryKey = "id"     'IMPORTANT
+	css.SecondaryKey = "classname"
+	css.setImagesFolder(ImagesFolder)
+	css.SetReadOnly(css.EditTV.CreateList(",","ElementID"))
+	css.AddTextBoxProperty("Id", "", "Unique sequence identifier", "id")
+	css.AddTextBoxProperty("Element", "", "Parent id for this css attribute", "ElementID")
+	css.AddComboBoxProperty("Framework",CLI.Framework,"Framework","Framework",DBUtils.ExecuteField(InternalSQL,"Frameworks","framework",False,True),True)
+	css.AddTextAreaProperty("Class Name","","Class name","classname")
+	css.AddTextBoxProperty("Attribute", "", "Unique attribute identifier", "Attribute")
+	css.AddTextAreaProperty("Default Value","","Default value for this attribute","DefaultValue")
+	css.AddCheckBoxProperty("Multiple Attributes","0","Has multiple attributes","Multiple")
+	css.AddTextBoxProperty("Display Name","","The name to display for this attribute","DisplayName")
+	css.AddCheckBoxProperty("Fixed","0","If on, this attribute cannot be changed","fixed")
+	css.AddCheckBoxProperty("Active","1","This attribute can be rendered","Active")
+	css.AddCheckBoxProperty("On Page","0","This is a page css class","OnPage")
+	css.AddTextAreaProperty("List","","List of values to select from","List")
+	css.Setloading(False)
+	css.SetListViewSize(150,150)
+	css.EditTV.SetPropertyBagWidths(150,200)
+	css.crudonlybuttons
+End Sub
+
+Sub Templates_Grid(sFramework As String)
+	'hide the property bag
+	splitMain.SetSizeLimits(2,2,2)
+	Dim lstTypes As List = DBUtils.ExecuteField(InternalSQL,"Tags","Tag",False,True)
+	Dim lstFrameworks As List = DBUtils.ExecuteField(InternalSQL,"Frameworks","framework",False,True)
+	'add the vertical splitter
+	LoadMiddleLayout("vTabPane")
+	AddTabLayout("vElementIT","Templates")
+	splitElement.LoadLayout("vTemplates")
+	splitElement.LoadLayout("vTemplatesAttributes")
+	splitElement.LoadLayout("vTemplatesClasses")
+	LoadPropertyBagLayout("")
+	Dim sw As Long = MainForm.width
+	Dim ea As Long = (sw / 2)
+	splitElement.SetSizeLimits(1,300,ea)
+	
+	etvTemplates.ImagesFolder = ImagesFolder
+	etvTemplates.setparentform(MainForm)
+	etvTemplates.SetReportViewer
+	'set up the fields etc
+	etvTemplates.PrimaryKey = "id"
+	etvTemplates.SecondaryKey = "Element"
+	etvTemplates.setreadonly("id")
+	etvTemplates.AddTextBoxProperty("ID","-1","ID","id")
+	etvTemplates.AddComboBoxProperty("Framework",CLI.Framework,"Framework","Framework",lstFrameworks,True)
+	etvTemplates.AddComboBoxProperty("Instance","","Instance of","Instance",lstTypes,True)
+	etvTemplates.AddTextBoxProperty("Display Name","","Display Name","DisplayName")
+	etvTemplates.SetWidth("id","50")
+	etvTemplates.SetWidth("Instance","300")
+	etvTemplates.SetWidth("DisplayName","200")
+	etvTemplates.SetWidth("Framework","200")
+	etvTemplates.ShowUpdate = True
+	etvTemplates.ShowDelete = True
+	etvTemplates.ShowMoveDown = False
+	etvTemplates.ShowMoveUp = False
+	etvTemplates.ShowClone = False
+	etvTemplates.ShowAddChild = False
+	etvTemplates.ShowWrap = False
+	etvTemplates.DataSource = "Templates"
+	etvTemplates.DataBase = File.Combine(File.DirApp,"creator.db")
+	etvTemplates.TabIndex = ""
+	etvTemplates.AlwaysTell = False
+	etvTemplates.HandleCrud = True
+	etvTemplates.RefreshColumns
+	etvTemplates.SQLQuery = $"select * from Templates where Framework = '${sFramework}' order by Instance desc"$
+	etvTemplates.LoadSQLData(Null)
+	lblTitle1.Text = $"Templates: ${etvTemplates.RecordCount+1}"$
+	TemplatesAttributes_Grid
+	TemplatesClasses_Grid
+End Sub
+
+Sub TemplatesAttributes_Grid
+	etvTemplatesAttributes.ImagesFolder = ImagesFolder
+	etvTemplatesAttributes.setparentform(MainForm)
+	etvTemplatesAttributes.SetReportViewer
+	etvTemplatesAttributes.PrimaryKey = "id"
+	etvTemplatesAttributes.SecondaryKey = "Attribute"
+	etvTemplatesAttributes.AddTextBoxProperty("Id", "", "Unique sequence identifier", "id")
+	etvTemplatesAttributes.AddTextBoxProperty("Parent","","Parent Template","parentkey")
+	etvTemplatesAttributes.AddTextBoxProperty("Attribute","","Attribute","Attribute")
+	etvTemplatesAttributes.AddTextBoxProperty("Display Name","","The name to display for this attribute","DisplayName")
+	etvTemplatesAttributes.AddCheckBoxProperty("Active","1","If on, this attribute can be rendered","active")
+	etvTemplatesAttributes.AddCheckBoxProperty("Required","0","If on, this attribute can be rendered","required")
+	etvTemplatesAttributes.AddCheckBoxProperty("Fixed","0","If on, this class cannot be changed","fixed")
+	etvTemplatesAttributes.AddCheckBoxProperty("File","0","The default value is a file link","IsFile")
+	etvTemplatesAttributes.AddTextBoxProperty("Default Value","","Default value for this attribute","DefaultValue")
+	Dim xl As List
+	xl = etvTemplatesAttributes.CreateList(",","Boolean,String,Int,Color")
+	etvTemplatesAttributes.AddComboBoxProperty("Field Type","String","Type of field this is","FieldType",xl,True)
+	'etvTemplatesAttributes.AddTextBoxProperty("Description","","Description of this attribute","Description")
+	etvTemplatesAttributes.AddTextBoxProperty("List","","List of values to select from","List")
+	etvTemplatesAttributes.SetWidth("id","50")
+	etvTemplatesAttributes.SetWidth("Attribute","150")
+	etvTemplatesAttributes.SetWidth("DefaultValue","200")
+	etvTemplatesAttributes.SetWidth("DisplayName","200")
+	etvTemplatesAttributes.SetWidth("Description","200")
+	etvTemplatesAttributes.SetWidth("FieldType","100")
+	etvTemplatesAttributes.SetWidth("List","200")
+	etvTemplatesAttributes.SetWidth("isfile","60")
+	etvTemplatesAttributes.SetWidth("fixed","60")
+	etvTemplatesAttributes.SetWidth("active","60")
+	etvTemplatesAttributes.SetWidth("required","70")
+	etvTemplatesAttributes.ShowUpdate = True
+	etvTemplatesAttributes.ShowDelete = True
+	etvTemplatesAttributes.ShowMoveDown = False
+	etvTemplatesAttributes.ShowMoveUp = False
+	etvTemplatesAttributes.ShowClone = False
+	etvTemplatesAttributes.ShowList = True
+	etvTemplatesAttributes.DataSource = "TemplatesAttributes"
+	etvTemplatesAttributes.DataBase = File.Combine(File.DirApp,"creator.db")
+	etvTemplatesAttributes.TabIndex = ""
+	etvTemplatesAttributes.AlwaysTell = False
+	etvTemplatesAttributes.HandleCrud = True
+	etvTemplatesAttributes.RefreshColumns
+End Sub
+
+Sub TemplatesClasses_Grid
+	etvTemplatesClasses.ImagesFolder = ImagesFolder
+	etvTemplatesClasses.setparentform(MainForm)
+	etvTemplatesClasses.SetReportViewer
+	etvTemplatesClasses.PrimaryKey = "id"
+	etvTemplatesClasses.SecondaryKey = "Class"
+	etvTemplatesClasses.AddTextBoxProperty("Id", "", "Unique sequence identifier", "id")
+	etvTemplatesClasses.AddTextBoxProperty("Parent","","Parent Template","parentkey")
+	etvTemplatesClasses.AddTextBoxProperty("Class","","Class","Class")
+	etvTemplatesClasses.AddTextBoxProperty("Display Name","","The name to display for this attribute","DisplayName")
+	etvTemplatesClasses.AddCheckBoxProperty("Active","1","If on, this attribute can be rendered","active")
+	etvTemplatesClasses.AddCheckBoxProperty("Required","0","If on, this attribute can be rendered","required")
+	etvTemplatesClasses.AddCheckBoxProperty("Fixed","0","If on, this class cannot be changed","fixed")
+	etvTemplatesClasses.AddCheckBoxProperty("File","0","The default value is a file link","IsFile")
+	'etvTemplatesClasses.AddTextBoxProperty("Default Value","","Default value for this attribute","DefaultValue")
+	Dim xl As List
+	xl = etvTemplatesClasses.CreateList(",","Boolean,String,Int,Color")
+	'etvTemplatesClasses.AddComboBoxProperty("Field Type","String","Type of field this is","FieldType",xl)
+	'etvTemplatesClasses.AddTextBoxProperty("Description","","Description of this attribute","Description")
+	etvTemplatesClasses.AddTextBoxProperty("List","","List of values to select from","List")
+	etvTemplatesClasses.SetWidth("id","50")
+	etvTemplatesClasses.SetWidth("Class","150")
+	'etvTemplatesClasses.SetWidth("DefaultValue","200")
+	etvTemplatesClasses.SetWidth("DisplayName","200")
+	etvTemplatesClasses.SetWidth("Description","200")
+	'etvTemplatesClasses.SetWidth("FieldType","100")
+	etvTemplatesClasses.SetWidth("List","200")
+	etvTemplatesClasses.SetWidth("isfile","60")
+	etvTemplatesClasses.SetWidth("fixed","60")
+	etvTemplatesClasses.SetWidth("active","60")
+	etvTemplatesClasses.SetWidth("required","70")
+	etvTemplatesClasses.ShowUpdate = True
+	etvTemplatesClasses.ShowDelete = True
+	etvTemplatesClasses.ShowMoveDown = False
+	etvTemplatesClasses.ShowMoveUp = False
+	etvTemplatesClasses.ShowClone = False
+	etvTemplatesClasses.ShowList = False
+	etvTemplatesClasses.DataSource = "TemplatesClasses"
+	etvTemplatesClasses.DataBase = File.Combine(File.DirApp,"creator.db")
+	etvTemplatesClasses.TabIndex = ""
+	etvTemplatesClasses.AlwaysTell = False
+	etvTemplatesClasses.HandleCrud = True
+	etvTemplatesClasses.RefreshColumns
+End Sub
+
+
+
+
+'show the grid of elements in the app
+Sub ElementAttributes_Grid(sCategory As String)
+	'hide the property bag
+	splitMain.SetSizeLimits(2,500,500)
+	Dim lstTypes As List
+	lstTypes.Initialize
+	DBUtils.ExecuteList(InternalSQL,"select distinct Tag from Tags order by Tag",Null,0,lstTypes)
+	Dim lstFrameworks As List
+	lstFrameworks.Initialize
+	DBUtils.ExecuteList(InternalSQL,"select distinct Framework from Frameworks order by Framework",Null,0,lstFrameworks)
+	Dim lstCategory As List
+	lstCategory.Initialize
+	DBUtils.ExecuteList(InternalSQL,"select distinct Category from Categories order by Category",Null,0,lstCategory)
+	'add the vertical splitter
+	LoadMiddleLayout("vElementIT")
+	splitElement.LoadLayout("vElementAttributes")
+	splitElement.LoadLayout("vRecords")
+	splitElement.LoadLayout("vElementClasses")
+	btnRecordNames.Visible = False
+	Dim sw As Long = MainForm.width
+	Dim ea As Long = (sw / 2)
+	splitElement.SetSizeLimits(1,300,ea)
+	btnGenerateCode.Visible = False
+	etvElemAttributes.ImagesFolder = ImagesFolder
+	etvElemAttributes.setparentform(MainForm)
+	etvElemAttributes.SetReportViewer
+	'set up the fields etc
+	etvElemAttributes.PrimaryKey = "id"
+	etvElemAttributes.SecondaryKey = "Element"
+	etvElemAttributes.SetReadOnly("id")
+	etvElemAttributes.AddTextBoxProperty("ID","-1","ID","id")
+	etvElemAttributes.AddTextBoxProperty("Parent","0","Parent id of parent element","ParentID")
+	etvElemAttributes.AddTextBoxProperty("TabIndex","0","Tab index for sorting","TabIndex")
+	etvElemAttributes.AddTextBoxProperty("Element ID","","Element ID","Element")
+	etvElemAttributes.AddTextBoxProperty("Element Name","","Element Name","Name")
+	etvElemAttributes.AddComboBoxProperty("Instance","","Type","TypeOf",lstTypes,True)
+	etvElemAttributes.AddTextBoxProperty("Text","","Text","Text")
+	'etvElemAttributes.AddTextBoxProperty("Value","","Value","Value")	
+	etvElemAttributes.AddCheckBoxProperty("Active","1","Active","active")
+	etvElemAttributes.AddCheckBoxProperty("Text After","0","TextAfter","TextAfter")
+	etvElemAttributes.AddComboBoxProperty("Framework",CLI.Framework,"Framework","Framework",lstFrameworks,True)
+	etvElemAttributes.AddComboBoxProperty("Category","","Category","Category",lstCategory,True)
+	etvElemAttributes.SetWidth("id","50")
+	etvElemAttributes.SetWidth("element","200")
+	etvElemAttributes.SetWidth("name","150")
+	etvElemAttributes.SetWidth("text","150")
+	etvElemAttributes.SetWidth("value","150")
+	etvElemAttributes.SetWidth("ParentID","60")
+	etvElemAttributes.SetWidth("TypeOf","100")
+	etvElemAttributes.SetWidth("TabIndex","100")
+	etvElemAttributes.SetWidth("Active","60")	
+	etvElemAttributes.SetWidth("TextAfter","60")
+	etvElemAttributes.ShowUpdate = True
+	etvElemAttributes.ShowDelete = True
+	etvElemAttributes.ShowMoveDown = True
+	etvElemAttributes.ShowMoveUp = True
+	etvElemAttributes.ShowClone = True
+	etvElemAttributes.ShowAddChild = True
+	etvElemAttributes.ShowWrap = True
+	etvElemAttributes.ParentID = "parentid"
+	etvElemAttributes.DataSource = "Elements"
+	etvElemAttributes.DataBase = File.Combine(File.DirApp,"creator.db")
+	etvElemAttributes.TabIndex = "TabIndex"
+	etvElemAttributes.AlwaysTell = False
+	etvElemAttributes.HandleCrud = True
+	etvElemAttributes.RefreshColumns
+	etvElemAttributes.SQLQuery = $"select * from Elements where category = '${sCategory}' order by element desc"$
+	etvElemAttributes.LoadSQLData(Null)
+	lblTitle1.Text = $"Elements: ${etvElemAttributes.RecordCount+1}"$
+	ElementAttributes_Grid1
+	ElementAttributes_Grid2
+	'load the html viewer
+	LoadPropertyBagLayout("vAppView")
+	btnToPage.Visible = False
+End Sub
+
+'initialize the attributes grid for the elements
+Sub ElementAttributes_Grid1
+	btnReIndexRecords.Visible = False
+	etvRecords.ImagesFolder = ImagesFolder
+	etvRecords.setparentform(MainForm)
+	etvRecords.SetReportViewer
+	etvRecords.PrimaryKey = "id"
+	etvRecords.SecondaryKey = "Attribute"
+	etvRecords.AddTextBoxProperty("Id", "", "Unique sequence identifier", "id")
+	etvRecords.AddTextBoxProperty("Parent","","Element ID","ElementID")
+	etvRecords.AddComboBoxProperty("Framework",CLI.Framework,"Framework","Framework",DBUtils.ExecuteField(InternalSQL,"Frameworks","framework",False,True),False)
+	etvRecords.AddTextBoxProperty("Attribute", "", "Unique attribute identifier", "Attribute")
+	etvRecords.AddTextBoxProperty("Default Value","","Default value for this attribute","DefaultValue")
+	etvRecords.AddTextBoxProperty("Display Name","","The name to display for this attribute","DisplayName")
+	etvRecords.AddCheckBoxProperty("Fixed","0","If on, this class cannot be changed","fixed")
+	etvRecords.AddCheckBoxProperty("Active","1","If on, this attribute can be rendered","active")
+	Dim xl As List
+	xl = etvRecords.CreateList(",","Boolean,String,Int,Color")
+	etvRecords.AddComboBoxProperty("Field Type","String","Type of field this is","FieldType",xl,False)	
+	etvRecords.AddCheckBoxProperty("File","0","The default value is a file link","IsFile")
+	'etvRecords.AddTextBoxProperty("MinRange","","Min Range for this attribute","MinRange")
+	'etvRecords.AddTextBoxProperty("MaxRange","","Max Range for this attribute","MaxRange")
+	etvRecords.AddTextBoxProperty("Description","","Description of this attribute","Description")
+	etvRecords.AddTextBoxProperty("List","","List of values to select from","List")
+	etvRecords.SetWidth("id","50")
+	etvRecords.SetWidth("elementid","50")
+	etvRecords.SetWidth("DefaultValue","200")
+	etvRecords.SetWidth("Description","200")
+	etvRecords.SetWidth("FieldType","100")
+	etvRecords.SetWidth("List","200")
+	etvRecords.SetWidth("fixed","100")
+	etvRecords.SetWidth("active","100")
+	etvRecords.ShowUpdate = True
+	etvRecords.ShowDelete = True
+	etvRecords.ShowMoveDown = False
+	etvRecords.ShowMoveUp = False
+	etvRecords.ShowClone = True
+	etvRecords.DataSource = "Attributes"
+	etvRecords.DataBase = File.Combine(File.DirApp,"creator.db")
+	etvRecords.TabIndex = ""
+	etvRecords.AlwaysTell = False
+	etvRecords.HandleCrud = True
+	etvRecords.RefreshColumns
+End Sub
+
+'initialize the classes grid for the element
+Sub ElementAttributes_Grid2
+	etvElementClasses.ImagesFolder = ImagesFolder
+	etvElementClasses.setparentform(MainForm)
+	etvElementClasses.SetReportViewer
+	etvElementClasses.PrimaryKey = "id"
+	etvElementClasses.SecondaryKey = "Class"
+	etvElementClasses.AddTextBoxProperty("Id", "", "Unique sequence identifier", "id")
+	etvElementClasses.AddTextBoxProperty("Parent","","Element ID","ElementID")
+	etvElementClasses.AddComboBoxProperty("Framework",CLI.Framework,"Framework","Framework",DBUtils.ExecuteField(InternalSQL,"Frameworks","framework",False,True),False)
+	Dim lstFrameworks As List
+	lstFrameworks.Initialize
+	DBUtils.ExecuteList(InternalSQL,"select distinct Class from FrameworkClasses order by class",Null,0,lstFrameworks)
+	etvElementClasses.AddComboBoxProperty("Class","","Class Name","Class",lstFrameworks,False)
+	etvElementClasses.AddTextBoxProperty("Display Name","","The name to display for this class","DisplayName")
+	etvElementClasses.AddCheckBoxProperty("Fixed","0","If on, this class cannot be changed","fixed")
+	etvElementClasses.AddCheckBoxProperty("Active","1","If on, this class can be rendered","active")
+	etvElementClasses.AddTextBoxProperty("Description","","Description of this attribute","Description")
+	etvElementClasses.AddTextBoxProperty("List","","List of values to select from","List")
+	etvElementClasses.SetWidth("id","50")
+	etvElementClasses.SetWidth("Class","150")
+	etvElementClasses.SetWidth("elementid","50")
+	etvElementClasses.SetWidth("DisplayName","150")
+	etvElementClasses.SetWidth("Description","200")
+	etvElementClasses.SetWidth("List","200")
+	etvElementClasses.SetWidth("fixed","100")
+	etvElementClasses.SetWidth("active","100")
+	etvElementClasses.ShowUpdate = True
+	etvElementClasses.ShowDelete = True
+	etvElementClasses.ShowMoveDown = False
+	etvElementClasses.ShowMoveUp = False
+	etvElementClasses.ShowClone = True
+	etvElementClasses.DataSource = "Classes"
+	etvElementClasses.DataBase = File.Combine(File.DirApp,"creator.db")
+	etvElementClasses.TabIndex = ""
+	etvElementClasses.AlwaysTell = False
+	etvElementClasses.HandleCrud = True
+	etvElementClasses.RefreshColumns
+End Sub
+
+'show the grid of elements in the app
+Sub Elements_Grid(sCategory As String)
+	'hide the property bag
+	splitMain.SetSizeLimits(2,550,550)
+	Dim lstTypes As List
+	lstTypes.Initialize 
+	DBUtils.ExecuteList(InternalSQL,"select distinct Tag from Tags order by Tag",Null,0,lstTypes)
+	Dim lstFrameworks As List
+	lstFrameworks.Initialize 
+	DBUtils.ExecuteList(InternalSQL,"select distinct Framework from Frameworks order by Framework",Null,0,lstFrameworks)
+	Dim lstCategory As List
+	lstCategory.Initialize
+	DBUtils.ExecuteList(InternalSQL,"select distinct Category from Categories order by Category",Null,0,lstCategory)
+	'add the vertical splitter
+	LoadMiddleLayout("vElementIT")
+	splitElement.LoadLayout("vRecords")
+	splitElement.LoadLayout("vHTML")
+	btnRecordNames.Visible = False
+	Dim sw As Long = MainForm.width
+	Dim ea As Long = (sw / 2)
+	splitElement.loadlayout("vAppView")
+	splitElement.SetSizeLimits(1,300,ea)
+	btnGenerateCode.Visible = False
+	'property bag
+	LoadPropertyBagLayout("vTabElement")
+	tabElement.LoadLayout("vElementt","Element")
+	etvRecords.ImagesFolder = ImagesFolder
+	etvRecords.setparentform(MainForm)
+	etvRecords.SetReportViewer
+	'set up the fields etc
+	etvRecords.PrimaryKey = "id"
+	etvRecords.SecondaryKey = "Element"
+	etvRecords.SetReadOnly("id")
+	etvRecords.AddTextBoxProperty("ID","-1","ID","id")
+	etvRecords.AddTextBoxProperty("Parent","0","Parent ID of parent element","ParentID")
+	etvRecords.AddTextBoxProperty("TabIndex","0","Tab index for sorting","TabIndex")
+	etvRecords.AddTextBoxProperty("Element ID","","Element ID","Element")
+	etvRecords.AddTextBoxProperty("Element Name","","Element Name","name")
+	etvRecords.AddComboBoxProperty("Instance","","Type","TypeOf",lstTypes,True)
+	etvRecords.AddTextBoxProperty("Text","","Text","text")
+	'etvRecords.AddTextBoxProperty("Value","","Text","value")
+	etvRecords.AddCheckBoxProperty("Active","1","Active","active")
+	etvRecords.AddCheckBoxProperty("Text After","0","TextAfter","TextAfter")
+	etvRecords.AddComboBoxProperty("Framework",CLI.Framework,"Framework","Framework",lstFrameworks,True)
+	etvRecords.AddComboBoxProperty("Category","","Category","Category",lstCategory,True)
+	etvRecords.SetWidth("id","50")
+	etvRecords.SetWidth("element","200")
+	etvRecords.SetWidth("ParentID","60")
+	etvRecords.SetWidth("TypeOf","100")
+	etvRecords.SetWidth("TabIndex","100")
+	etvRecords.SetWidth("Active","60")
+	etvRecords.SetWidth("TextAfter","60")
+	etvRecords.ShowUpdate = True
+	etvRecords.ShowDelete = True
+	etvRecords.ShowMoveDown = True
+	etvRecords.ShowMoveUp = True
+	etvRecords.ShowClone = True
+	etvRecords.ShowAddChild = True
+	etvRecords.ParentID = "parentid"
+	etvRecords.DataSource = "Elements"
+	etvRecords.ShowWrap = True
+	etvRecords.DataBase = File.Combine(File.DirApp,"creator.db")
+	etvRecords.TabIndex = "TabIndex"
+	etvRecords.AlwaysTell = False
+	etvRecords.HandleCrud = True
+	etvRecords.RefreshColumns
+	etvRecords.SQLQuery = $"select * from Elements where category = '${sCategory}' order by element desc"$
+	etvRecords.LoadSQLData(Null)
+	lblTitle.Text = $"Elements: ${etvRecords.RecordCount+1}"$
+End Sub
+
+Sub Devices_Grid()
+	'hide the property bag
+	splitMain.SetSizeLimits(2,5,5)
+	Dim lstFrameworks As List
+	lstFrameworks.Initialize
+	DBUtils.ExecuteList(InternalSQL,"select distinct Framework from Frameworks order by Framework",Null,0,lstFrameworks)
+	'add the vertical splitter
+	LoadMiddleLayout("vTabPane")
+	AddTabLayout("vRecords","Devices")
+	btnReIndexRecords.Visible = False
+	btnRecordNames.Visible = False
+	btnToPage.Visible = False
+	btnGenerateCode.Visible = False
+	etvRecords.ImagesFolder = ImagesFolder
+	etvRecords.setparentform(MainForm)
+	etvRecords.SetReportViewer
+	'set up the fields etc
+	etvRecords.PrimaryKey = "id"
+	etvRecords.SecondaryKey = "Description"
+	etvRecords.SetReadOnly("id")
+	etvRecords.AddTextBoxProperty("ID","-1","ID","id")
+	etvRecords.AddTextBoxProperty("Description","","Description","Description")
+	etvRecords.AddTextBoxProperty("ClassSize","","ClassSize","ClassSize")
+	etvRecords.AddComboBoxProperty("Framework",CLI.Framework,"Framework","Framework",lstFrameworks,True)
+	etvRecords.SetWidth("id","50")
+	etvRecords.SetWidth("Description","200")
+	etvRecords.SetWidth("Framework","200")
+	etvRecords.ShowUpdate = True
+	etvRecords.ShowDelete = True
+	etvRecords.ShowMoveDown = False
+	etvRecords.ShowMoveUp = False
+	etvRecords.ShowClone = True
+	etvRecords.DataSource = "Devices"
+	etvRecords.DataBase = File.Combine(File.DirApp,"creator.db")
+	etvRecords.TabIndex = ""
+	etvRecords.AlwaysTell = False
+	etvRecords.HandleCrud = True
+	etvRecords.RefreshColumns
+	etvRecords.SQLQuery = "select * from Devices order by Description desc"
+	etvRecords.LoadSQLData(Null)
+	lblTitle.Text = $"Devices: ${etvRecords.RecordCount+1}"$
+End Sub
+
+
+Sub StylesClasses_Grid(scategory As String)
+	'hide the property bag
+	splitMain.SetSizeLimits(2,500,500)
+	Dim lstFrameworks As List
+	lstFrameworks.Initialize 
+	DBUtils.ExecuteList(InternalSQL,"select distinct Framework from Frameworks order by Framework",Null,0,lstFrameworks)
+	'add the vertical splitter
+	LoadMiddleLayout("vTabPane")
+	AddTabLayout("vElementIT","Styles")
+	splitElement.LoadLayout("vRecords")
+	splitElement.loadlayout("vCode")
+	'hide some buttons
+	Dim sw As Long = MainForm.width
+	Dim ea As Long = (sw / 2)
+	splitElement.SetSizeLimits(1,300,ea)
+	
+	LoadPropertyBagLayout("vClassDefinition")
+	StylesDefinition_Initialize
+	btnReIndexRecords.Visible = False
+	btnToPage.Visible = False
+	etvRecords.ImagesFolder = ImagesFolder
+	etvRecords.setparentform(MainForm)
+	etvRecords.SetReportViewer
+	'set up the fields etc
+	etvRecords.PrimaryKey = "id"
+	etvRecords.SecondaryKey = "ClassName"
+	etvRecords.SetReadOnly("id")
+	etvRecords.AddTextBoxProperty("ID","-1","ID","id")
+	etvRecords.AddTextBoxProperty("Class Name","","Class Name","ClassName")
+	etvRecords.AddTextBoxProperty("Actual Class","","Actual Class","Class")
+	etvRecords.AddCheckBoxProperty("Active","1","Active","Active")
+	etvRecords.AddComboBoxProperty("Framework",CLI.Framework,"Framework","Framework",lstFrameworks,True)
+	etvRecords.AddTextBoxProperty("Category","","Category","Category")
+	etvRecords.SetWidth("id","50")
+	etvRecords.SetWidth("ClassName","200")
+	etvRecords.SetWidth("Class","200")
+	etvRecords.SetWidth("Framework","200")
+	etvRecords.ShowUpdate = True
+	etvRecords.ShowDelete = True
+	etvRecords.ShowMoveDown = False
+	etvRecords.ShowMoveUp = False
+	etvRecords.ShowClone = True
+	etvRecords.DataSource = "FrameworkClasses"
+	etvRecords.DataBase = File.Combine(File.DirApp,"creator.db")
+	etvRecords.TabIndex = ""
+	etvRecords.AlwaysTell = False
+	etvRecords.HandleCrud = True
+	etvRecords.RefreshColumns
+	etvRecords.SQLQuery = $"select * from FrameworkClasses where category = '${scategory}' order by ClassName desc"$
+	etvRecords.LoadSQLData(Null)
+	lblTitle.Text = $"Styles: ${etvRecords.RecordCount+1}"$
+End Sub
+
+Sub StylesDefinition_Initialize
+	etvClassDefinition.ImagesFolder = ImagesFolder
+	etvClassDefinition.SetPropertyBagWidths(200,300)
+	etvClassDefinition.AddTextBoxProperty("Class Prefix", "", "The prefix of the style", "StylePrefix")
+	etvClassDefinition.AddTextBoxProperty("Prefix Description", "", "The prefix of the style", "PrefixDescription")
+	etvClassDefinition.AddTextAreaProperty("Class Suffixes", "", "The comma separated suffixes to create", "Suffixes")
+	Dim lstFrameworks As List
+	lstFrameworks.Initialize
+	DBUtils.ExecuteList(InternalSQL,"select distinct Framework from Frameworks order by Framework",Null,0,lstFrameworks)
+	etvClassDefinition.AddComboBoxProperty("Framework",CLI.Framework,"Framework","framework",lstFrameworks,True)
+	etvClassDefinition.AddTextBoxProperty("Category","","Category of this style","Category")
+	etvClassDefinition.HandleCrud = False
+	etvClassDefinition.AddSavebutton
+	etvClassDefinition.Setloading(False)
+	'load last entry made
+	If jMash.ContainsKey("classdefinition") Then
+		Dim styleM As Map = jMash.GetObject("classdefinition")
+		etvClassDefinition.SetPropertyBag(styleM)
+	End If
+End Sub
+
+
+'add a page to the app
+Sub Page_Add
+	Page_Initialize
+	Dim np As Int = DBUtils.LastRecordID(CLI.AppSQL,"Pages","id")
+	np = np + 1
+	etvPage.SetProperty("tabindex",np)
+	etvPage.SetProperty("active","1")
+End Sub
+
+'open a page and show in the property bag
+Sub Page_Open(pgName As String)
+	Page_Initialize
+	PageMap = DBUtils.ReadRecord(CLI.AppSQL,"Pages","PageName",pgName)
+	If PageMap.IsInitialized = False Then Return
+	etvPage.SetPropertyBag(PageMap)
+	jMash.WebViewLoadFile(CLI.App.wwwPath,$"${pgName}.html"$,AppView)
+	jMash.ShowHTML(CLI.App.wwwpath,$"${pgName}.html"$,txtHTML)
+End Sub
+
+'reload pages to the tree
+Sub Pages_Reload
+	'clear the children
+	Pages.Children.clear
+	'add a new page link
+	Dim nPage As TreeItem
+	nPage.Initialize("treeProject","New Page")
+	nPage.Image = pageadd
+	nPage.Expanded = False
+	Pages.Children.Add(nPage)
+	Dim dbPages As List = DBUtils.ExecuteField(CLI.AppSQL,"Pages","pagename",False,True)
+	For Each strpage As String In dbPages
+		Dim nPage As TreeItem
+		nPage.Initialize("treeProject",strpage)
+		nPage.Image = htmlImg
+		nPage.Expanded = False
+		Pages.Children.Add(nPage)
+	Next
+End Sub
+
+Sub Templates_Load
+	'clear the children
+	templates.Children.clear
+	Dim temps As List = DBUtils.ExecuteField(InternalSQL,"Templates","Framework",False,True)
+	For Each strTemp As String In temps
+		Dim nPage As TreeItem
+		nPage.Initialize("treeProject",strTemp)
+		nPage.Image = templatesImg
+		nPage.Expanded = False
+		templates.Children.Add(nPage)
+	Next
+End Sub
+
+
+'reload pages to the tree
+Sub ElementsCategories_Reload(pItem As TreeItem)
+	'clear the children
+	pItem.Children.clear
+	Dim nPage As TreeItem
+	nPage.Initialize("treeProject","Div-Label-Input")
+	nPage.Image = threeimg
+	nPage.Expanded = True
+	pItem.Children.Add(nPage)
+	Dim lstFrames As List = DBUtils.ExecuteField(InternalSQL,"Elements","Framework",False,True) 
+	For Each strFrame As String In lstFrames
+		Dim nPage As TreeItem
+		nPage.Initialize("treeProject",strFrame)
+		nPage.Image = catimg
+		nPage.Expanded = True
+		pItem.Children.Add(nPage)
+		'get the elements belonging to this framework
+		Dim elments As List = DBUtils.ExecuteField1(InternalSQL,$"select distinct category from Elements where Framework = '${strFrame}' order by category"$,"category",False,True)
+		For Each strElement As String In elments
+			Dim nPage1 As TreeItem
+			nPage1.Initialize("treeProject",strElement)
+			nPage1.Image = catimg
+			nPage1.Expanded = False
+			nPage.Children.Add(nPage1)
+		Next
+	Next
+	
+	'Dim cats As List = DBUtils.ExecuteMaps(InternalSQL,"select category from elements group by category;",Null)
+	'For Each catM As Map In cats
+	'	Dim strcategory As String = catM.GetDefault("category","")
+	'	Dim nPage As TreeItem
+	'	nPage.Initialize("treeProject","Category." & strcategory)
+	'	nPage.Image = catimg
+	'	nPage.Expanded = False
+	'	pItem.Children.Add(nPage)
+	'Next
+End Sub
+
+'reload pages to the tree
+Sub StylesCategories_Reload(pItem As TreeItem)
+	'clear the children
+	pItem.Children.clear
+	Dim cats As List = DBUtils.ExecuteMaps(InternalSQL,"select category from FrameworkClasses group by category;",Null)
+	For Each catM As Map In cats
+		Dim strcategory As String = catM.GetDefault("category","")
+		Dim nPage As TreeItem
+		nPage.Initialize("treeProject",strcategory)
+		nPage.Image = catimg
+		nPage.Expanded = False
+		pItem.Children.Add(nPage)
+	Next
+End Sub
+
+
+'initialize the property bag for the page
+Sub Page_Initialize
+	splitMain.SetSizeLimits(2,500,500)
+	LoadMiddleLayout("vTabPane")
+	AddTabLayout("vAppView","Preview")
+	AddTabLayout("vHTML","HTML")
+	LoadPropertyBagLayout("vPage")
+	etvPage.ImagesFolder = ImagesFolder
+	etvPage.SetPropertyBagWidths(200,300)
+	etvPage.ReadOnly = jMash.CreateList(",","InitialPage")
+	etvPage.AddTextBoxProperty("PageName", "", "The name of the page", "PageName")
+	etvPage.AddTextBoxProperty("Title","","The page title","Title")
+	etvPage.AddTextAreaProperty("Description", "", "Description of the page", "Description")
+	etvPage.AddTextAreaProperty("Keywords","","Page keywords","Keywords")
+	etvPage.AddTextBoxProperty("TabIndex", "","The sort order for the page","TabIndex")
+	etvPage.AddCheckBoxProperty("Active", "0","The page is active / not","Active")
+	etvPage.AddSaveDeleteButton()
+	etvPage.HandleCrud = False
+	etvPage.setloading(False)
+End Sub
+
+'add a tab in the middle layout
+Sub AddTabLayout(vLayout As String, vCaption As String)
+	If vLayout = "" Then Return
+	tabs.LoadLayout(vLayout,vCaption)
+End Sub
+
+
+'initialize the application property bag
+Sub App_Initialize
+	splitMain.SetSizeLimits(2,600,600)
+	LoadMiddleLayout("vTabPane")
+	AddTabLayout("vAppView","Preview")
+	AddTabLayout("vHTML","HTML")
+	LoadPropertyBagLayout("vTabElement")
+	tabElement.LoadLayout("vProject","Project")
+	'tabElement.loadlayout("vCSSFiles","CSS Files")
+	'tabElement.LoadLayout("vJSFiles","JS Files")
+	'JSFiles_Initialize
+	'CSSFiles_Initialize
+	'tabs.LoadLayout("vAccessControl", "Access Control")
+	etvProject.ImagesFolder = ImagesFolder
+	etvProject.SetPropertyBagWidths(200,300)
+	etvProject.ReadOnly = jMash.CreateList(",","InitialPage")
+	etvProject.AddTextBoxProperty("App Name", "", "The WebApp Name without spaces", "AppName")
+	etvProject.AddTextBoxProperty("Site Title","","The title for the website","SiteTitle")
+	etvProject.AddTextBoxProperty("App ID", "com.", "The application id", "AppID")
+	Dim lstFrameworks As List
+	lstFrameworks.Initialize
+	DBUtils.ExecuteList(InternalSQL,"select distinct Framework from Frameworks order by Framework",Null,0,lstFrameworks)
+	etvProject.AddComboBoxProperty("Framework",CLI.Framework,"Framework","framework",lstFrameworks,True)
+	etvProject.AddTextBoxProperty("Version", "1.00","The version for the app","Version")
+	etvProject.AddTextBoxProperty("Author", "","The name of the author of this app","Author")
+	etvProject.AddTextBoxProperty("Website", "","The website link of this app","WebSite")
+	etvProject.AddTextBoxProperty("Email", "","The contact email address","Email")
+	etvProject.AddTextBoxProperty("Copyrights", "","The copyrights details of this app","Copyrights")
+	etvProject.AddCheckBoxProperty("UseFontAwesome","1","Use Font Awesome","UseFontAwesome")
+	etvProject.HandleCrud = False
+	'etvProject.AddTextBoxProperty("Server PHP Path", "","The php path where your PHP scripts reside","phppath")
+	'etvProject.AddComboBoxProperty("Database Type",  "SQLite", "Type of Database to use", "DatabaseType", modOneEvery.DBTypes)
+	'etvProject.AddLabelProperty1("MySQL Database Settings")
+	'etvProject.AddTextBoxProperty("MySql Server IP Address", "","The IP address of the server","serveripaddress")
+	'etvProject.AddFilePickerProperty("MySql Server Database", "","The name of the server database","serverdatabase")
+	'etvProject.AddTextBoxProperty("MySql Database Port", "3306","The database port","DatabasePort")
+	'etvProject.AddTextBoxProperty("MySql User Name", "","The username for the database","username")
+	'etvProject.AddTextBoxProperty("MySql Password", "","The password for the database","password")
+	'etvProject.addbutton("Verify Database Connection", "Verify Database Connection","","verifydatabase")
+	etvProject.AddSaveDeleteButton()
+	'etvProject.AddFileNameChooserProperty("Apple Touch Icon", "152.png", "Apple Touch Icon", "AppleTouchIcon")
+	'etvProject.AddComboBoxProperty("Apple Touch Icon Size", "152x152", "Apple Touch Icon Size", "AppleTouchIconSize", modABMaterial.IconSizes)
+	'etvProject.AddFileNameChooserProperty("MS Tile Icon", "144.png", "MS Tile Icon", "MSTileIcon")
+	'etvProject.AddComboBoxProperty("MS Tile Icon Size", "144x144", "MS Tile Icon Size", "MSTileIconSize", modABMaterial.IconSizes)
+	'etvProject.AddFileNameChooserProperty("Favority Icon", "32.png", "Favority Icon", "FavorityIcon")
+	'etvProject.AddComboBoxProperty("Favority Icon Size", "32x32", "Favority Icon Size", "FavorityIconSize", modABMaterial.IconSizes)
+	'etvProject.AddFileNameChooserProperty("Logo (236x49)", "", "Logo", "Logo")
+	'etvProject.setloading(False)
+	etvProject.setloading(False)
+	'letvAccessControl.setloading(False)
+	etvProject.SetPropertyBagWidths(150,300)
+End Sub
+
+'clear and load a middle section layout 
+Sub LoadMiddleLayout(vLayout As String)
+	pnlParent.RemoveAllNodes
+	If vLayout <> "" Then pnlParent.LoadLayout(vLayout)
+End Sub
+
+'clear and load the property bag layout
+Sub LoadPropertyBagLayout(vLayout As String)
+	pnlProperty.RemoveAllNodes
+	If vLayout <> "" Then pnlProperty.LoadLayout(vLayout)
+End Sub
+
+Sub etvProject_FileSelected (Property As String, Value As String)
+	
+End Sub
+
+'prepare the app for publishing
+Sub App_PreparePublish
+	CLI.AppMap = DBUtils.ReadRecord(CLI.AppSQL,"App","id","1")
+	If CLI.AppMap.IsInitialized = False Then
+		'save the app details
+		CLI.AppJSON = jMash.Map2Json(CLI.AppMap)
+		CLI.AppMap = CreateMap("id":1,"properties":CLI.AppJSON)
+		DBUtils.AddEditRecord(CLI.AppSQL,"App","id","1",CLI.AppMap)
+		CLI.AppMap = DBUtils.ReadRecord(CLI.AppSQL,"App","id","1")
+	End If
+	'read the properties field
+	CLI.AppJSON = CLI.AppMap.GetDefault("properties","")
+	CLI.AppMap = jMash.Json2Map(CLI.AppJSON)
+	CLI.App_GetDetails	
+	'initialize the app and prepare the folders
+	CLI.App.Initialize(CLI.AppName,CLI.AppID,CLI.Version)
+	CLI.App.Website = CLI.WebSite
+	CLI.App.Copyrights = CLI.Copyrights
+	CLI.App.Author = CLI.Author
+	CLI.App.Email = CLI.Email
+	CLI.App.SiteTitle = CLI.SiteTitle
+	'build each page
+	CLI.AppPath = CLI.App.AppPath
+	'copy the resources folder to the path
+	File.Copy(File.DirAssets,"resources.zip",CLI.App.wwwpath,"resources.zip")
+	'unzip the file
+	ac.UnZip(CLI.App.wwwPath,"resources.zip",CLI.App.wwwpath,"unzipweb")
+	'remove the file
+	File.Delete(CLI.App.wwwpath, "resources.zip")
+	'add the project appropriate css and js files
+	Dim cssFiles As List = DBUtils.ExecuteMaps(CLI.AppSQL,"select * from cssfiles where Active = 1 order by TabIndex",Null)
+	For Each cssmap As Map In cssFiles
+		Dim sfile As String = cssmap.GetDefault("file","")
+		CLI.App.AddCssFile($"css/${sfile}"$)
+		File.Copy(File.DirApp,$"css/${sfile}"$,CLI.App.FullCSSPath,sfile)
+	Next
+	Dim jsFiles As List = DBUtils.ExecuteMaps(CLI.AppSQL,"select * from JSFiles where Active = 1 order by TabIndex",Null)
+	For Each jsmap As Map In jsFiles
+		Dim sfile As String = jsmap.GetDefault("file","")
+		CLI.App.AddJavaScriptFile(sfile)
+		File.Copy(File.DirApp,$"js/${sfile}"$,CLI.App.FullJSPath,sfile)
+	Next
+	If CLI.UseFontAwesome = "1" Then CLI.App.AddFontAwesome
+End Sub
+
+'publish the app
+Sub App_Publish
+	If App_Check = False Then Return
+	App_OpenDB
+	App_PreparePublish
+	App_Pages
+	'open the page
+	CLI.App.open
+	jMash.InformUser(MainForm,CLI.AppName,"Your distribution website is located on " & CLI.App.wwwPath)
+End Sub
+
+'generate the pages for the app
+Sub App_Pages
+	Dim dbPages As List = DBUtils.ExecuteField1(CLI.AppSQL, "select PageName from pages where Active = 1","pagename",False,False)
+	For Each pgName As String In dbPages
+		wait for (Page_Build(pgName)) complete(Result As Boolean)
+	Next
+End Sub
+
+public Sub unzipweb_unzipdone(CompletedWithoutError As Boolean, NbOfFiles As Int)
+	Log(CompletedWithoutError)
+	Select Case NbOfFiles
+	Case -1
+		jMash.InformUserError(MainForm,"Resources Error","The web assets for the project COULD NOT be prepared at this time.")
+	Case Else
+		jMash.InformUser(MainForm,"Resources","The web assets for the project have been prepared and you are now ready to create the pages.")
+	End Select
+End Sub
+
+'read the app details from the database and disply in the property bag
+Sub App_Read
+	'read the project details
+	CLI.AppMap = DBUtils.ReadRecord(CLI.AppSQL,"App","id","1")
+	If CLI.AppMap.IsInitialized = False Then Return
+	'read the properties field
+	CLI.AppJSON = CLI.AppMap.GetDefault("properties","")
+	CLI.AppMap = jMash.Json2Map(CLI.AppJSON)
+	jMash.putobject("lastproject",CLI.AppMap)
+	CLI.App_GetDetails
+	'show the app properties
+	App_Initialize
+	etvProject.SetPropertyBag(CLI.AppMap)
+	'load the pages
+	MainForm.Title = "OneEvery: " & CLI.AppName
+	CLI.App.Initialize(CLI.AppName,CLI.AppID,CLI.Version)
+	jMash.WebViewLoadFile(CLI.App.wwwPath,"index.html",AppView)
+	'jMash.ShowHTML(CLI.App.wwwpath,"index.html",txtHTML)
+End Sub
+
+'as the user for an app db to open
+Sub App_Open
+	CLI.AppDB = jMash.OpenSaveFileDialog(MainForm,True,"Open App",File.DirApp & "\Projects",jMash.CreateList(",","*.db"))
+	If CLI.AppDB = "" Then Return
+	'ensure user has selected a database file
+	If CLI.AppDB.ToLowerCase.EndsWith(".db") Then
+		TreeClear
+		Dim dir As String = File.GetFileParent(CLI.AppDB)
+		Dim fil As String = File.GetName(CLI.AppDB)
+		CLI.AppSQL.InitializeSQLite(dir,fil,True)
+		CLI.AppSQL_Prepare
+		'read the project details
+		App_Read
+	Else
+		jMash.MsgBoxWarn(MainForm,"App Database","Please select an SQL db file with a .db extension!")
+		Return
+	End If
+End Sub
+
+'check the app details
+Sub App_Check As Boolean
+	If etvProject.IsInitialized = False Then Return False
+	CLI.AppMap = etvProject.GetPropertyBag
+	CLI.App_GetDetails
+	'verify if specified
+	If jMash.IsBlank1(MainForm,CLI.AppName,"App Name") = True Then Return False
+	If jMash.IsBlank1(MainForm,CLI.AppID,"App ID") = True Then Return False
+	If jMash.IsBlank1(MainForm,CLI.Version,"Version") = True Then Return False
+	Return True
+End Sub
+
+'open the appSQL database for this app
+Sub App_OpenDB
+	CLI.AppMap = etvProject.GetPropertyBag
+	CLI.App_GetDetails
+	If CLI.AppName = "" Then Return
+	'create the necessary folders
+	CLI.App.Initialize(CLI.AppName,CLI.AppID,CLI.Version)
+	CLI.AppPath = CLI.App.AppPath
+	'create the database for OneEvery
+	CLI.AppDB = CLI.AppPath & "\" & CLI.AppName & ".db"
+	'create it if necessary
+	CLI.AppSQL.InitializeSQLite("",CLI.AppDB,True)	
+	CLI.AppSQL_Prepare
+	File.MakeDir(CLI.AppPath,"Code")
+	CLI.CodePath = CLI.AppPath & "\Code"
+End Sub
+
+
+
+'save the app details, if new create an index page too
+Sub App_Save
+	If App_Check = False Then Return
+	App_OpenDB
+	'save the app details
+	CLI.AppJSON = jMash.Map2Json(CLI.AppMap)
+	Dim rec As Map = CreateMap("id":1,"properties":CLI.AppJSON)
+	DBUtils.AddEditRecord(CLI.AppSQL,"App","id","1",rec)
+	'do we have an index page
+	If DBUtils.RecordExists(CLI.AppSQL,"Pages","PageName","index") = False Then
+		Dim index As Map = CreateMap("PageName":"index","HtmlName":"index.html","Active":1,"Title":CLI.AppName,"Description":"Home Page", _
+		"TabIndex":1,"Keywords":CLI.AppName & ";index;home")
+		DBUtils.AddEditRecord(CLI.AppSQL,"Pages","PageName","index",index)
+	End If
+	CLI.AppMap = DBUtils.ReadRecord(CLI.AppSQL,"App","id","1")
+	CLI.App_GetDetails
+	CLI.App.Initialize(CLI.AppName,CLI.AppID,CLI.Version)
+	jMash.InformUser(MainForm,CLI.AppName,"App details have been saved.")
+End Sub
+
+'reload the contents on tab selection
+Sub tabs_TabChanged (SelectedTab As TabPage)
+	Select Case SelectedTab.Text
+	Case "Preview"
+		Dim lastView As String = AppView.Tag
+		If lastView = "" Then Return
+		'reload it
+		Dim dir As String = File.GetFileParent(lastView)
+		Dim fil As String = File.GetName(lastView)
+		jMash.WebViewLoadFile(dir,fil,AppView)
+	Case "HTML"
+		Dim lastView As String = txtHTML.Tag
+		If lastView = "" Then Return
+		'reload it
+		Dim dir As String = File.GetFileParent(lastView)
+		Dim fil As String = File.GetName(lastView)
+		jMash.ShowHTML(dir,fil,txtHTML)
+	End Select
+End Sub
+
+'load some stuff in the tree
+Sub InitializeTree
+	treeProject.Root.Children.clear
+	Dim cliTI As TreeItem
+	cliTI.Initialize("treeProject","CLI")
+	cliTI.Image = terminal
+	cliTI.Expanded = True
+	treeProject.Root.Children.Add(cliTI)
+	
+	Dim codeJS As TreeItem
+	codeJS.Initialize("treeProject","JavaScript")
+	codeJS.Image = scriptcog
+	codeJS.Expanded = True
+	treeProject.Root.Children.Add(codeJS)
+	
+	Macros.Initialize("treeProject","Macros")
+	Macros.Image = cogStart
+	cliTI.Children.Add(Macros)
+	
+	Dim appti As TreeItem
+	appti.Initialize("treeProject","App")
+	appti.Image = appimg
+	appti.Expanded = True
+	treeProject.Root.Children.Add(appti)
+	Dim nproject As TreeItem
+	nproject.Initialize("treeProject","New")
+	nproject.Image = appadd
+	nproject.Expanded = True
+	appti.Children.Add(nproject)
+	Dim oproject As TreeItem
+	oproject.Initialize("treeProject","Open")
+	oproject.Image = folderimg
+	oproject.Expanded = True
+	appti.Children.Add(oproject)
+	
+	Dim cssti As TreeItem
+	cssti.Initialize("treeProject","CSS Files")
+	cssti.Image = classImg
+	cssti.Expanded = True
+	appti.Children.Add(cssti)
+	
+	Dim jsti As TreeItem
+	jsti.Initialize("treeProject","JavaScript Files")
+	jsti.Image = scriptImg
+	jsti.Expanded = True
+	appti.Children.Add(jsti)
+	
+	
+	Pages.Initialize("treeProject","Pages")
+	Pages.Image = pageimg
+	Pages.Expanded = True
+	appti.Children.Add(Pages)
+	
+	Dim publishproject As TreeItem
+	publishproject.Initialize("treeProject","Publish")
+	publishproject.Image = publishimg
+	publishproject.Expanded = True
+	appti.Children.Add(publishproject)
+	
+	'Components
+	Dim builders As TreeItem
+	builders.Initialize("treeProject","Creator")
+	builders.Image = compimg
+	builders.Expanded = True
+	appti.Children.Add(builders)
+	
+	Frameworks.Initialize("treeProject","Frameworks")
+	Frameworks.Image = frameImg
+	Frameworks.Expanded = True
+	builders.Children.Add(Frameworks)
+	
+	'devices
+	devices.Initialize("treeProject","Devices")
+	devices.Image = deviceimg
+	devices.Expanded = True
+	builders.Children.Add(devices)
+	
+	
+	cogTI.Initialize("treeProject","PlayGround")
+	cogTI.Image = cogImg
+	cogTI.Expanded = True
+	builders.Children.Add(cogTI)
+
+	Categories.Initialize("treeProject","Categories")
+	Categories.Image = catimg
+	Categories.Expanded = True
+	builders.Children.Add(Categories)
+
+	
+	
+	classTI.Initialize("treeProject","Styles")
+	classTI.Image = classImg
+	classTI.Expanded = True
+	builders.Children.Add(classTI)
+	
+	Tags.Initialize("treeProject","Tags")
+	Tags.Image = tagImg
+	Tags.Expanded = True
+	builders.Children.Add(Tags)
+	
+	
+	templates.Initialize("treeProject","Templates")
+	templates.Image = templatesImg
+	templates.Expanded = True
+	builders.Children.Add(templates)
+
+	
+	attrTI.Initialize("treeProject","Attributes")
+	attrTI.Image = attrImg
+	attrTI.Expanded = True
+	builders.Children.Add(attrTI)
+	
+	Elements.Initialize("treeProject","Elements")
+	Elements.Image = elImg
+	Elements.Expanded = True
+	builders.Children.Add(Elements)
+End Sub
+
+Sub CreateStatusBar
+	'add the status bar at the bottom
+	StatusBar1.Text = "Conceptualized, Designed and Developed by Anele 'Mashy' Mbanga - anele@mbangas.com"
+	'StatusBar1.Progress = 0.5
+	'btnPreview.Initialize("btnPreview")
+	'btnPreview.Text = "Preview Source Code"
+	'btnPreview.Enabled = False
+	
+	btnPocketReference.Initialize("btnPocketReference")
+	btnPocketReference.font = awesome
+	btnPocketReference.TooltipText = "OneEvery Help"
+	btnPocketReference.Enabled = True
+	btnPocketReference.Text = Chr(0xF1C1)
+		
+	btnCopySC.Initialize("btnCopySC")
+	btnCopySC.font = awesome
+	btnCopySC.TooltipText = "Copy source code to clipboard"
+	btnCopySC.Enabled = True
+	btnCopySC.Text = Chr(0xF0C5)
+	
+	btnSnap.Initialize("btnSnap")
+	btnSnap.Text = "Snap"
+	btnSnap.Enabled = True
+	btnSnap.Font = awesome
+	btnSnap.TooltipText = "Take a photo of the screen"
+	btnSnap.text = ""
+	
+	btnPrint.Initialize("btnPrint")
+	btnPrint.Text = "Print"
+	btnPrint.TooltipText = "Print property sheet"
+	btnPrint.Enabled = True
+	btnPrint.Font = awesome
+	btnPrint.Text = ""
+     
+	'Dim sep1 As Separator
+	'sep1.Initialize("")
+	StatusBar1.RightItems.AddAll(Array(btnCopySC,btnPrint,btnSnap,btnPocketReference))
+End Sub
+
+'save the page to the database and update the htmlname
+Sub Page_Save
+	PageMap = etvPage.GetPropertyBag
+	PageName = PageMap.GetDefault("pagename","")
+	PageMap.Put("htmlname",$"${PageName}.html"$)
+	If jMash.IsBlank1(MainForm,PageName,"Page Name") = True Then Return
+	DBUtils.AddEditRecord(CLI.AppSQL,"Pages","PageName",PageName,PageMap)
+	jMash.InformUser(MainForm,PageName,"The page details have been saved.")
+	wait for (CLI.ExecuteCommand(MainForm,$"serve_page ${PageName}"$)) complete(Result As Boolean)
+	'Pages_Reload
+End Sub
+
+
+'save the project
+Sub etvProject_Update (RowIndex As Int, Value As Map)
+	App_Save
+End Sub
+
+'delete the project
+Sub etvProject_Delete (RowIndex As Int, Value As Map)
+	
+End Sub
+
+'save the page
+Sub etvPage_Update (RowIndex As Int, Value As Map)
+	Page_Save
+End Sub
+
+'delete the page
+Sub etvPage_Delete (RowIndex As Int, Value As Map)
+	
+End Sub
+
+'universal records
+Sub etvRecords_Update (RowIndex As Int, Value As Map)
+	Select Case etvRecords.DataSource
+	Case "CSSFiles"
+		Dim id As String = Value.GetDefault("id","")
+		Dim sfile As String = Value.GetDefault("file","")
+		If File.Exists("",sfile) Then
+			'copy the file
+			File.Copy(File.GetFileParent(sfile),File.GetName(sfile),File.DirApp & "\css",File.GetName(sfile))
+			sfile = File.GetName(sfile)
+			Value.Put("file", sfile)
+			DBUtils.AddEditRecord(CLI.AppSQL,"CSSFiles","id",id,Value)
+			etvRecords.UpdateRow(RowIndex,Value) 
+		End If
+	Case "JSFiles"
+		Dim id As String = Value.GetDefault("id","")
+		Dim sfile As String = Value.GetDefault("file","")
+		If File.Exists("",sfile) Then
+			'copy the file
+			File.Copy(File.GetFileParent(sfile),File.GetName(sfile),File.DirApp & "\js",File.GetName(sfile))
+			sfile = File.GetName(sfile)
+			Value.Put("file", sfile)
+			DBUtils.AddEditRecord(CLI.AppSQL,"JSFiles","id",id,Value)
+			etvRecords.UpdateRow(RowIndex,Value)
+		End If
+	Case "Frameworks"
+	Case "Pages"
+		Dim id As String = Value.GetDefault("id","")
+		'get the page name
+		PageName = Value.GetDefault("pagename","")
+		Value.Put("htmlname",$"${PageName}.html"$)
+		DBUtils.AddEditRecord(CLI.AppSQL,"Pages","id",id,Value)
+		Pages_Reload
+	Case "Elements"
+		Dim id As String = Value.GetDefault("id","")
+		'show the preview of the element
+		Elements_Show(id)
+		'update the category and tags if these dont exist
+		Dim category As String = Value.GetDefault("category","")
+		Dim typeof As String = Value.GetDefault("typeof","")
+		Dim sframework As String = Value.GetDefault("framework","")
+		If category <> "" Then
+			Dim flds As Map = CreateMap("Category":category)
+			DBUtils.AddEditRecord(InternalSQL,"Categories","Category",category,flds)
+		End If
+		If typeof <> "" Then
+			Dim flds As Map = CreateMap("Tag":typeof)
+			DBUtils.AddEditRecord(InternalSQL,"Tags","Tag",typeof,flds)
+		End If
+		'set the default framework and category when we add new records
+		etvRecords.SetDefault("framework",sframework)
+		etvRecords.SetDefault("category",category)
+	Case "Attributes"
+		'update the key field
+		Dim id As String = Value.GetDefault("id","")
+		Dim sElementID As String = Value.GetDefault("elementid","")
+		Dim sAttribute As String = Value.GetDefault("attribute","")
+		Dim sKey As String = $"${sElementID}.${sAttribute}"$
+		'update the database
+		DBUtils.RecordUpdateField(InternalSQL,"Attributes","Key",sKey,"id",id)
+		Elements_Render(sElementID)
+	Case "FrameworkClasses"
+		'save the framework and the category
+		Dim id As String = Value.GetDefault("id","")
+		'update the category and tags if these dont exist
+		Dim category As String = Value.GetDefault("category","")
+		Dim sClass As String = Value.GetDefault("class","")
+		Dim sframework As String = Value.GetDefault("framework","")
+		'update the key of this class so that we dont have duplicates
+		Dim sKey As String = $"${sframework}.${sClass}"$
+		Dim flds As Map = CreateMap("key":sKey)
+		DBUtils.AddEditRecord(InternalSQL,"FrameworkClasses","id",id,flds)
+		'set the default framework and category when we add new records
+		etvRecords.SetDefault("framework",sframework)
+		etvRecords.SetDefault("category",category)
+	Case "Devices"
+		'update the key with framework & size
+		Dim id As String = Value.GetDefault("id","")
+		Dim sClassSize As String = Value.GetDefault("classsize","")
+		'update the category and tags if these dont exist
+		Dim sframework As String = Value.GetDefault("framework","")
+		'update the key of this class so that we dont have duplicates
+		Dim sKey As String = $"${sframework}.${sClassSize}"$
+		Dim flds As Map = CreateMap("key":sKey)
+		DBUtils.AddEditRecord(InternalSQL,"Devices","id",id,flds)
+		'set the default framework and category when we add new records
+		etvRecords.SetDefault("framework",sframework)
+	End Select
+End Sub
+
+Sub ElementsChildren_Clone(oldid As String, id As String)
+	'get the children belonging to this element
+	Dim childs As List = DBUtils.ExecuteMaps(InternalSQL,$"select * from elements where parentid = ${oldid}"$,Null)
+	For Each rowMap As Map In childs
+		Dim secKey As String = rowMap.GetDefault("element","")
+		Dim childid As String = rowMap.GetDefault("id","")
+		secKey = "Child of " & secKey
+		'read the record from the database
+		rowMap.Put("element",secKey)
+		rowMap.Put("parentid",id)
+		rowMap.remove("id")
+		'create a new child record
+		rowMap = DBUtils.AddReadRecord(InternalSQL,"Elements",rowMap)
+		'the record was added well
+		If rowMap.IsInitialized Then
+			'get the new child id
+			Dim newchildid As String = rowMap.GetDefault("id","")
+			ElementsProperties_Clone(childid,newchildid)
+			'second level
+			ElementsChildren_Clone(childid,newchildid)
+		End If
+	Next
+End Sub
+
+'copy the element properties from old to new
+Sub ElementsProperties_Clone(oldid As String, id As String)
+	'copy attributes and classes for the element to new element
+	Dim crecs As List = DBUtils.ExecuteMaps(InternalSQL,$"select * from Classes where ElementID = ${oldid}"$,Null)
+	Dim arecs As List = DBUtils.executemaps(InternalSQL,$"select * from Attributes where ElementID = ${oldid}"$,Null)
+	'declare insert list
+	Dim attrn As List
+	attrn.Initialize
+	For Each attrm As Map In arecs
+		'get the attribute name
+		Dim sAttribute As String = attrm.GetDefault("attribute","")
+		'define the new key
+		Dim sKey As String = $"${id}.${sAttribute}"$
+		'remove the id field
+		attrm.Remove("id")
+		'update the element id
+		attrm.Put("elementid",id)
+		'update the new key
+		attrm.Put("key",sKey)
+		'add to records we will insert
+		attrn.Add(attrm)
+	Next
+	'update the database
+	DBUtils.InsertMaps(InternalSQL,"Attributes",attrn,False)
+	'***** process the classes
+	'declare insert list
+	Dim cttrn As List
+	cttrn.Initialize
+	For Each classm As Map In crecs
+		'get the class name
+		Dim sClass As String = classm.GetDefault("class","")
+		'define the new key
+		Dim sKey As String = $"${id}.${sClass}"$
+		'remove the id field
+		classm.Remove("id")
+		'update the element id
+		classm.Put("elementid",id)
+		'update the new key
+		classm.Put("key",sKey)
+		'add to records we will insert
+		cttrn.Add(classm)
+	Next
+	'update the database
+	DBUtils.InsertMaps(InternalSQL,"Classes",cttrn,False)
+End Sub
+
+Sub etvRecords_Clone (RowIndex As Int, Value As Map)
+	'get the old id
+	Dim oldid As String = Value.getdefault("oldid9999","")
+	'get the new id
+	Dim id As String = Value.GetDefault("id","")
+	Dim cat As String = Value.GetDefault("category","")
+	'remove oldid
+	Value.Remove("oldid9999")
+	Select Case etvRecords.datasource
+	Case "Attributes"
+		'update the key field
+		Dim id As String = Value.GetDefault("id","")
+		Dim sElementID As String = Value.GetDefault("elementid","")
+		Dim sAttribute As String = Value.GetDefault("attribute","")
+		Dim sKey As String = $"${sElementID}.${sAttribute}"$
+		'update the database
+		DBUtils.RecordUpdateField(InternalSQL,"Attributes","Key",sKey,"id",id)
+	Case "Elements"
+		ElementsProperties_Clone(oldid,id)
+		'close the kids
+		ElementsChildren_Clone(oldid,id)
+		Elements_Grid(cat)
+		'show the selected element
+		Elements_Show(id)
+	End Select
+End Sub
+
+'universal records delete
+Sub etvRecords_Delete (RowIndex As Int, Value As Map)
+	Select Case etvRecords.DataSource
+	Case "Frameworks"
+	Case "Pages"
+		Pages_Reload
+	Case "Elements"
+		'clear the property bag
+		Dim id As String = Value.GetDefault("id","")
+		Dim cat As String = Value.getdefault("category","")
+		Element_Delete(id)
+		Elements_Grid(cat)
+		'show the selected element
+		Elements_Show("")
+	End Select
+End Sub
+
+'universal record tab indexer
+Sub btnReIndexRecords_Click
+	etvRecords.ReOrder
+End Sub
+
+'universal new record manager
+Sub btnNewRecord_Click
+	etvRecords.AddNewRow
+End Sub
+
+'create lists, this is a universal list handler
+'to write to the correct database table
+Sub etvLists_Update (RowIndex As Int, Value As Map)
+	'get the proparty bag
+	Dim records As Map = etvLists.GetPropertyBag
+	Dim DataBase As String  = etvLists.DataBase
+	Dim DataSource As String = etvLists.DataSource
+	Dim PrimaryKey As String = etvLists.PrimaryKey
+	Dim SecondaryKey As String = etvLists.SecondaryKey
+	Dim dir As String
+	Dim fil As String
+	
+	Dim lstJSON As String = records.GetDefault("list","")
+	If lstJSON = "" Then Return
+	If DataBase <> "" And PrimaryKey <> "" And SecondaryKey <> "" Then
+		dir = File.GetFileParent(DataBase)
+		fil = File.GetName(DataBase)
+		InternalSQL.InitializeSQLite(dir,fil,True)
+		Dim spRecords() As String = jMash.StrParse(",",lstJSON)
+		For Each strRecord As String In spRecords
+			strRecord = strRecord.Trim.Replace(QUOTE,"").Replace("_","")
+			strRecord = strRecord.Replace(TAB,"")
+			If strRecord <> "" Then
+				Dim nRecord As Map
+				nRecord.initialize
+				nRecord.Put(SecondaryKey,strRecord)
+				DBUtils.AddEditRecord(InternalSQL,DataSource,SecondaryKey,strRecord,nRecord)
+				Sleep(1)
+			End If
+		Next
+	End If
+	Select Case DataSource
+	Case "Tags"
+		Tags_Grid
+	Case "Categories"
+		Categories_Grid
+	End Select
+End Sub
+
+'when a record is selected, update the property bag
+Sub etvRecords_SelectedRow (RowIndex As Int, Value As Map)
+	Select Case etvRecords.DataSource
+	Case "Elements"
+		Dim id As String = Value.GetDefault("id","")
+		'show the selected element
+		Elements_Show(id)
+	End Select
+End Sub
+
+
+Sub tabElement_TabChanged (SelectedTab As TabPage)
+	
+End Sub
+
+'the element has been updated, show it
+Sub etvElement_Update (RowIndex As Int, Value As Map)
+	Dim id As String = Value.GetDefault("id","")
+	'search in the rows
+	Dim pos As Int = etvElement.SearchColumn("id",id)
+	If pos <> -1 Then 
+		If etvElemAttributes.IsInitialized Then	etvElemAttributes.UpdateRow(pos,Value)
+		If etvRecords.IsInitialized Then etvRecords.UpdateRow(pos,Value)
+	End If
+	'render the updates
+	Elements_Show(id)
+End Sub
+
+Sub etvElement_Delete (RowIndex As Int, Value As Map)
+	Dim id As String = Value.GetDefault("id","")
+	Element_Delete(id)
+End Sub
+
+'a class has been deleted, refresh the element
+Sub classes_ItemDeleted (Value As String, m As Map)
+	'get the element
+	Dim el As Map = etvElement.GetPropertyBag
+	Dim elID As String = el.GetDefault("id","")
+	'convert the saved item to a map
+	Dim sClass As String = m.getdefault("class","")
+	Dim key As String = $"${elID}.${sClass}"$
+	DBUtils.DeleteRecord(InternalSQL,"Classes","key",key)
+	'show the updated element
+	Elements_Show(elID)
+	tabElement.SelectedIndex = 2
+End Sub
+
+'a class has been updated, save it and show the new updated element
+Sub classes_ItemUpdated (Value As String, m As String)
+	'deal with current record only
+	'get the element id
+	Dim el As Map = etvElement.GetPropertyBag
+	Dim elID As String = el.GetDefault("id","")
+	elID = elID.trim
+	'convert the saved item to a map
+	Dim attr As Map = jMash.Json2Map(m)
+	Dim sclass As String = attr.getdefault("class","")
+	Dim cid As String = attr.GetDefault("id","")
+	Dim des As String = attr.GetDefault("description","")
+	Dim dn As String = attr.GetDefault("displayname","")
+	Dim sf As String = attr.GetDefault("framework","")
+	Dim fxi As String = attr.GetDefault("fixed","0")
+	Dim lst As String = attr.GetDefault("list","")
+	Dim act As String = attr.GetDefault("active","0")
+	sclass = sclass.trim
+	cid = cid.Trim
+	dn = dn.trim
+	sf = sf.trim
+	If elID = "" Or sclass = "" Or cid = "" Or dn = "" Then
+		jMash.MsgBoxWarn(MainForm,"Class","The element / id / framework / class name / display name could not be identified, please enter these values.")
+		Return
+	End If
+	'update the classes table with the element class
+	Dim key As String = $"${elID}.${sclass}"$
+	'update the attribute for saving
+	attr.Put("elementid",elID)
+	attr.Put("key",key)
+	attr.Put("class",sclass)
+	attr.Put("description",des)
+	attr.Put("displayname",dn)
+	attr.Put("fixed",fxi)
+	attr.Put("list",lst)
+	attr.Put("active",act)
+	attr.Put("framework",sf)
+	'update the classes for this element
+	DBUtils.AddEditRecord(InternalSQL,"Classes","id",cid,attr)
+	'if the framework classes match does not exist, create it
+	Dim fk As String = $"${sf}.${sclass}"$
+	If DBUtils.RecordExists(InternalSQL,"FrameworkClasses","key",fk) = False Then
+		Dim fc As Map
+		fc.Initialize 
+		fc.Put("classname",dn)
+		fc.Put("class",sclass)
+		fc.Put("active","1")
+		fc.Put("framework", sf)
+		fc.Put("key",fk)
+		fc.Put("category",dn)
+		DBUtils.AddRecord(InternalSQL,"FrameworkClasses",fc)
+	Else
+		'read class from framework classes and just ensure is koacha
+		Dim fc As Map = DBUtils.ReadRecord(InternalSQL,"FrameworkClasses","Key",fk)
+		Dim scategory As String = fc.GetDefault("category","")
+		Dim sClassName As String = fc.GetDefault("classname","")
+		'do we have more classes fitting this category
+		Dim lstClasses As List
+		lstClasses.Initialize
+		DBUtils.ExecuteList(InternalSQL,"select distinct Class from FrameworkClasses where category = '" & scategory & "' and Active = 1 order by class;",Null,0,lstClasses)
+		Dim strList As String = jMash.MvFromList(lstClasses,"|")
+		If jMash.MvCount(strList,"|")=1 Then strList = ""
+		'update this row
+		attr.Put("displayname",scategory)
+		attr.Put("description",scategory)
+		attr.Put("list",strList)
+		If strList = "" Then attr.Put("description",sClassName)
+		DBUtils.AddEditRecord(InternalSQL,"Classes","id",cid,attr)
+	End If
+	'lets update the frameworkclasses
+	Elements_Show(elID)
+	tabElement.SelectedIndex = 2
+End Sub
+
+
+'a css attribute had been deleted, refresh the element
+Sub css_ItemDeleted (Value As String, m As Map)
+	'get the element
+	Dim el As Map = etvElement.GetPropertyBag
+	Dim elID As String = el.GetDefault("id","")
+	'convert the saved item to a map
+	Dim cssid As String = m.getdefault("id","")
+	DBUtils.DeleteRecord(InternalSQL,"CSS","id",cssid)
+	'show the updated element
+	Elements_Show(elID)
+	'show attributes tab
+	tabElement.SelectedIndex = 3
+End Sub
+
+'a css attribute has been updated, save it and show the new updated element
+Sub css_ItemUpdated (Value As String, m As String)
+	'deal with current record only
+	'get the element id
+	Dim el As Map = etvElement.GetPropertyBag
+	Dim elID As String = el.GetDefault("id","")
+	elID = elID.trim
+	'convert the saved item to a map
+	Dim attr As Map = jMash.Json2Map(m)
+	Dim aid As String = attr.GetDefault("id","")
+	Dim attribute As String = attr.getdefault("attribute","")
+	Dim classname As String = attr.GetDefault("classname","")
+	attribute = attribute.trim
+	If elID = "" Or aid = "" Or classname = "" Then
+		jMash.MsgBoxWarn(MainForm,"CSS Attribute","The class name/ element / attribute name could not be identified.")
+		Return
+	End If
+	Dim key As String = $"${elID}.${classname}"$
+	'update the attribute for saving
+	attr.Put("elementid",elID)
+	attr.Put("key",key)
+	DBUtils.AddEditRecord(InternalSQL,"CSS","id",aid,attr)
+	Elements_Show(elID)
+	tabElement.SelectedIndex = 3
+End Sub
+
+
+'an attribute had been deleted, refresh the element
+Sub attributes_ItemDeleted (Value As String, m As Map)
+	'get the element
+	Dim el As Map = etvElement.GetPropertyBag
+	Dim elID As String = el.GetDefault("id","")
+	'convert the saved item to a map
+	Dim attribute As String = m.getdefault("attribute","")
+	Dim key As String = $"${elID}.${attribute}"$
+	DBUtils.DeleteRecord(InternalSQL,"Attributes","key",key)
+	'show the updated element
+	Elements_Show(elID)
+	'show attributes tab
+	tabElement.SelectedIndex = 1
+End Sub
+
+'an attribute has been updated, save it and show the new updated element
+Sub attributes_ItemUpdated (Value As String, m As String)
+	'deal with current record only
+	'get the element id
+	Dim el As Map = etvElement.GetPropertyBag
+	Dim elID As String = el.GetDefault("id","")
+	elID = elID.trim
+	'convert the saved item to a map
+	Dim attr As Map = jMash.Json2Map(m)
+	Dim aid As String = attr.GetDefault("id","")
+	Dim attribute As String = attr.getdefault("attribute","")
+	attribute = attribute.trim
+	If elID = "" Or attribute = "" Or aid = "" Then
+		jMash.MsgBoxWarn(MainForm,"Attribute","The element / attribute name could not be identified.")
+		Return
+	End If
+	Dim key As String = $"${elID}.${attribute}"$
+	'update the attribute for saving
+	attr.Put("elementid",elID)
+	attr.Put("key",key)
+	DBUtils.AddEditRecord(InternalSQL,"Attributes","id",aid,attr)
+	Elements_Show(elID)
+	tabElement.SelectedIndex = 1
+End Sub
+
+Sub attributes_ItemNew ()
+	'update the primary key
+	Dim np As Int = DBUtils.LastRecordID(InternalSQL,"Attributes","id")
+	np = np + 1
+	attributes.SetProperty(attributes.PrimaryKey,np)
+	attributes.SetProperty("active","1")
+End Sub
+
+Sub classes_ItemNew ()
+	'update the primary key
+	Dim np As Int = DBUtils.LastRecordID(InternalSQL,"Classes","id")
+	np = np + 1
+	classes.SetProperty(classes.PrimaryKey,np)
+	classes.SetProperty("active","1")
+End Sub
+
+Sub css_ItemNew ()
+	'update the primary key
+	'get the element id
+	Dim el As Map = etvElement.GetPropertyBag
+	Dim elID As String = el.GetDefault("id","")
+	elID = elID.trim
+	Dim np As Int = DBUtils.LastRecordID(InternalSQL,"CSS","id")
+	np = np + 1
+	css.SetProperty(css.PrimaryKey,np)
+	css.SetProperty("elementid",elID)
+	css.SetProperty("active","1")
+End Sub
+
+'an element is being updated
+Sub etvElemAttributes_Update (RowIndex As Int, Value As Map)
+	'update the category and tags if these dont exist
+	Dim category As String = Value.GetDefault("category","")
+	Dim typeof As String = Value.GetDefault("typeof","")
+	Dim sFramework As String = Value.GetDefault("framework","")
+	Dim sID As String = Value.GetDefault("id","")
+	If category <> "" Then
+		Dim flds As Map = CreateMap("Category":category)
+		DBUtils.AddEditRecord(InternalSQL,"Categories","Category",category,flds)
+	End If
+	If typeof <> "" Then
+		Dim flds As Map = CreateMap("Tag":typeof)
+		DBUtils.AddEditRecord(InternalSQL,"Tags","Tag",typeof,flds)
+	End If
+	'set the default framework and category when we add new records
+	etvElemAttributes.SetDefault("framework",sFramework)
+	etvElemAttributes.SetDefault("category",category)
+	etvRecords.SetDefault("ElementID",sID)
+	etvRecords.SQLQuery = $"select * from attributes where ElementID = ${sID} order by attribute desc"$
+	etvRecords.LoadSQLData(Null)
+	lblTitle.Text = $"Attributes: ${etvRecords.RecordCount+1}"$
+End Sub
+
+'delete the element
+Sub etvElemAttributes_Delete (RowIndex As Int, Value As Map)
+	Dim id As String = Value.GetDefault("id","")
+	Dim cat As String = Value.getdefault("category","")
+	Element_Delete(id)
+	ElementAttributes_Grid(cat)
+	Elements_Show("")
+End Sub
+
+'add a new element
+Sub btnNewRecord1_Click
+	etvElemAttributes.AddNewRow
+	etvRecords.Clear
+	etvElementClasses.clear
+End Sub
+
+'show the attributes for the selected element
+Sub etvElemAttributes_SelectedRow (RowIndex As Int, Value As Map)
+	Dim id As String = Value.GetDefault("id","")
+	Dim sparentid As String = Value.GetDefault("parentid","")
+	Select Case sparentid
+	Case "0"
+		btnMacro.visible = True
+		btnMacro.Tag = id
+	Case Else
+		btnMacro.visible = True
+		'btnMacro.visible = False
+		btnMacro.Tag = id
+	End Select
+	ElementsAttributesShow(id)
+End Sub
+
+Sub DivLabelInput
+	'create the div
+	Dim nextid As Int = DBUtils.RecordCount(InternalSQL,"Elements","id")
+	nextid = nextid + 1
+	Dim divint As Int = -1
+	Dim div As Map
+	div.Initialize 
+	div.Put("element","New Div")
+	div.Put("framework", CLI.Framework)
+	div.Put("category", "New Form Controls")
+	div.Put("typeof","div")
+	div.Put("tabindex", nextid)
+	div.Put("parentid", "0")
+	div.Put("active","1")
+	div = DBUtils.AddReadRecord(InternalSQL,"Elements",div)
+	If div.IsInitialized Then
+		'get last element added
+		divint = div.GetDefault("id",-1)
+		'add the label
+		nextid = DBUtils.RecordCount(InternalSQL,"Elements","id")
+		nextid = nextid + 1
+		Dim lbl As Map
+		lbl.Initialize
+		lbl.Put("element","New Label")
+		lbl.Put("framework", CLI.Framework)
+		lbl.Put("category", "New Form Controls")
+		lbl.Put("typeof","label")
+		lbl.Put("tabindex", nextid)
+		lbl.Put("parentid", divint)
+		lbl.Put("active","1")
+		lbl = DBUtils.AddReadRecord(InternalSQL,"Elements",lbl)
+		'add the input control
+		nextid = DBUtils.RecordCount(InternalSQL,"Elements","id")
+		nextid = nextid + 1
+		Dim inp As Map
+		inp.Initialize
+		inp.Put("element","New Input")
+		inp.Put("framework", CLI.Framework)
+		inp.Put("category", "New Form Controls")
+		inp.Put("typeof","input")
+		inp.Put("tabindex", nextid)
+		inp.Put("parentid", divint)
+		inp.Put("active","1")
+		inp = DBUtils.AddReadRecord(InternalSQL,"Elements",inp)
+	End If
+End Sub
+
+
+Sub Macros_Load
+	Macros.Children.Clear
+	Macros.Expanded = True
+	Dim mf As List = DBUtils.ExecuteField(InternalSQL,"macros","framework",False,True)
+	For Each sframework As String In mf
+		sframework = jMash.ProperCase(sframework)
+		Dim macro As TreeItem
+		macro.Initialize("treeProject",sframework)
+		macro.Image = cogStart
+		Macros.Children.Add(macro)
+		Dim lst As List = DBUtils.ExecuteField1(InternalSQL,$"select macro from macros where lower(framework) = '${sframework.tolowercase}'"$,"macro",False,True)
+		For Each strMacro As String In lst
+			Dim macro1 As TreeItem
+			macro1.Initialize("treeProject",strMacro)
+			macro1.Image = cogStart
+			macro.Children.Add(macro1)
+		Next
+	Next
+End Sub
+
+Sub treeProject_MouseClicked (EventData As MouseEvent)
+	Try
+		Dim SelectedItem As TreeItem = jMash.TreeViewClickedItem(treeProject,EventData)
+		If SelectedItem.IsInitialized = False Then Return
+		nodeText = SelectedItem.Text
+		Select Case nodeText
+			Case "Macros"
+				Macros_Load
+			Case "CSS Files"
+				CSSFiles_Show
+			Case "JavaScript Files"
+				JSFiles_Show
+			Case "JavaScript"
+				'show javascript play ground
+				JavaScript_Show
+			Case "CLI"
+				'show the command line interface
+				CLI_Show
+			Case "PlayGround"
+				SelectedItem.Children.clear
+				Editor_Show
+			Case "Div-Label-Input"
+				'add a div with a label and input childs
+				DivLabelInput
+				Select Case SelectedItem.Parent.Text
+				Case "Elements"
+					Elements_Grid("New Form Controls")
+				Case "Attributes"
+					ElementAttributes_Grid("New Form Controls")
+				End Select
+			Case "Devices"
+				'devices
+				TreeClear
+				Devices_Grid
+			Case "Styles"
+				'load style classes
+				TreeClear
+				StylesClasses_Grid("")
+				StylesCategories_Reload(SelectedItem)
+			Case "Attributes"
+				TreeClear
+				ElementAttributes_Grid("")
+				ElementsCategories_Reload(attrTI)
+			Case "Creator"
+				'generate a report
+				TreeClear
+				Creator_Grid
+			Case "Categories"
+				If jMash.MsgBoxConfirm(MainForm,"Update","Do you want to update this list based on captured elements?") = "yes" Then
+					Dim cats As List = DBUtils.ExecuteMaps(InternalSQL,"select category from elements group by category",Null)
+					'clear the categories table
+					DBUtils.TableClear(InternalSQL,"Categories")
+					'reset the counter
+					DBUtils.SQLiteResetCounter(InternalSQL,"Categories","id")
+					Dim nList As List
+					nList.Initialize
+					For Each catM As Map In cats
+						Dim scategory As String = catM.GetDefault("category","")
+						Dim nrec As Map = CreateMap("category":scategory)
+						nList.Add(nrec)
+					Next
+					DBUtils.InsertMaps(InternalSQL,"Categories",nList,False)
+				End If
+				TreeClear
+				Categories_Grid
+			Case "Templates"
+				
+				Templates_Load
+				Templates_Grid("")
+			Case "Frameworks"
+				TreeClear
+				Frameworks_Grid
+			Case "New"
+				'create a new app
+				App_Initialize
+			Case "App"
+				'currently opened app
+				App_Read
+			Case "Open"
+				App_Open
+			Case "Publish"
+				App_Publish
+			Case "Elements"
+				TreeClear
+				App_PreparePublish ' just in case
+				Elements_Grid("")
+				ElementsCategories_Reload(Elements)
+			Case "Tags"
+				If jMash.MsgBoxConfirm(MainForm,"Update","Do you want to update this list based on captured elements?") = "yes" Then
+					DBUtils.CreateListFromAnotherTable(InternalSQL,"Elements","typeof","Tags","tag","id")
+				End If
+				TreeClear
+				Tags_Grid
+			Case "Pages"
+				TreeClear
+				Pages_Reload
+				Pages_Grid
+			Case "New Page"
+				Page_Add
+			Case Else
+				Dim parentText As String = SelectedItem.Parent.Text
+				Select Case parentText
+				Case "Pages"
+					'we are viewing a page
+					Page_Open(nodeText)
+					jMash.PutSimple("active_page",nodeText)
+				Case "Styles"
+					StylesClasses_Grid(nodeText)
+				Case Else
+					'have we selected a framework
+					Dim frameList As List = DBUtils.ExecuteField(InternalSQL,"Elements","Framework",False,True)
+					Dim inList As Boolean = jMash.OnList(frameList,parentText)
+					If inList = True Then
+						'get parent
+						parentText = SelectedItem.Parent.Parent.Text
+						Log(parentText)
+						Select Case parentText
+						Case "Attributes"
+							ElementAttributes_Grid(nodeText)
+						Case "Elements"
+							Elements_Grid(nodeText)
+						Case "Macros"
+							Macro_Show($"${SelectedItem.Parent.text}.${nodeText}"$)
+						End Select
+					Else
+						Select Case parentText
+						Case "Templates"
+							Templates_Grid(nodeText)
+						Case Else
+							Elements_Grid("")
+						End Select
+					End If
+				End Select
+		End Select
+	Catch
+		Log(LastException)
+	End Try
+	
+End Sub
+
+'show the macro
+Sub Macro_Show(sMacro As String)
+	splitMain.SetSizeLimits(2,500,500)
+	LoadMiddleLayout("vTabPane")
+	AddTabLayout("vElementIT","Macro")
+	splitElement.LoadLayout("vMacro")
+	CLI_PropertyBag
+	If PageName <> "" Then Page_Preview(PageName)
+	'show the macro details
+	Dim Macro As Map = DBUtils.ReadRecord(InternalSQL,"Macros","key",sMacro)
+	If Macro.IsInitialized Then
+		Dim sMacro As String = Macro.GetDefault("macro","")
+		Dim sargue As String = Macro.GetDefault("arguements","")
+		Dim scommand As String = Macro.GetDefault("macrocode","")
+		Dim sdescription As String = Macro.GetDefault("description","")
+		scommand = scommand.Replace("|",CRLF)
+		txtArguements.Text = sargue
+		txtMacroName.Text = sMacro
+		txtDescription.Text = sdescription
+		jMash.CodeAreaSetText(txtMacroCommands,scommand,"1",False)
+	End If
+	txtMacroName.RequestFocus
+End Sub
+
+Sub Macro_Test(sMacro As String,sValues As String) As Boolean
+	Dim Macro As Map = DBUtils.ReadRecord(InternalSQL,"Macros","key",sMacro)
+	If Macro.IsInitialized = False Then Return False
+	Dim sMacro As String = Macro.GetDefault("macro","")
+	Dim sargue As String = Macro.GetDefault("arguements","")
+	Dim scommand As String = Macro.GetDefault("macrocode","")
+	Dim sdescription As String = Macro.GetDefault("description","")
+	scommand = scommand.Replace("|",CRLF)
+	txtArguements.Text = sargue
+	txtDescription.Text = sdescription
+	jMash.CodeAreaSetText(txtMacroCommands,scommand,"1",False)
+	'split the arguements
+	Dim spArgue() As String = jMash.StrParse(" ",sargue)
+	Dim spValues() As String = jMash.StrParse(" ",sValues)
+	If spArgue.Length <= spValues.Length Then
+		Dim maxa As Int = spArgue.Length
+		'get rest of content for the last item
+		Dim strRest As String = jMash.MvRest(" ",sValues,maxa)
+		Dim strLast As String = jMash.MvRest(" ",sargue,maxa)
+		Dim macroe As Map
+		macroe.Initialize		
+		Dim acnt As Int
+		For acnt = 0 To maxa - 1
+			Dim stra As String = spArgue(acnt)
+			Dim strv As String = spValues(acnt)
+			macroe.Put(stra,strv)
+		Next
+		'save last item 
+		macroe.Put(strLast,strRest)
+		For Each strKey As String In macroe.Keys
+			Dim strVal As String = macroe.Get(strKey)
+			scommand = scommand.Replace(strKey,strVal)
+		Next
+		jMash.CodeAreaSetText(txtMacroCommands,scommand,"1",False)
+		btnExecute.Visible = True
+	Else
+		jMash.MsgBoxWarn(MainForm,"Macro","There is an error with the arguements and arguement values!")
+		btnExecute.Visible = False
+		Return False	
+	End If
+End Sub
+
+'create the templates
+Sub Templates_Execute
+	If jMash.MsgBoxConfirm(MainForm,"Update","Do you want to update the templates based on captured elements?") = "no" Then Return
+	Dim rTot As Int = 0
+	Dim rCnt As Int = 0
+	badge.Initialize 
+	DBUtils.TableClear(InternalSQL,"Templates")
+	DBUtils.TableClear(InternalSQL,"TemplatesAttributes")
+	DBUtils.TableClear(InternalSQL,"TemplatesClasses")
+	Dim recs As List = DBUtils.ExecuteMaps(InternalSQL,"Elements",Null)
+	For Each recm As Map In recs
+		rTot = rTot + 1
+		rCnt = rCnt + 1
+		If rCnt = 5 Then
+			badge.SetBadge(btnRefreshTemplates,rTot)
+			rCnt= 0
+			Sleep(1)
+		End If
+		Dim sFramework As String = recm.GetDefault("framework","")
+		Dim stypeof As String = recm.GetDefault("typeof","")
+		Dim sKey As String = $"${sFramework}.${stypeof}"$
+		Dim nrecord As Map
+		nrecord.Initialize
+		nrecord.Put("key",sKey)
+		nrecord.Put("framework",sFramework)
+		nrecord.Put("instance",stypeof)
+		nrecord.Put("displayname",stypeof)
+		DBUtils.AddEditRecord(InternalSQL,"Templates","key",sKey,nrecord)
+	Next
+	badge.SetBadge(btnRefreshTemplates,rTot)
+	'process attributes
+	rCnt = 0
+	rTot = 0
+	For Each recm As Map In recs
+		rTot = rTot + 1
+		rCnt = rCnt + 1
+		If rCnt = 5 Then
+			badge.SetBadge(btnRefreshTemplates,rTot)
+			rCnt= 0
+			Sleep(1)
+		End If
+		Dim sFramework As String = recm.GetDefault("framework","")
+		Dim stypeof As String = recm.GetDefault("typeof","")
+		Dim elid As String = recm.GetDefault("id","")
+		Dim pKey As String = $"${sFramework}.${stypeof}"$
+		Dim recal As List = DBUtils.ExecuteMaps(InternalSQL,$"select * from attributes where ElementID = ${elid}"$,Null)
+		For Each recalm As Map In recal
+			Dim sAttribute As String = recalm.GetDefault("attribute","")
+			Dim sDisplayName As String = recalm.GetDefault("displayname","")
+			Dim sFieldType As String = recalm.GetDefault("fieldtype","")
+			Dim sDefaultValue As String = recalm.GetDefault("defaultvalue","")
+			Dim sisfile As String = recalm.GetDefault("isfile","0")
+			Dim sfixed As String = recalm.GetDefault("fixed","0")
+			Dim sKey As String = $"${sFramework}.${stypeof}.${sAttribute}"$
+			Dim sDescription As String = recalm.GetDefault("description","")
+			sDisplayName = sAttribute.replace("-"," ")
+			sDisplayName = jMash.ProperCase(sDisplayName)
+			'add to attributes
+			Dim exista As Map = DBUtils.ReadRecord(InternalSQL,"TemplatesAttributes","Key",sKey)
+			If exista.IsInitialized Then
+				'record exists, update the values
+				Dim oDisplayName As String = exista.GetDefault("displayname","")
+				Dim ofixed As String = exista.GetDefault("fixed","")
+				Dim oFieldType As String = exista.GetDefault("fieldtype","")
+				Dim oDefaultValue As String = exista.GetDefault("defaultvalue","")
+				Dim oisfile As String = exista.GetDefault("isfile","")
+				Dim odescription As String = exista.GetDefault("description","")
+				'update the contents
+				oDisplayName = jMash.MvAdd(oDisplayName,"|",sDisplayName)
+				ofixed = jMash.MvAdd(ofixed,"|",sfixed)
+				oFieldType = jMash.MvAdd(oFieldType,"|",sFieldType)
+				oDefaultValue = jMash.MvAdd(oDefaultValue,"|",sDefaultValue)
+				oisfile = jMash.MvAdd(oisfile,"|",sisfile)
+				odescription = jMash.MvAdd(odescription,"|",sDescription)
+				'remove duplicates
+				oDisplayName = jMash.MvRemoveDuplicates(oDisplayName,"|")
+				ofixed = jMash.MvRemoveDuplicates(ofixed,"|")
+				oFieldType = jMash.MvRemoveDuplicates(oFieldType,"|")
+				oDefaultValue = jMash.MvRemoveDuplicates(oDefaultValue,"|")
+				oisfile = jMash.MvRemoveDuplicates(oisfile,"|")
+				odescription = jMash.MvRemoveDuplicates(odescription,"|")
+				'update the database record
+				exista.Put("displayname",oDisplayName)
+				exista.Put("fixed",ofixed)
+				exista.Put("fieldtype",oFieldType)
+				exista.Put("defaultvalue",oDefaultValue)
+				exista.Put("isfile",oisfile)
+				exista.Put("description",odescription)
+				DBUtils.AddEditRecord(InternalSQL,"TemplatesAttributes","key",sKey,exista)
+			Else
+				'record does not exist
+				exista.Initialize 
+				exista.Put("attribute",sAttribute)
+				exista.Put("framework",sFramework)
+				exista.Put("displayname",sDisplayName)
+				exista.Put("fixed",sfixed)
+				exista.Put("fieldtype",sFieldType)
+				exista.Put("defaultvalue",sDefaultValue)
+				exista.Put("isfile",sisfile)
+				exista.Put("description",sDescription)
+				exista.Put("key",sKey)
+				exista.Put("parentkey",pKey)
+				DBUtils.AddRecord(InternalSQL,"TemplatesAttributes",exista)
+			End If
+		Next
+		'process classes
+		Dim recal As List = DBUtils.ExecuteMaps(InternalSQL,$"select * from Classes where ElementID = ${elid}"$,Null)
+		For Each recalm As Map In recal
+			Dim sClass As String = recalm.GetDefault("class","")
+			Dim sDisplayName As String = recalm.GetDefault("displayname","")
+			Dim sfixed As String = recalm.GetDefault("fixed","0")
+			Dim sKey As String = $"${sFramework}.${stypeof}.${sClass}"$
+			Dim sDescription As String = recalm.GetDefault("description","")
+			Dim slist As String = recalm.GetDefault("list","")
+			sDisplayName = sClass.replace("-"," ")
+			sDisplayName = jMash.ProperCase(sDisplayName)
+			
+			'add to classes
+			Dim exista As Map = DBUtils.ReadRecord(InternalSQL,"TemplatesClasses","Key",sKey)
+			If exista.IsInitialized Then
+				'record exists, update the values
+				Dim cDisplayName As String = exista.GetDefault("displayname","")
+				Dim cfixed As String = exista.GetDefault("fixed","")
+				Dim cdescription As String = exista.GetDefault("description","")
+				Dim clist As String = exista.GetDefault("list","")
+				'update the contents
+				cDisplayName = jMash.MvAdd(cDisplayName,"|",sDisplayName)
+				cfixed = jMash.MvAdd(cfixed,"|",sfixed)
+				cdescription = jMash.MvAdd(cdescription,"|",sDescription)
+				clist = jMash.MvAdd(clist,"|",slist)
+				'remove duplicates
+				cDisplayName = jMash.MvRemoveDuplicates(cDisplayName,"|")
+				cfixed = jMash.MvRemoveDuplicates(cfixed,"|")
+				cdescription = jMash.MvRemoveDuplicates(cdescription,"|")
+				clist = jMash.MvRemoveDuplicates(clist,"|")
+				'update the database record
+				exista.Put("displayname",cDisplayName)
+				exista.Put("fixed",cfixed)
+				exista.Put("description",cdescription)
+				exista.Put("list",clist)
+				DBUtils.AddEditRecord(InternalSQL,"TemplatesClasses","key",sKey,exista)
+			Else
+				'record does not exist
+				exista.Initialize
+				exista.Put("class",sClass)
+				exista.Put("framework",sFramework)
+				exista.Put("displayname",cDisplayName)
+				exista.Put("fixed",cfixed)
+				exista.Put("description",cdescription)
+				exista.Put("list",clist)
+				exista.Put("key",sKey)
+				exista.Put("parentkey",pKey)
+				DBUtils.AddRecord(InternalSQL,"TemplatesClasses",exista)
+			End If
+		Next
+	Next
+	'update with framework classes
+	rTot = 0
+	rCnt = 0
+	Dim fc As List = DBUtils.ExecuteMaps(InternalSQL,"select * from FrameworkClasses",Null)
+	For Each rcmap As Map In fc
+		rTot = rTot + 1
+		rCnt = rCnt + 1
+		If rCnt = 5 Then
+			badge.SetBadge(btnRefreshTemplates,rTot)
+			rCnt= 0
+			Sleep(1)
+		End If
+		Dim sClass As String = rcmap.GetDefault("class","")
+		Dim sFramework As String = rcmap.GetDefault("framework","")
+		Dim scategory As String = rcmap.GetDefault("category","")
+		Dim slist As String = rcmap.GetDefault("list","")
+		Dim w As Map = CreateMap("class":sClass,"framework":sFramework)
+		Dim u As Map = CreateMap("displayname":scategory,"description":scategory,"list":slist)
+		DBUtils.RecordsUpdateWhere(InternalSQL,"TemplatesClasses",u,w)
+		'update classes
+		Dim w As Map = CreateMap("class":sClass,"framework":sFramework)
+		Dim u As Map = CreateMap("displayname":scategory,"description":scategory,"list":slist)
+		DBUtils.RecordsUpdateWhere(InternalSQL,"Classes",u,w)
+	Next
+	badge.SetBadge(btnRefreshTemplates,0)
+	'remove remaining duplicates
+	Dim rows As List = DBUtils.executemaps(InternalSQL,"select * from TemplatesClasses",Null)
+	Dim dups As Map
+	dups.Initialize
+	rTot = 0
+	rCnt = 0
+	For Each row As Map In rows
+		rTot = rTot + 1
+		rCnt = rCnt + 1
+		If rCnt = 5 Then
+			badge.SetBadge(btnRefreshTemplates,rTot)
+			rCnt= 0
+			Sleep(1)
+		End If
+		Dim sid As String = row.GetDefault("id","")
+		Dim sDisplayName As String = row.GetDefault("displayname","")
+		Dim slist As String = row.getdefault("list","")
+		Dim sParentKey As String = row.GetDefault("parentkey","")
+		If slist <> "" Then
+			Dim sKey As String = $"${sParentKey}~${sDisplayName}~${slist}"$
+			If dups.ContainsKey(sKey) Then
+				Dim lst As List
+				lst = dups.Get(sKey)
+				lst.Add(sid)
+				dups.Put(sKey,lst)
+			Else
+				Dim lst As List
+				lst.Initialize
+				lst.Add(sid)
+				dups.Put(sKey,lst)
+			End If
+		End If
+	Next
+	badge.SetBadge(btnRefreshTemplates,rTot)
+	'if there are dups
+	Dim delKeys As List
+	delKeys.Initialize
+	For Each strKey As String In dups.Keys
+		Dim lst As List = dups.Get(strKey)
+		Dim rTot As Int = lst.Size - 1
+		Dim rCnt As Int
+		If rTot > 0 Then
+			For rCnt = 1 To rTot
+				Dim itm As String = lst.Get(rCnt)
+				delKeys.add(itm)
+			Next
+		End If
+	Next
+	Dim sid As String = jMash.MvFromList(delKeys,",")
+	If sid <> "" Then
+		DBUtils.ExecuteQuery(InternalSQL,$"delete from TemplatesClasses where id in (${sid})"$)
+	End If
+	badge.SetBadge(btnRefreshTemplates,0)
+End Sub
+
+Sub etvClassDefinition_Update (RowIndex As Int, Value As Map)
+	'get the details entered by the user
+	Dim styleM As Map = etvClassDefinition.GetPropertyBag
+	Dim styleprefix As String = styleM.GetDefault("styleprefix","")
+	Dim prefixdescription As String = styleM.GetDefault("prefixdescription","")
+	Dim suffixes As String = styleM.GetDefault("suffixes","")
+	Dim Framework As String = styleM.GetDefault("framework","")
+	Dim category As String = styleM.GetDefault("category","")
+	'save for later retrieval
+	jMash.PutObject("classdefinition",styleM)
+	'create the respective styles
+	Dim spsuffixes() As String = jMash.StrParse(",",suffixes)
+	For Each strSuffix As String In spsuffixes
+		Dim sClass As String = $"${styleprefix}-${strSuffix}"$
+		Dim sKey As String = $"${Framework}.${sClass}"$
+		'check if not specified on devices
+		Dim device As String = DBUtils.ReadField(InternalSQL,"Devices","ClassSize",strSuffix,"Description")
+		If device <> "" Then strSuffix = device
+		Dim sClassName As String = $"${prefixdescription} ${strSuffix}"$
+		sClassName = jMash.ProperCase(sClassName)
+		
+		Dim rMap As Map
+		rMap.Initialize
+		rMap.Put("classname",sClassName)
+		rMap.Put("class",sClass)
+		rMap.Put("active","1")
+		rMap.Put("framework", Framework)
+		rMap.Put("category",category)
+		rMap.Put("key",sKey)
+		DBUtils.AddEditRecord(InternalSQL,"FrameworkClasses","key",sKey,rMap)
+		Sleep(1)
+	Next
+	StylesClasses_Grid(category)
+End Sub
+
+Sub btnSaveAll_Click
+	etvRecords.Save
+	'update keys
+	Select Case etvRecords.datasource
+	Case "Attributes"
+		Dim rows As List = etvRecords.getrows
+		Dim rCnt As Int
+		Dim rTot As Int = rows.Size - 1
+		For rCnt = 0 To rTot
+			Dim rowM As Map = rows.Get(rCnt)
+			Dim sid As String = rowM.GetDefault("id","")
+			Dim sElementID As String = rowM.GetDefault("elementid","")
+			Dim sAttribute As String = rowM.GetDefault("attribute","")
+			Dim sframework As String = rowM.GetDefault("framework","")
+			Dim sKey As String = $"${sElementID}.${sAttribute}"$
+			Dim sDisplayName As String = sAttribute.Replace("-"," ")
+			Dim sDefaultValue As String = rowM.GetDefault("defaultvalue","")
+			Dim sFieldType As String = rowM.GetDefault("fieldtype","")
+			sDisplayName = jMash.ProperCase(sDisplayName)
+			rowM.Put("displayname",sDisplayName)
+			rowM.Put("key",sKey)
+			If sDefaultValue.tolowercase = "true" Then
+				rowM.Put("fieldtype","Boolean")
+					sFieldType = "Boolean"
+			Else if sDefaultValue.ToLowerCase = "false" Then
+				rowM.Put("fieldtype","Boolean")
+					sFieldType = "Boolean"
+			End If
+			DBUtils.EditRecord(InternalSQL,"Attributes","id",sid,rowM)
+			etvRecords.UpdateRow(rCnt,rowM)
+			Dim w As Map = CreateMap("framework":sframework,"attribute":sAttribute)
+			Dim u As Map = CreateMap("displayname":sDisplayName,"fieldtype":sFieldType)
+			DBUtils.RecordsUpdateWhere(InternalSQL,"TemplatesAttributes",u,w)
+			Sleep(1)
+		Next
+		Elements_Render(sElementID)
+	Case "Elements"
+		'Dim rows As List = etvRecords.getrows
+	Case "FrameworkClasses"
+		Dim rows As List = etvRecords.getrows
+		Dim rTot As Int = rows.Size - 1
+		Dim rCnt As Int
+		Dim dups As Map
+		dups.Initialize 
+		For rCnt = 0 To rTot
+			Dim rowM As Map = rows.Get(rCnt)
+			Dim sid As String = rowM.GetDefault("id","")
+			Dim sframework As String = rowM.GetDefault("framework","")
+			Dim sClass As String = rowM.GetDefault("class","")
+			Dim scategory As String = rowM.GetDefault("category","")
+			Dim sClassName As String = sClass.Replace("-"," ")
+			sClassName = jMash.ProperCase(sClassName)
+			Dim sKey As String = $"${sframework}.${sClass}"$
+			rowM.Put("classname",sClassName)
+			rowM.Put("key",sKey)
+			DBUtils.EditRecord(InternalSQL,"FrameworkClasses","id",sid,rowM)
+			'process duplicates
+			Dim sKey As String = $"${sframework}.${scategory}"$
+			If dups.ContainsKey(sKey) Then
+				Dim lst As List
+				lst = dups.Get(sKey)
+				lst.Add(sClass)
+				dups.Put(sKey,lst)
+			Else
+				Dim lst As List
+				lst.Initialize
+				lst.Add(sClass)
+				dups.Put(sKey,lst)
+			End If
+				Sleep(1)
+			Next
+			'now update the list field of the classes
+			For Each strKey As String In dups.Keys
+				Dim lst As List = dups.Get(strKey)
+				Dim str As String = jMash.MvFromList(lst,"|")
+				Dim sframework As String = jMash.MvField(strKey,1,".")
+				Dim scategory As String = jMash.MvField(strKey,2,".")
+				If lst.Size = 1 Then str = ""
+				Dim w As Map = CreateMap("framework":sframework,"category":scategory)
+				Dim u As Map = CreateMap("list":str)
+				DBUtils.UpdateRecord2(InternalSQL,"FrameworkClasses",u,w)
+			Next
+			Dim lst As List = etvRecords.GetRowsKeys
+			Dim str As String = jMash.MvFromList(lst,",")
+			etvRecords.SQLQuery = $"select * from FrameworkClasses where id in (${str}) order by class desc"$
+			etvRecords.LoadSQLData(Null)
+			'update templates
+			Dim keys As String = etvRecords.GetRowsKeysString
+			Dim lst As List = DBUtils.ExecuteMaps(InternalSQL,$"select * from FrameworkClasses where id in (${keys})"$,Null)
+			For Each row As Map In lst
+				Dim sClassName As String = row.GetDefault("classname","")
+				Dim sClass As String = row.GetDefault("class","")
+				Dim sframework As String = row.getdefault("framework","")
+				Dim scategory As String = row.GetDefault("category","")
+				Dim slist As String = row.GetDefault("list","")
+				Dim w As Map = CreateMap("class":sClass,"framework":sframework)
+				Dim u As Map = CreateMap("displayname":scategory,"description":scategory,"list":slist)
+				DBUtils.RecordsUpdateWhere(InternalSQL,"TemplatesClasses",u,w)
+				'update classes
+				Dim w As Map = CreateMap("class":sClass,"framework":sframework)
+				Dim u As Map = CreateMap("displayname":scategory,"description":scategory,"list":slist)
+				DBUtils.RecordsUpdateWhere(InternalSQL,"Classes",u,w)
+			Next
+	End Select
+End Sub
+
+Sub btnSaveAllElements_Click
+	etvElemAttributes.Save
+	'elements
+End Sub
+
+
+Sub txtHTML_TextChanged(Old As String, New As String)
+	
+End Sub
+
+Sub etvElementClasses_Update (RowIndex As Int, Value As Map)
+	'get the class and update it
+	Dim sid As String = Value.GetDefault("id","")
+	Dim sClass As String = Value.GetDefault("class","")
+	Dim sElementID As String = Value.GetDefault("elementid","")
+	Dim des As String = Value.GetDefault("description","")
+	Dim dn As String = Value.GetDefault("displayname","")
+	Dim sf As String = Value.GetDefault("framework","")
+	sClass = sClass.Trim
+	sElementID = sElementID.trim
+	If sClass = "" Or sElementID = "" Then Return
+	'update the key field and save to database
+	Dim sKey As String = $"${sElementID}.${sClass}"$
+	Value.Put("key",sKey)
+	'update the database
+	DBUtils.AddEditRecord(InternalSQL,"Classes","id",sid,Value)
+	'if the framework classes match does not exist, create it
+	Dim fk As String = $"${sf}.${sClass}"$
+	If DBUtils.RecordExists(InternalSQL,"FrameworkClasses","key",fk) = False Then
+		Dim fc As Map
+		fc.Initialize
+		fc.Put("classname",dn)
+		fc.Put("class",sClass)
+		fc.Put("active","1")
+		fc.Put("framework", sf)
+		fc.Put("key",fk)
+		fc.Put("category",dn)
+		DBUtils.AddRecord(InternalSQL,"FrameworkClasses",fc)
+	Else
+		'read class from framework classes and just ensure is koacha
+		Dim fc As Map = DBUtils.ReadRecord(InternalSQL,"FrameworkClasses","Key",fk)
+		Dim scategory As String = fc.GetDefault("category","")
+		Dim sClassName As String = fc.GetDefault("classname","")
+		'do we have more classes fitting this category
+		Dim lstClasses As List
+		lstClasses.Initialize 
+		DBUtils.ExecuteList(InternalSQL,"select distinct Class from FrameworkClasses where category = '" & scategory & "' and Active = 1 order by class;",Null,0,lstClasses)
+		Dim strList As String = jMash.MvFromList(lstClasses,"|")
+		If jMash.MvCount(strList,"|")=1 Then strList = ""
+		'update this row
+		Value.Put("displayname",scategory)
+		Value.Put("description",scategory)
+		Value.Put("list",strList)
+		If strList = "" Then Value.Put("description",sClassName)
+		DBUtils.AddEditRecord(InternalSQL,"Classes","id",sid,Value)
+		etvElementClasses.UpdateRow(RowIndex,Value)
+	End If
+	Elements_Render(sElementID)
+End Sub
+
+Sub etvElementClasses_Delete (RowIndex As Int, Value As Map)
+	
+End Sub
+
+Sub btnSaveElementClasses_Click
+	etvElementClasses.Save
+	Select Case etvElementClasses.DataSource
+	Case "Classes"
+		Dim rows As List = etvElementClasses.getrows
+		For Each rowM As Map In rows
+			Dim sid As String = rowM.GetDefault("id","")
+			Dim sElementID As String = rowM.GetDefault("elementid","")
+			Dim sClass As String = rowM.GetDefault("class","")
+			Dim sKey As String = $"${sElementID}.${sClass}"$
+			rowM.Put("key",sKey)
+			DBUtils.EditRecord(InternalSQL,"Classes","id",sid,rowM)
+			Sleep(1)
+		Next
+		Elements_Render(sElementID)
+	End Select
+End Sub
+
+Sub btnNewElementClass_Click
+	etvElementClasses.AddNewRow
+End Sub
+
+Sub btnReIndexRecords1_Click
+	etvElemAttributes.ReOrder
+End Sub
+
+Sub etvElemAttributes_Child (RowIndex As Int, Value As Map)
+	'this will be the parent id
+	Dim cat As String = Value.getdefault("category","")
+	ElementAttributes_Grid(cat)	
+End Sub
+
+Sub etvElement_Child (RowIndex As Int, Value As Map)
+	
+End Sub
+
+Sub etvRecords_Child (RowIndex As Int, Value As Map)
+	Dim cat As String = Value.getdefault("category","")
+	Elements_Grid(cat)
+End Sub
+
+'clone a record with its children
+Sub etvElemAttributes_Clone (RowIndex As Int, Value As Map)
+	'get the old id
+	Dim oldid As String = Value.getdefault("oldid9999","")
+	'get the new id
+	Dim id As String = Value.GetDefault("id","")
+	Dim cat As String = Value.GetDefault("category","")
+	'remove oldid
+	Value.Remove("oldid9999")
+	Select Case etvElemAttributes.datasource
+	Case "Elements"
+		ElementsProperties_Clone(oldid,id)
+		'clone the kids
+		ElementsChildren_Clone(oldid,id)
+		ElementAttributes_Grid(cat)
+		ElementsAttributesShow(id)
+	End Select
+End Sub
+
+Sub ElementsAttributesShow(id As String)
+	etvRecords.Clear
+	etvElementClasses.clear
+	lblTitle.Text = ""
+	lblTitle2.Text = ""
+	If id = "" Or id = "-1" Then Return
+	'set the default property
+	etvRecords.SetDefault("ElementID",id)
+	etvRecords.SQLQuery = $"select * from attributes where ElementID = ${id} order by attribute desc"$
+	etvRecords.LoadSQLData(Null)
+	lblTitle.Text = $"Attributes: ${etvRecords.RecordCount+1}"$
+	'load styles for the element
+	etvElementClasses.SetDefault("ElementID",id)
+	etvElementClasses.SQLQuery = $"select * from Classes where ElementID = ${id} order by class desc"$
+	etvElementClasses.LoadSQLData(Null)
+	lblTitle2.Text = $"Styles: ${etvElementClasses.RecordCount+1}"$
+	'show the element
+	Elements_Render(id)
+End Sub
+
+'wrap an element inside a div
+Sub etvElemAttributes_WrapInside(RowIndex As Int, Value As Map)
+	Dim pca As String = Value.getdefault("category","")
+	Elements_WrapInside(Value,etvElemAttributes)
+	ElementAttributes_Grid(pca)
+End Sub
+
+Sub etvRecords_WrapInside(RowIndex As Int, Value As Map)
+	Dim pca As String = Value.getdefault("category","")
+	Elements_WrapInside(Value,etvRecords)
+	Elements_Grid(pca)
+End Sub
+
+'wrap an element inside a div
+Sub Elements_WrapInside(value As Map, etv As EditableTV)
+	'select all records for this parent id
+	Dim cid As String = value.GetDefault("id","")
+	'get the record from the db
+	value = DBUtils.ReadRecord(InternalSQL,"Elements","id",cid)
+	Dim swrapwith As String = value.GetDefault("wrapwith","")
+	If swrapwith = "" Then swrapwith = "div"
+	Dim pid As String = value.GetDefault("parentid","")
+	Dim pca As String = value.getdefault("category","")
+	Dim keys As List = etv.GetRowsKeys
+	Dim skeys As String = jMash.MvFromList(keys,",")
+	'add a new record that will host these items
+	Dim nextid As Int = DBUtils.RecordCount(InternalSQL,"Elements","id")
+	nextid = nextid + 1
+	Dim div As Map
+	div.Initialize
+	div.Put("element","New Div")
+	div.Put("framework", CLI.Framework)
+	div.Put("category", pca)
+	div.Put("typeof",swrapwith)
+	div.Put("tabindex", nextid)
+	div.Put("parentid", pid)
+	div.Put("active","1")
+	div = DBUtils.AddReadRecord(InternalSQL,"Elements",div)
+	'get the new id
+	Dim nid As String = div.GetDefault("id","")
+	'everything that had this parent id should now be wrapped inside this div
+	Dim sqlqry As String = $"update elements set parentid = ${nid} where parentid = ${pid} and id in (${skeys})"$
+	DBUtils.RunQuery(InternalSQL,sqlqry,True)
+	'update the newly created record
+	div.Put("parentid", pid)
+	div = DBUtils.AddEditRecord(InternalSQL,"Elements","id",nid,div)
+End Sub
+
+'draw the structure of the code
+Sub HTML_Structure()
+	'xml to map
+'	'does the file exist, then parse it
+	Dim ParsedData As Map
+	ParsedData.Initialize
+	If File.Exists(File.DirApp,"temp.xml") Then
+		Dim xm As Xml2Map
+		xm.Initialize
+		ParsedData = xm.Parse(File.ReadString(File.dirapp, "temp.xml"))
+		'stub
+		Dim xml As XmlElement = xm.elements.Get(0)
+		'html
+		Dim xml1 As XmlElement = xml.Children.Get(0)
+		'body
+		cogTI.Children.clear
+		Dim xml2 As XmlElement = xml1.Children.Get(1)
+		For Each xmlChild As XmlElement In xml2.Children
+			Dim htmlNode As TreeItem
+			htmlNode.Initialize("treeProject",xmlChild.Name)
+			htmlNode.Image = cogImg
+			htmlNode.Expanded = True
+			cogTI.Children.Add(htmlNode)
+			'add the children
+			XML2TreeView(xmlChild,htmlNode)
+		Next
+	End If
+End Sub
+
+'draw the structure of the code
+
+
+
+'parse the html text to OneEvery format
+Sub btnEditorParse_Click	
+	Dim sText As String = txtHTMLSource.Text
+	jMash.PutSimple("lasteditor",sText)
+	sText = sText.Replace(CRLF,"")
+	sText = sText.trim
+	'clear existing preview and source
+	AppView.LoadHtml("")
+	cogTI.Children.clear
+	If sText = "" Then Return
+	App_PreparePublish
+	jMash.HTML_TidyCode(sText)
+	HTML_Structure
+	Editor_Preview(sText)
+	'save
+End Sub
+
+'This function is called recursively until all nodes are loaded
+Private Sub XML2TreeView(xmlNode As XmlElement, treeNode As TreeItem)
+	For Each xmlChild1 As XmlElement In xmlNode.children
+		Dim htmlNode As TreeItem
+		htmlNode.Initialize("treeProject",xmlChild1.Name)
+		htmlNode.Image = cogImg
+		htmlNode.Expanded = True
+		treeNode.Children.Add(htmlNode)
+		XML2TreeView(xmlChild1,htmlNode)
+	Next
+End Sub
+
+
+
+Sub btnGetLast_Click
+	txtHTMLSource.Text = jMash.GetSimple("lasteditor")
+End Sub
+
+'generate a page from elements
+Sub btnElemPage_Click
+	Dim rows As List = etvElemAttributes.GetRows
+	Page_FromElements(rows)
+End Sub
+
+'build the actual webiste page
+Sub Page_Build(pgName As String) As ResumableSub
+	'read the page from the database
+	Dim pgMap As Map = DBUtils.ReadRecord(CLI.appsql,"Pages","pagename",pgName)
+	If pgMap.IsInitialized = False Then Return False
+	Dim sTitle As String = pgMap.GetDefault("title","")
+	Dim sDescription As String = pgMap.GetDefault("description","")
+	Dim skeywords As String = pgMap.GetDefault("keywords","")
+	'create the htmlpage
+	Dim pgSource As HTMLPage
+	pgSource.Initialize(CLI.App,pgName)
+	pgSource.PageTitle = sTitle
+	If CLI.SiteTitle <> "" Then
+		pgSource.PageTitle = sTitle & " | " & CLI.SiteTitle
+	End If
+	pgSource.Description = sDescription
+	pgSource.keywords = skeywords
+	'add the components for the page
+	Dim components As List = DBUtils.ExecuteField1(CLI.appsql,$"select id from Components where PageName = '${pgName}' and Active = 1 and ParentID = 0 order by tabindex"$,"id",False,True)
+	Dim rTot As Int = components.Size - 1
+	Dim rCnt As Int = 0
+	For rCnt = 0 To rTot
+		Dim elM As String = components.Get(rCnt)
+		Dim source As String = Components_Build(elM)
+		pgSource.AddContent(source)
+		'Style_Add(pgSource.Style,elID)
+		Sleep(1)
+	Next
+	pgSource.build
+	Return True
+End Sub
+
+Sub Page_FromElements(rows As List)
+	Dim zeroparent As List
+	zeroparent.Initialize
+	For Each rowM As Map In rows
+		Dim rid As String = rowM.GetDefault("id","")
+		Dim pid As String = rowM.GetDefault("parentid","")
+		If pid = "0" Then zeroparent.Add(rid)
+	Next
+	'make all ids to mv field
+	Dim sids As String = jMash.join(",",zeroparent)
+	
+	'clear existing preview and source
+	AppView.LoadHtml("")
+	jMash.CodeAreaSetText(txtHTML,"","1",False)
+	'prepare the app for publishing
+	App_PreparePublish
+	'create an empty page to preview this element
+	Dim pgSource As HTMLPage
+	pgSource.Initialize(CLI.App,"index")
+	pgSource.PageTitle = "Preview"
+	If CLI.SiteTitle <> "" Then
+		pgSource.PageTitle = "PreView | " & CLI.SiteTitle
+	End If
+	'process each element
+	Dim elmnts As List = DBUtils.ExecuteMaps(InternalSQL,$"select id from Elements where id in (${sids}) order by tabindex"$,Null)
+	For Each elM As Map In elmnts
+		Dim elID As String = elM.GetDefault("id","")
+		Dim source As String = Elements_Build(elID)
+		pgSource.AddContent(source)
+		Style_Add(pgSource.Style,elID)
+		Sleep(1)
+	Next
+	pgSource.build
+	jMash.ShowHTML(CLI.App.wwwpath,"index.html",txtHTML)
+	jMash.WebViewLoadFile(CLI.App.wwwPath,"index.html",AppView)
+End Sub
+
+'generate a page from components
+Sub btnToPage_Click
+	Dim rows As List = etvRecords.GetRows
+	Page_FromElements(rows)
+End Sub
+
+'delete a single element
+Sub Element_Delete(ids As String)
+	'get the children of these elements
+	Dim lstChilds As List = DBUtils.ExecuteField1(InternalSQL,$"select id from elements where parentid in (${ids})"$,"id",False,True)
+	Dim kids As String = jMash.join(",",lstChilds)
+	DBUtils.ExecuteQuery(InternalSQL,$"delete from Elements where parentid in (${ids})"$)
+	DBUtils.ExecuteQuery(InternalSQL,$"delete from Attributes where ElementID in (${ids})"$)
+	DBUtils.ExecuteQuery(InternalSQL,$"delete from Classes where ElementID in (${ids})"$)
+	DBUtils.ExecuteQuery(InternalSQL,$"delete from CSS where ElementID in (${ids})"$)
+	'delete the kids
+	DBUtils.ExecuteQuery(InternalSQL,$"delete from Attributes where ElementID in (${kids})"$)
+	DBUtils.ExecuteQuery(InternalSQL,$"delete from Classes where ElementID in (${kids})"$)
+	DBUtils.ExecuteQuery(InternalSQL,$"delete from CSS where ElementID in (${kids})"$)
+End Sub
+
+
+
+'delete elements
+Sub Elements_Delete(rows As List)
+	Dim resp As String = jMash.MsgBoxConfirm(MainForm,"Confirm Delete","Are you sure you want to delete all these record(s)?")
+	If resp = "no" Then Return
+	Dim ids As String = jMash.Join(",",rows)
+	DBUtils.ExecuteQuery(InternalSQL,$"delete from Elements where id in (${ids})"$)
+	'get the children of these elements
+	Dim lstChilds As List = DBUtils.ExecuteField1(InternalSQL,$"select id from elements where parentid in (${ids})"$,"id",False,True)
+	Dim kids As String = jMash.join(",",lstChilds)
+	DBUtils.ExecuteQuery(InternalSQL,$"delete from Elements where parentid in (${ids})"$)
+	DBUtils.ExecuteQuery(InternalSQL,$"delete from Attributes where ElementID in (${ids})"$)
+	DBUtils.ExecuteQuery(InternalSQL,$"delete from Classes where ElementID in (${ids})"$)
+	DBUtils.ExecuteQuery(InternalSQL,$"delete from CSS where ElementID in (${ids})"$)
+	'delete the kids
+	DBUtils.ExecuteQuery(InternalSQL,$"delete from Attributes where ElementID in (${kids})"$)
+	DBUtils.ExecuteQuery(InternalSQL,$"delete from Classes where ElementID in (${kids})"$)
+	DBUtils.ExecuteQuery(InternalSQL,$"delete from CSS where ElementID in (${kids})"$)
+End Sub
+
+Sub btnDeleteElements_Click
+	Dim rows As List = etvElemAttributes.GetRowsKeys
+	If rows.Size - 1 = -1 Then Return
+	Elements_Delete(rows)
+	ElementAttributes_Grid("")						
+End Sub
+
+Sub btnDeleteRecords_Click
+	Select Case etvRecords.DataSource
+	Case "Frameworks"
+	Case "Tags"
+	Case "Categories"
+	Case "Pages"
+	Case "Attributes"
+	Case "Elements"
+		Dim rows As List = etvRecords.GetRowsKeys
+		If rows.Size - 1 = -1 Then Return
+		Elements_Delete(rows)
+		Elements_Grid("")
+	Case "Devices"
+	Case "FrameworkClasses"
+		etvRecords.Delete
+	Case "CSSFiles"
+	Case "JSFiles"
+	End Select
+End Sub
+
+Sub btnImportStructure_Click
+	Dim sGroup As String = jMash.InputBox(Dlg,"Category","Please indicate the category to import this into!","Imports")
+	Dim sText As String = txtHTMLSource.Text
+	jMash.PutSimple("lasteditor",sText)
+	sText = sText.Replace(CRLF,"")
+	sText = sText.trim
+	'clear existing preview and source
+	AppView.LoadHtml("")
+	cogTI.Children.clear
+	If sText = "" Then Return
+	App_PreparePublish
+	jMash.HTML_TidyCode(sText)
+	HTML_StructureSave
+	Editor_Preview(sText)
+	'save the imports to the elements
+	Dim lstImports As List = DBUtils.ExecuteMaps(InternalSQL,"select * from Imports order by id",Null)
+	For Each importM As Map In lstImports
+		Dim sName As String = importM.GetDefault("name","")
+		Dim sText As String = importM.GetDefault("text","")
+		Dim sPlacement As String = importM.GetDefault("placement","")
+		Dim sAttributes As String = importM.GetDefault("attributes","")
+		Dim elMap As Map
+		elMap.Initialize
+		elMap.Put("element",sName & " " & sPlacement)
+		elMap.Put("framework", CLI.Framework)
+		elMap.Put("category",sGroup)
+		elMap.Put("typeof", sName)
+		elMap.Put("key", sPlacement)
+		elMap.Put("text",sText)
+		elMap.Put("parentid","0")
+		elMap.Put("active","1")
+		elMap.Put("textafter","0")
+		elMap = DBUtils.AddEditRecord(InternalSQL,"Elements","key",sPlacement,elMap)
+		'get the added id
+		Dim elID As String = elMap.GetDefault("id","")
+		'add the attributes
+		If sAttributes <> "" Then
+			Dim attrMap As Map = jMash.Json2Map(sAttributes)
+			For Each attrKey As String In attrMap.Keys
+				Dim attrValue As String = attrMap.Get(attrKey)
+				Select Case attrKey
+				Case "id"
+					'update the element id for this component
+					DBUtils.RecordUpdateField(InternalSQL,"Elements","Element",attrValue,"id",elID)
+				Case "class"
+					'split each of the classes
+						Dim spClasses() As String = jMash.StrParse(" ",attrValue)
+						For Each strClass As String In spClasses
+							Dim strCap As String = strClass
+							strCap = strCap.Replace("-"," ")
+							strCap = jMash.ProperCase(strCap)
+							Dim classKey As String = $"${elID}.${strClass}"$
+							Dim classM As Map
+							classM.Initialize 
+							classM.Put("elementid",elID)
+							classM.Put("class",strClass)
+							classM.Put("description",strCap)
+							classM.Put("key",classKey)
+							classM.Put("displayname",strCap)
+							classM.Put("fixed","0")
+							classM.Put("active","1")
+							classM.Put("framework",CLI.Framework)
+							DBUtils.AddEditRecord(InternalSQL,"Classes","Key",classKey,classM)
+						Next
+				Case Else
+					Dim attrKey1 As String = $"${elID}.${attrKey}"$
+					Dim addattr As Map
+					addattr.Initialize
+					addattr.Put("elementid",elID)
+					addattr.Put("attribute",attrKey)
+					addattr.Put("displayname",attrKey)
+					addattr.Put("fieldtype","String")
+					addattr.Put("defaultvalue",attrValue)
+					addattr.Put("active","1")
+					addattr.Put("framework",CLI.Framework)
+					addattr.Put("Key", attrKey1)
+					addattr.Put("isfile","0")
+					addattr.Put("fixed","0")
+					DBUtils.AddEditRecord(InternalSQL,"Attributes","Key",attrKey1,addattr)
+				End Select
+			Next
+		End If
+		Sleep(1)
+	Next
+	'update the parents for the elements
+	Dim lstImports As List = DBUtils.ExecuteMaps(InternalSQL,"select * from Imports order by id",Null)
+	For Each importM As Map In lstImports
+		Dim sPlacement As String = importM.GetDefault("placement","")
+		'read the record for this key
+		Dim elMap As Map = DBUtils.ReadRecord(InternalSQL,"Elements","key",sPlacement)
+		Dim elID As String = elMap.GetDefault("id","")
+		'link the parents based on placement
+		Dim delimCount As Int = jMash.MvCount(sPlacement,".")
+		Dim parentid As String = ""
+		Dim parentx As String = ""
+		If delimCount = 1 Then
+			parentx = "0"
+		Else
+			delimCount = delimCount - 1
+			parentid = jMash.MvFieldsUntil(".",sPlacement,delimCount-1)
+		End If
+		'get the id of the parent
+		parentx = DBUtils.ReadField(InternalSQL,"Elements","key",parentid,"id")
+		Select Case sPlacement
+			Case "1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20"
+				parentx = "0"
+		End Select
+		elMap.Put("parentid",parentx)
+		elMap.Put("tabindex",elID)
+		DBUtils.RecordUpdate(InternalSQL,"Elements",elMap,"id",elID)
+		Sleep(1)
+	Next
+	'clear the keys
+	Dim lstImports As List = DBUtils.ExecuteMaps(InternalSQL,"select * from Imports order by id",Null)
+	For Each importM As Map In lstImports
+		Dim sPlacement As String = importM.GetDefault("placement","")
+		'read the record for this key
+		Dim elMap As Map = DBUtils.ReadRecord(InternalSQL,"Elements","key",sPlacement)
+		Dim elID As String = elMap.GetDefault("id","")
+		elMap.Put("key","")
+		DBUtils.RecordUpdate(InternalSQL,"Elements",elMap,"id",elID)
+		Sleep(1)
+	Next
+End Sub
+
+Private Sub XML2TreeViewSave(xmlNode As XmlElement, treeNode As TreeItem)
+	Dim elCnt As Int = 0
+	Dim ckey As String =""
+	For Each xmlChild1 As XmlElement In xmlNode.children
+		elCnt = elCnt + 1
+		ckey = $"${xmlNode.id}.${elCnt}"$
+		'update the element key
+		xmlChild1.ID = ckey
+		Dim htmlNode As TreeItem
+		htmlNode.Initialize("treeProject",xmlChild1.Name)
+		htmlNode.Image = cogImg
+		htmlNode.Expanded = True
+		treeNode.Children.Add(htmlNode)
+		'process the details of the child
+		Dim xmlChildAttr As String = ""
+		If xmlChild1.Attributes.IsInitialized Then
+			xmlChildAttr = jMash.Map2Json(xmlChild1.Attributes)
+		End If
+		Dim nimport As Map
+		nimport.Initialize
+		Dim ntext As String = xmlChild1.Text.Replace(CRLF,"").Replace(TAB,"").Replace("  "," ")
+		nimport.Put("name",xmlChild1.Name)
+		nimport.Put("text", ntext)
+		nimport.Put("attributes", xmlChildAttr)
+		nimport.Put("placement", xmlChild1.ID)
+		nimport.Put("elementsid","-1")
+		DBUtils.AddRecord(InternalSQL,"Imports",nimport)
+		XML2TreeViewSave(xmlChild1,htmlNode)
+	Next
+End Sub
+
+Sub HTML_StructureSave()
+	'clear the import table
+	DBUtils.TableClear(InternalSQL,"Imports")
+	DBUtils.SQLiteResetCounter(InternalSQL,"Imports","id")
+	'xml to map
+'	'does the file exist, then parse it
+	Dim ParsedData As Map
+	ParsedData.Initialize
+	If File.Exists(File.DirApp,"temp.xml") Then
+		Dim xm As Xml2Map
+		xm.Initialize
+		ParsedData = xm.Parse(File.ReadString(File.dirapp, "temp.xml"))
+		'stub
+		Dim xml As XmlElement = xm.elements.Get(0)
+		'html
+		Dim xml1 As XmlElement = xml.Children.Get(0)
+		'body
+		cogTI.Children.clear
+		Dim xml2 As XmlElement = xml1.Children.Get(1)
+		Dim elCnt As Int = 0
+		For Each xmlChild As XmlElement In xml2.Children
+			elCnt = elCnt + 1
+			xmlChild.ID = elCnt
+			Dim xmlChildAttr As String = ""
+			If xmlChild.Attributes.IsInitialized Then
+				xmlChildAttr = jMash.Map2Json(xmlChild.Attributes)
+			End If
+			Dim nimport As Map
+			nimport.Initialize
+			Dim ntext As String = xmlChild.Text.Replace(CRLF,"").Replace(TAB,"").Replace("  "," ")
+			nimport.Put("name",xmlChild.Name)
+			nimport.Put("text", ntext)
+			nimport.Put("attributes", xmlChildAttr)
+			nimport.Put("placement", xmlChild.ID)
+			nimport.Put("elementsid","-1")
+			DBUtils.AddRecord(InternalSQL,"Imports",nimport)
+	
+			'add to the tree
+			Dim htmlNode As TreeItem
+			htmlNode.Initialize("treeProject",xmlChild.Name)
+			htmlNode.Image = cogImg
+			htmlNode.Expanded = True
+			cogTI.Children.Add(htmlNode)
+			'add the children
+			XML2TreeViewSave(xmlChild,htmlNode)
+		Next
+	End If
+End Sub
+
+Sub btnExecuteCommand_Click
+	wait for (CLI.ExecuteCommand(MainForm,txtCommand.Text)) complete(Result As Boolean)
+	If Result = True Then	
+		'Dim lastCommands As String = txtCommands.GetText
+		Dim strCommands As String = jMash.MvFromList(CLI.Commands,CRLF)
+		'If lastCommands = "" Then
+		'	lastCommands = strCommands
+		'Else
+		'	lastCommands = lastCommands & CRLF & CRLF & strCommands
+		'End If
+		'jMash.CodeAreaSetText(txtCommands,strCommands,"1",False)
+		CLI_Stats
+		txtCommand.Text = ""
+		txtCommand.RequestFocus
+	End If
+End Sub
+
+Sub txtCommand_Action
+	btnExecuteCommand_Click
+End Sub
+
+Sub btnPasteHTML_Click
+	txtHTMLSource.Text = fx.Clipboard.GetString
+End Sub
+
+Sub etvRecords_FilePicked (RowIndex As Int, Value As Map)
+	If Value.IsInitialized = False Then Return
+	Dim sfile As String = Value.GetDefault("file","")
+	If sfile = "" Then Return
+	Dim sourcedir As String = File.GetFileParent(sfile)
+	Dim sourcefil As String = File.GetName(sfile)
+	Select Case etvRecords.DataSource
+	Case "CSSFiles"
+		'copy the file to the css folder
+		Value.Put("file",sourcefil)
+		etvRecords.UpdateRow(RowIndex,Value)
+		jMash.File_Copy(sourcedir,sourcefil,File.DirApp & "\css",True)
+	Case "JSFiles"
+		'copy the file to the js folder
+		Value.Put("file",sourcefil)
+		etvRecords.UpdateRow(RowIndex,Value)
+		jMash.File_Copy(sourcedir,sourcefil,File.DirApp & "\js",True)
+	End Select
+End Sub
+
+Sub etvRecords_IconPicker (Property As String, Value As String)
+	
+End Sub
+
+Sub btnSaveTemplates_Click
+	etvTemplates.Save
+End Sub
+
+Sub btnDeleteTemplates_Click
+	etvTemplates.Delete
+End Sub
+
+Sub btnAddTemplate_Click
+	
+End Sub
+
+'show the attributes and classes for this template
+Sub etvTemplates_SelectedRow (RowIndex As Int, Value As Map)
+	Dim sframework As String = Value.GetDefault("framework","")
+	Dim sattribute As String = Value.GetDefault("instance","")
+	Dim sKey As String = $"${sframework}.${sattribute}"$
+	
+	etvTemplatesAttributes.Clear
+	etvTemplatesClasses.clear
+	'get the attributes
+	etvTemplatesAttributes.SQLQuery = $"select * from TemplatesAttributes where parentkey = '${sKey}' order by Attribute desc"$
+	etvTemplatesAttributes.LoadSQLData(Null)
+	lblTemplatesAttributes.Text = $"Attributes: ${etvTemplatesAttributes.RecordCount+1}"$
+	'get the classes
+	etvTemplatesClasses.SQLQuery = $"select * from TemplatesClasses where parentkey = '${sKey}' order by Class desc"$
+	etvTemplatesClasses.LoadSQLData(Null)
+	lblTemplatesClasses.Text = $"Classes: ${etvTemplatesClasses.RecordCount+1}"$
+'	
+End Sub
+
+Sub btnSaveTemplatesAttributes_Click
+	etvTemplatesAttributes.save
+End Sub
+
+Sub btnDeleteTemplatesAttributes_Click
+	etvTemplatesAttributes.delete
+End Sub
+
+Sub btnAddTemplateAttributes_Click
+	
+End Sub
+
+Sub btnSaveTemplatesClasses_Click
+	etvTemplatesClasses.save
+End Sub
+
+Sub btnDeleteTemplatesClasses_Click
+	etvTemplatesClasses.delete
+End Sub
+
+Sub btnAddTemplatesClasses_Click
+	
+End Sub
+
+Sub btnTemplatesAttributesNames_Click
+	Dim rows As List = etvTemplatesAttributes.GetRows
+	Dim rowTot As Int = rows.Size - 1
+	Dim rowCnt As Int
+	For rowCnt = 0 To rowTot
+		Dim row As Map = rows.Get(rowCnt)
+		Dim sattribute As String = row.GetDefault("attribute","")
+		Dim sdisplayname As String = sattribute
+		Dim sid As String = row.GetDefault("id","")
+		sdisplayname = sdisplayname.Replace("-"," ")
+		sdisplayname = jMash.ProperCase(sdisplayname)
+		Select Case sdisplayname
+		Case "href"
+			sdisplayname = "Link"
+		End Select
+		DBUtils.RecordUpdateField(InternalSQL,"TemplatesAttributes","DisplayName",sdisplayname,"id",sid)
+		row.Put("displayname",sdisplayname)
+		etvTemplatesAttributes.UpdateRow(rowCnt,row)
+		'update the attributes
+		Dim w As Map
+		w.Initialize 
+		w.Put("attribute",sattribute)
+		Dim u As Map
+		u.Initialize 
+		u.Put("displayname",sdisplayname)
+		DBUtils.UpdateRecord2(InternalSQL,"Attributes",u,w)
+		Sleep(1)
+	Next
+End Sub
+
+Sub btnTemplatesClassesNames_Click
+	Dim rows As List = etvTemplatesClasses.GetRows
+	Dim rowTot As Int = rows.Size - 1
+	Dim rowCnt As Int
+	For rowCnt = 0 To rowTot
+		Dim row As Map = rows.Get(rowCnt)
+		Dim sClass As String = row.GetDefault("class","")
+		Dim sdisplayname As String = sClass
+		Dim sid As String = row.GetDefault("id","")
+		sdisplayname = sdisplayname.Replace("-"," ")
+		sdisplayname = jMash.ProperCase(sdisplayname)
+		DBUtils.RecordUpdateField(InternalSQL,"TemplatesClasses","DisplayName",sdisplayname,"id",sid)
+		row.Put("displayname",sdisplayname)
+		etvTemplatesClasses.UpdateRow(rowCnt,row)
+		'update the classes
+		Dim w As Map
+		w.Initialize
+		w.Put("class",sClass)
+		Dim u As Map
+		u.Initialize
+		u.Put("displayname",sdisplayname)
+		DBUtils.UpdateRecord2(InternalSQL,"Classes",u,w)
+		Sleep(1)
+	Next
+End Sub
+
+Sub btnTemplatesNames_Click
+	Dim rows As List = DBUtils.ExecuteMaps(InternalSQL,"select * from Attributes",Null)
+	For Each row As Map In rows
+		Dim sid As String = row.GetDefault("id","")
+		Dim sAttribute As String = row.GetDefault("attribute","")
+		Dim sElementID As String = row.GetDefault("elementid","")
+		Dim sdisplayname As String = sAttribute
+		sdisplayname = sdisplayname.Replace("-"," ")
+		sdisplayname = jMash.ProperCase(sdisplayname)
+		Dim sKey As String = $"${sElementID}.${sAttribute}"$
+		row.Put("displayname",sdisplayname)
+		row.Put("key",sKey)
+		DBUtils.AddEditRecord(InternalSQL,"Attributes","id",sid,row)
+		Sleep(1)
+	Next
+	Dim rows As List = DBUtils.ExecuteMaps(InternalSQL,"select * from Classes",Null)
+	For Each row As Map In rows
+		Dim sid As String = row.GetDefault("id","")
+		Dim sAttribute As String = row.GetDefault("class","")
+		Dim sElementID As String = row.GetDefault("elementid","")
+		Dim sdisplayname As String = sAttribute
+		sdisplayname = sdisplayname.Replace("-"," ")
+		sdisplayname = jMash.ProperCase(sdisplayname)
+		Dim sKey As String = $"${sElementID}.${sAttribute}"$
+		row.Put("key",sKey)
+		row.Put("displayname",sdisplayname)
+		DBUtils.AddEditRecord(InternalSQL,"Classes","id",sid,row)
+		Sleep(1)
+	Next
+	Dim rows As List = DBUtils.ExecuteMaps(InternalSQL,"select * from TemplatesAttributes",Null)
+	For Each row As Map In rows
+		Dim sid As String = row.GetDefault("id","")
+		Dim sAttribute As String = row.GetDefault("attribute","")
+		Dim sdisplayname As String = sAttribute
+		sdisplayname = sdisplayname.Replace("-"," ")
+		sdisplayname = jMash.ProperCase(sdisplayname)
+		row.Put("displayname",sdisplayname)
+		DBUtils.AddEditRecord(InternalSQL,"TemplatesAttributes","id",sid,row)
+		Sleep(1)
+	Next
+	Dim rows As List = DBUtils.ExecuteMaps(InternalSQL,"select * from TemplatesClasses",Null)
+	For Each row As Map In rows
+		Dim sid As String = row.GetDefault("id","")
+		Dim sAttribute As String = row.GetDefault("class","")
+		Dim sdisplayname As String = sAttribute
+		sdisplayname = sdisplayname.Replace("-"," ")
+		sdisplayname = jMash.ProperCase(sdisplayname)
+		row.Put("displayname",sdisplayname)
+		DBUtils.AddEditRecord(InternalSQL,"TemplatesClasses","id",sid,row)
+		Sleep(1)
+	Next
+End Sub
+
+Sub btnRefreshTemplates_Click
+	Templates_Execute
+End Sub
+
+Sub etvTemplates_List (RowIndex As Int, Value As Map)
+	
+End Sub
+
+'default value to list
+Sub etvTemplatesAttributes_List (RowIndex As Int, Value As Map)
+	Dim sdefaultvalue As String = Value.GetDefault("defaultvalue","")
+	Dim slist As String = Value.GetDefault("list","")
+	slist = slist.ToLowerCase
+	sdefaultvalue = sdefaultvalue.tolowercase
+	slist = jMash.MvAdd(slist,"|",sdefaultvalue)
+	slist = jMash.MvRemoveDuplicates(slist,"|")
+	'update the row
+	Value.Put("list",slist)
+	Value.Put("defaultvalue","")
+	etvTemplatesAttributes.SaveRecord(RowIndex,Value)
+End Sub
+
+
+Sub btnRecordNames_Click
+	Select Case etvRecords.DataSource
+		Case "FrameworkClasses"
+			badge.Initialize
+			Dim recCnt As Int = 0
+			Dim recTot As Int = 0
+			Dim dups As Map
+			dups.Initialize
+			Dim recs As List = DBUtils.ExecuteMaps(InternalSQL,"select * from FrameworkClasses",Null)
+			For Each rec As Map In recs
+				recCnt = recCnt + 1
+				recTot = recTot + 1
+				If recCnt = 5 Then
+					badge.SetBadge1(btnRecordNames,recTot,0)
+					recCnt = 0
+					Sleep(1)
+				End If
+				Dim sid As String = rec.GetDefault("id","")
+				Dim sClass As String = rec.GetDefault("class","")
+				Dim sFramework As String = rec.GetDefault("framework","")
+				Dim scategory As String = rec.getdefault("category","")
+				Dim sClassName As String = sClass.Replace("-"," ")
+				sClassName = jMash.ProperCase(sClassName)
+				rec.Put("classname",sClassName)
+				DBUtils.AddEditRecord(InternalSQL,"FrameworkClasses","id",sid,rec)
+				'proces dups
+				Dim skey As String = $"${sFramework}.${scategory}"$
+				If dups.ContainsKey(skey) Then
+					Dim lst As List
+					lst = dups.Get(skey)
+					lst.Add(sClass)
+					dups.Put(skey,lst)
+				Else
+					Dim lst As List
+					lst.Initialize
+					lst.Add(sClass)
+					dups.Put(skey,lst)
+				End If
+			Next
+			badge.SetBadge1(btnRecordNames,recTot,0)
+			recTot = 0
+			recCnt = 0
+			'now update the list field of the classes
+			For Each strKey As String In dups.Keys
+				recTot = recTot + 1
+				recCnt = recCnt + 1
+				If recCnt = 5 Then
+					badge.SetBadge1(btnRecordNames,recTot,0)
+					recCnt = 0
+					Sleep(1)
+				End If
+				Dim lst As List = dups.Get(strKey)
+				Dim str As String = jMash.MvFromList(lst,"|")
+				Dim sFramework As String = jMash.MvField(strKey,1,".")
+				Dim scategory As String = jMash.MvField(strKey,2,".")
+				If lst.Size = 1 Then str = ""
+				Dim w As Map = CreateMap("framework":sFramework,"category":scategory)
+				Dim u As Map = CreateMap("list":str)
+				DBUtils.UpdateRecord2(InternalSQL,"FrameworkClasses",u,w)
+			Next			
+			badge.SetBadge1(btnRecordNames,recTot,0)
+			
+			'check for duplicates
+			Dim dups As Map
+			dups.Initialize 
+			For Each rec As Map In recs
+				Dim skey As String = rec.GetDefault("key","")
+				Dim sid As String = rec.GetDefault("id","")
+				If dups.ContainsKey(skey) Then
+					Dim lst As List
+					lst = dups.Get(skey)
+					lst.Add(sid)
+					dups.Put(skey,lst)
+				Else
+					Dim lst As List
+					lst.Initialize
+					lst.Add(sid) 
+					dups.Put(skey,lst)
+				End If
+			Next
+			Dim lstDups As List
+			lstDups.Initialize 
+			For Each strKey As String In dups.Keys
+				Dim lst As List = dups.Get(strKey)
+				If lst.Size > 1 Then
+					For Each sid As String In lst
+						lstDups.Add(sid)
+					Next
+				End If
+			Next
+			Dim sid As String = jMash.MvFromList(lstDups,",")
+			etvRecords.SQLQuery = $"select * from FrameworkClasses where id in (${sid}) order by ClassName desc"$
+			etvRecords.LoadSQLData(Null)
+			badge.SetBadge(btnRecordNames,0)
+	End Select
+End Sub
+
+Sub etvRecords_RecordsDeleted()
+	
+End Sub
+
+Sub btnGenerateCode_Click
+	Select Case etvRecords.DataSource
+		Case "FrameworkClasses"
+			Dim rows As List = etvRecords.GetRows
+			'get the category
+			If rows.Size = 1 Then
+				'this is a single class
+				Dim row As Map = rows.Get(0)
+				Dim scategory As String = row.getdefault("category","")
+				Dim sframework As String = row.GetDefault("framework","")
+				Dim sAbbreviation As String = DBUtils.ReadField(InternalSQL,"Frameworks","Framework",sframework,"abbreviation")
+				Dim className As String = sAbbreviation & scategory.Replace(" ","").trim
+				className = File.Combine(CLI.CodePath,className & ".bas")
+				'kill the file
+				If File.Exists("",className) Then
+					File.delete("",className)
+				End If
+			else If rows.Size >= 1 Then
+				Dim row As Map = rows.Get(0)
+				Dim scategory As String = row.getdefault("category","")
+				Dim sframework As String = row.GetDefault("framework","")
+				Dim sAbbreviation As String = DBUtils.ReadField(InternalSQL,"Frameworks","Framework",sframework,"abbreviation")
+				'get the ids of grid rows
+				Dim sid As String = etvRecords.GetRowsKeysString
+				'get the records
+				Dim rows As List = DBUtils.ExecuteMaps(InternalSQL,$"select * from FrameworkClasses where id in (${sid}) order by Class"$,Null)
+				'define the file name
+				Dim className As String = sAbbreviation & scategory.Replace(" ","").trim
+				Dim actualClass As String = scategory.Replace(" ","").Trim
+				className = File.Combine(CLI.CodePath,className & ".bas")
+				'adding the class
+				Dim sbAddClass As StringBuilder
+				sbAddClass.Initialize
+				sbAddClass.Append($"Sub Set${actualClass}(el as HTMLElement, varClass As String) As HTMLElement"$).Append(CRLF)
+				
+				'prepare the code
+				Dim sbInit As StringBuilder
+				sbInit.Initialize
+				sbInit.Append("Sub Initialize").Append(CRLF)
+				'declarations
+				Dim sb As StringBuilder
+				sb.initialize
+				sb.Append($"B4J=true
+Group=Default Group
+ModulesStructureVersion=1
+Type=Class
+Version=6
+@EndOfDesignText@
+'Class module"$)
+				sb.append(CRLF)
+				sb.Append("'Enumeration for ").Append(sframework).Append(":").Append(scategory).append(CRLF)
+				sb.Append("'Automatically generated by OneEvery, ").Append(jMash.LongDateTimeToday).Append(CRLF)
+				sb.Append("Sub Class_Globals").Append(CRLF)				
+				For Each row As Map In rows
+					Dim sClass As String = row.GetDefault("class","")
+					Dim sname As String = sClass.Replace("-"," ")
+					sname = jMash.ProperCase(sname)
+					sname = sname.Replace(" ","")
+					Dim sDeclare As String = $"Public ${sname} As String"$
+					Dim sInit As String = $"${sname} = "${sClass}""$
+					Dim addit As String = $"el.RemoveClass("${sClass}")"$
+					sb.Append(sDeclare).Append(CRLF)
+					sbInit.Append(sInit).Append(CRLF)
+					sbAddClass.append(addit).Append(CRLF)
+				Next
+				sb.Append("End Sub").Append(CRLF).Append(CRLF)
+				sb.Append(sbInit.ToString)
+				sb.Append("End Sub").Append(CRLF)
+				Dim addit As String = $"el.AddClass(varClass)"$
+				sbAddClass.Append(addit).Append(CRLF)
+				sbAddClass.Append("Return el").Append(CRLF)
+				sbAddClass.append("End Sub").Append(CRLF)
+				sb.append(CRLF)
+				sb.Append(sbAddClass.tostring)
+				'write the file
+				File.WriteString("",className,sb.ToString)
+				'show the code
+				Dim scode As String = File.ReadString("",className)
+				'jMash.CodeAreaSetText(txtHTML,scode,"1",True)
+			End If
+	End Select
+End Sub
+
+'build the framework
+Sub btnExtractClasses_Click
+	Dim sText As String = txtHTMLSource.Text
+	jMash.PutSimple("lasteditor",sText)
+	sText = sText.Replace(CRLF,"")
+	sText = sText.trim
+	'clear existing preview and source
+	AppView.LoadHtml("")
+	cogTI.Children.clear
+	If sText = "" Then Return
+	jMash.HTML_TidyCode(sText)
+	HTML_StructureSave
+	'extract classes/attributes etc
+	Dim rTot As Int = 0
+	'save the imports to the elements
+	badge.Initialize
+	'get the abbreviation of the framework
+	Dim sAbbreviation As String = DBUtils.ReadField(InternalSQL,"Frameworks","Framework",CLI.framework,"abbreviation")
+		
+	Dim rows As List = DBUtils.ExecuteMaps(InternalSQL,"select * from Imports",Null)
+	For Each row As Map In rows
+		rTot = rTot + 1
+		badge.SetBadge(btnExtractClasses,rTot)
+		Sleep(1)
+		'get the tag name
+		Dim sName As String = row.GetDefault("name","")
+		sName = sName.trim
+		Dim sDisplayName As String = sAbbreviation & jMash.propercase(sName)
+		Dim skey As String = $"${CLI.framework}.${sName}"$
+		'update the tags
+		Dim record As Map = CreateMap("tag":sName)
+		DBUtils.AddRecord(InternalSQL,"Tags",record)
+		'update the templates
+		Dim record As Map = CreateMap("framework":CLI.Framework, _
+			"instance":sName, _
+			"displayname":sDisplayName, _
+			"key":skey)
+		DBUtils.AddRecord(InternalSQL,"Templates",record)
+		'update the template classes
+		Dim sAttributes As String = row.GetDefault("attributes","")
+		If sAttributes <> "" Then
+			Dim attrMap As Map = jMash.Json2Map(sAttributes)
+			For Each attrKey As String In attrMap.Keys
+				Dim attrValue As String = attrMap.Getdefault(attrKey,"")
+				Select Case attrKey
+				Case "id"
+				Case "class"
+					'split each of the classes
+					Dim spClasses() As String = jMash.StrParse(" ",attrValue)
+					For Each strClass As String In spClasses
+						'convert to propercase
+						strClass = strClass.trim
+						Dim strCap As String = strClass
+						strCap = strCap.Replace("-"," ")
+						strCap = jMash.ProperCase(strCap)
+						Dim fkey As String = $"${CLI.framework}.${strClass}"$
+						'update framework classes
+						Dim fc As Map = CreateMap("classname":strCap, _
+						"class":strClass, _
+						"active":"1", _
+						"framework":CLI.Framework, _
+						"key":fkey, _
+						"category":strCap)
+						DBUtils.AddRecord(InternalSQL,"FrameworkClasses",fc)
+						'update templateclasses
+						Dim tcparent As String = $"${CLI.framework}.${sName}"$
+						Dim tckey As String = $"${tcparent}.${strClass}"$
+						Dim tc As Map = CreateMap("class":strClass, _
+						"framework":CLI.Framework, _
+						"displayname": strCap, _
+						"key":tckey, _
+						"parentkey":tcparent)
+						DBUtils.AddRecord(InternalSQL,"TemplatesClasses",tc)
+					Next
+				Case "style"
+					'inline css class
+					Log(sName)
+					Log(attrValue)
+				Case Else
+					'update template attributes
+					Dim sDisplayName As String = attrKey
+					sDisplayName = sDisplayName.Replace("-"," ")
+					sDisplayName = jMash.propercase(sDisplayName)
+					Dim parentkey As String = $"${CLI.framework}.${sName}"$
+					Dim attrKey1 As String = $"${parentkey}.${attrKey}"$
+					'read existing template attributes
+					Dim attrEM As Map = DBUtils.ReadRecord(InternalSQL,"TemplatesAttributes","key",attrKey1)
+					If attrEM.IsInitialized Then
+						Dim oFieldType As String = attrEM.GetDefault("fieldtype","")
+						Dim oDefaultValue As String = attrEM.GetDefault("defaultvalue","")
+						oFieldType = jMash.MvAdd(oFieldType,"|","String")
+						oDefaultValue = jMash.MvAdd(oDefaultValue,"|",attrValue)
+						oFieldType = jMash.MvRemoveDuplicates(oFieldType,"|")
+						oDefaultValue = jMash.MvRemoveDuplicates(oDefaultValue,"|")
+						Dim attrm As Map = CreateMap("key":attrKey1, _
+						"fieldtype":oFieldType, _
+						"defaultvalue":oDefaultValue)
+						DBUtils.AddEditRecord(InternalSQL,"TemplatesAttributes","key",attrKey1,attrm)
+					Else	
+						Dim attrm As Map = CreateMap("attribute":attrKey, _
+						"framework":CLI.Framework, _
+						"displayname":sDisplayName, _
+						"fieldtype":"String", _
+						"defaultvalue": attrValue, _
+						"isfile":"0", _
+						"parentkey": parentkey, _
+						"key":attrKey1)
+						DBUtils.AddRecord(InternalSQL,"TemplatesAttributes",attrm)
+					End If
+				End Select
+			Next
+		End If
+	Next
+	badge.SetBadge(btnExtractClasses,0)
+End Sub
+
+'build the macro commands
+Sub btnMacro_Click
+	Dim sid As String = btnMacro.Tag
+	Dim lstCommands As List
+	lstCommands.Initialize
+	'to hold the arguements that we need for the macro
+	Dim sArguements As Map
+	sArguements.Initialize
+	sArguements.put("{id}","{id}")
+	'read the element
+	Dim elM As Map = DBUtils.ReadRecord(InternalSQL,"Elements","id",sid)
+	Dim sFramework As String = elM.GetDefault("framework","")
+	Dim sAbbrev As String = DBUtils.ReadField(InternalSQL,"Frameworks","Framework",sFramework,"abbreviation")
+	sFramework = jMash.propercase(sFramework)
+	'get abbreviation
+	Dim stypeof As String = elM.GetDefault("typeof","")
+	Dim stext As String = elM.GetDefault("text","")
+	Dim scategory As String = elM.GetDefault("category","")
+	Dim selement As String = elM.GetDefault("element","")
+	selement = jMash.GetAlpha(selement)
+	'create the cli comments
+	Dim scommand As String = $"add_element ${stypeof} {id}"$
+	lstCommands.Add(scommand)
+	'is there a text value
+	If stext <> "" Then
+		'is this an argument
+		If stext.StartsWith("{") And stext.EndsWith("}") Then
+			sArguements.put(stext,stext)
+			scommand = $"set_text {id} ${stext}"$
+			lstCommands.Add(scommand)
+		Else
+			scommand = $"set_text {id} ${stext}"$
+			lstCommands.Add(scommand)
+		End If
+	End If
+	'get the attributes for this element
+	Dim attrL As List = DBUtils.ExecuteMaps(InternalSQL,$"select * from Attributes where ElementID = ${sid} and active = 1"$,Null)
+	For Each attrM As Map In attrL
+		Dim sAttribute As String = attrM.GetDefault("attribute","")
+		Dim sDefaultValue As String = attrM.GetDefault("defaultvalue","")
+		If sDefaultValue.StartsWith("{") And sDefaultValue.EndsWith("}") Then
+			sArguements.put(sDefaultValue,sDefaultValue)
+		End If
+		scommand = $"add_attribute {id} ${sAttribute} ${sDefaultValue}"$
+		lstCommands.Add(scommand)
+	Next
+	'process the classes
+	Dim classL As List = DBUtils.ExecuteMaps(InternalSQL,$"select * from Classes where ElementID = ${sid} and active = 1"$,Null)
+	For Each classM As Map In classL
+		Dim sClass As String = classM.GetDefault("class","")
+		scommand = $"add_class {id} ${sClass}"$
+		lstCommands.Add(scommand)
+	Next
+	'get any children affected by this component
+	ExtractChildrenForMacro("{id}",sid,lstCommands,sArguements)
+	scommand = jMash.MvFromList(lstCommands,"|")
+	Dim argue As String = jMash.MvFromKeys(sArguements," ")
+	'save the macro
+	Dim macro As Map
+	macro.Initialize
+	macro.put("macro", $"${sAbbrev}${selement}"$)
+	macro.put("arguements",argue)
+	macro.put("macrocode",scommand)
+	macro.Put("description",scategory)
+	macro.Put("framework",sFramework)
+	jMash.PutObject("macro",macro)
+	'show the macros screen
+	frmMacros.Show(MainForm)
+	
+End Sub
+
+Sub ExtractChildrenForMacro(ownerID As String,parentID As String,lstCommands As List,sArguements As Map)
+	'get all children for this element
+	Dim els As List = DBUtils.ExecuteMaps(InternalSQL,$"select * from elements where parentid = ${parentID} and active = 1 order by tabindex"$,Null)
+	Dim childTot As Int = 0
+	Dim rCnt As Int
+	Dim rTot As Int = els.Size - 1 
+	For rCnt = 0 To rTot
+		Dim elM As Map = els.Get(rCnt)
+		childTot = childTot + 1
+		'get abbreviation
+		Dim idname As String = ownerID & "chld" & childTot
+		Dim stypeof As String = elM.GetDefault("typeof","")
+		Dim stext As String = elM.GetDefault("text","")
+		Dim schild As String = elM.GetDefault("id","")
+		'create the cli comments
+		Dim scommand As String = $"add_element ${stypeof} ${idname}"$
+		lstCommands.Add(scommand)
+		'set the parent
+		scommand = $"set_parent ${idname} ${ownerID}"$
+		lstCommands.add(scommand)
+		'is there a text value
+		If stext <> "" Then
+			'is this an argument
+			If stext.StartsWith("{") And stext.EndsWith("}") Then
+				sArguements.put(stext,stext)
+				scommand = $"set_text ${idname} ${stext}"$
+				lstCommands.Add(scommand)
+			Else
+				scommand = $"set_text ${idname} ${stext}"$
+				lstCommands.Add(scommand)
+			End If
+		End If
+		'get the attributes for this child element
+		Dim attrL As List = DBUtils.ExecuteMaps(InternalSQL,$"select * from Attributes where ElementID = ${schild} and active = 1"$,Null)
+		For Each attrM As Map In attrL
+			Dim sAttribute As String = attrM.GetDefault("attribute","")
+			Dim sDefaultValue As String = attrM.GetDefault("defaultvalue","")
+			If sDefaultValue.StartsWith("{") And sDefaultValue.EndsWith("}") Then
+				sArguements.put(sDefaultValue,sDefaultValue)
+			End If
+			scommand = $"add_attribute ${idname} ${sAttribute} ${sDefaultValue}"$
+			lstCommands.Add(scommand)
+		Next
+		'process the classes
+		Dim classL As List = DBUtils.ExecuteMaps(InternalSQL,$"select * from Classes where ElementID = ${schild} and active = 1"$,Null)
+		For Each classM As Map In classL
+			Dim sClass As String = classM.GetDefault("class","")
+			scommand = $"add_class ${idname} ${sClass}"$
+			lstCommands.Add(scommand)
+		Next
+		'extract children if there are
+		ExtractChildrenForMacro(idname,schild,lstCommands,sArguements)
+	Next
+End Sub
+
+Sub btnSaveMacro_Click
+	Dim sCode As String = txtMacroCommands.GetText
+	If jMash.IsBlank(Dlg,txtMacroName.Text,"Macro Name") = True Then Return
+	If jMash.IsBlank(Dlg,sCode,"Macro Code") = True Then Return
+	
+	sCode = sCode.Replace(CRLF,"|")
+	Dim skey As String = $"${CLI.Framework}.${txtMacroName.text}"$
+	Dim macro As Map = CreateMap("macro":txtMacroName.Text, _
+	"arguements":txtArguements.Text, _
+	"description":txtDescription.Text, _
+	"framework":CLI.framework, _ 
+	"key":skey, _
+	"macrocode":sCode)
+	DBUtils.AddEditRecord(InternalSQL,"Macros","key",skey,macro)
+	If DBUtils.RecordExists(InternalSQL,"Macros","key",skey) = True Then
+		jMash.MsgBoxInform(MainForm,"Macro: " & txtMacroName.text,"The macro was created successfully!")
+	Else
+		jMash.MsgBoxInform(MainForm,"Macro: " & txtMacroName.text,"The macro was NOT created successfully!")
+	End If
+End Sub
+
+'test the macro
+Sub btnPreview_Click
+	If Macro_Test($"${CLI.Framework}.${txtMacroName.text}"$,txtValues.text) = False Then
+		txtValues.RequestFocus
+	End If
+End Sub
+
+Sub btnExecute_Click
+	Dim scodes As String = txtMacroCommands.GetText
+	scodes = scodes.trim
+	If jMash.IsBlank(Dlg,scodes,"Macro Code") = True Then Return
+	Dim codes() As String = jMash.StrParse(CRLF,scodes)
+	For Each strCode As String In codes
+		wait for (CLI.ExecuteCommand(MainForm,strCode)) complete(Result As Boolean)
+	Next
+	btnExecute.Visible = False
+End Sub
+
+Sub btnDeleteMacro_Click
+	If jMash.IsBlank(Dlg,txtMacroName.Text,"Macro Name") = True Then Return
+	Dim sKey As String = $"${CLI.framework}.${txtMacroName.text}"$
+	DBUtils.RecordDelete(InternalSQL,"Macros","key",sKey)
+	If DBUtils.RecordExists(InternalSQL,"Macros","key",sKey) = True Then
+		jMash.MsgBoxInform(MainForm,"Macro: " & txtMacroName.text,"The macro was NOT deleted successfully!")
+	Else
+		jMash.MsgBoxInform(MainForm,"Macro: " & txtMacroName.text,"The macro was deleted successfully!")
+	End If
+End Sub
+
+'create macros
+Sub btnMacroRecords_Click
+	'convert style classes to macros
+	Select Case etvRecords.DataSource
+	Case "FrameworkClasses"
+		Dim rows As List = etvRecords.GetRows
+		'get the category
+		If rows.Size = 1 Then
+			'this is a single class
+			Dim row As Map = rows.Get(0)
+			Dim sid As String = row.GetDefault("id","")
+			Dim classM As Map = DBUtils.ReadRecord(InternalSQL,"FrameworkClasses","id",sid)
+			Dim sClassName As String = classM.GetDefault("classname","")
+			Dim sClass As String = classM.getdefault("class","")
+			Dim sFramework As String = classM.GetDefault("framework","")
+			Dim sAbbrev As String = DBUtils.ReadField(InternalSQL,"Frameworks","Framework",sFramework,"abbreviation")
+			Dim className As String = sAbbrev & sClassName.Replace(" ","").trim
+			sFramework = jMash.ProperCase(sFramework)
+			Dim lstCommands As List
+			lstCommands.Initialize
+			'to hold the arguements that we need for the macro
+			Dim sArguements As Map
+			sArguements.Initialize
+			sArguements.put("{id}","{id}")
+			Dim scommand As String = $"add_class {id} ${sClass}"$
+			lstCommands.Add(scommand)
+			scommand = jMash.MvFromList(lstCommands,"|")
+			Dim argue As String = jMash.MvFromKeys(sArguements," ")
+			Dim sKey As String = $"${sFramework}.${className}"$
+			'save the macro
+			Dim macro As Map
+			macro.Initialize
+			macro.put("macro", className)
+			macro.put("arguements",argue)
+			macro.put("macrocode",scommand)
+			macro.Put("description",sClassName)
+			macro.Put("framework",sFramework)
+			macro.put("key",sKey)
+			DBUtils.AddRecord(InternalSQL,"Macros",macro)
+			jMash.PutObject("macro",macro)
+			'show the macros screen
+			frmMacros.Show(MainForm)
+		else If rows.Size >= 1 Then
+			'only one class is acceptable, so remove all first and then add the one you want
+			Dim row As Map = rows.Get(0)
+			Dim sFramework As String = row.GetDefault("framework","")
+			Dim sAbbreviation As String = DBUtils.ReadField(InternalSQL,"Frameworks","Framework",sFramework,"abbreviation")
+			sFramework = jMash.ProperCase(sFramework)
+			'get the ids of grid rows
+			Dim sid As String = etvRecords.GetRowsKeysString
+			'get the records
+			Dim rows As List = DBUtils.ExecuteMaps(InternalSQL,$"select * from FrameworkClasses where id in (${sid}) order by Class"$,Null)
+			'ge all of the classes
+			Dim allof As List = DBUtils.ExecuteField1(InternalSQL,$"select Class from FrameworkClasses where id in (${sid})"$,"class",False,True)
+			Dim lstCommands As List
+			lstCommands.Initialize
+			'to hold the arguements that we need for the macro
+			Dim sArguements As Map
+			sArguements.Initialize
+			sArguements.put("{id}","{id}")
+			'process each class, remove all
+			For Each classM As Map In rows
+				Dim sClassName As String = classM.GetDefault("classname","")
+				Dim sClass As String = classM.getdefault("class","")
+				Dim className As String = sAbbreviation & sClassName.Replace(" ","").trim
+				Dim sKey As String = $"${sFramework}.${className}"$
+				'build the macro
+				Dim lstCommands As List
+				lstCommands.Initialize
+				'to hold the arguements that we need for the macro
+				Dim sArguements As Map
+				sArguements.Initialize
+				sArguements.put("{id}","{id}")
+				Dim scommand As String = $"add_class {id} ${sClass}"$
+				lstCommands.Add(scommand)
+				'remove classes that should not be added
+				For Each strOthers As String In allof
+					If sClass <> strOthers Then
+						Dim scommand As String = $"delete_class {id} ${strOthers}"$
+						lstCommands.Add(scommand)
+					End If
+				Next
+				'add to the database
+				scommand = jMash.MvFromList(lstCommands,"|")
+				Dim argue As String = jMash.MvFromKeys(sArguements," ")
+				'save the macro
+				Dim macro As Map
+				macro.Initialize
+				macro.put("macro", className)
+				macro.put("arguements",argue)
+				macro.put("macrocode",scommand)
+				macro.Put("description",sClassName)
+				macro.Put("framework",sFramework)
+				macro.Put("key", sKey)
+				DBUtils.AddRecord(InternalSQL,"Macros",macro)
+				jMash.PutObject("macro",macro)
+			Next	
+			'lets preview one of then
+			'show the macros screen
+			frmMacros.Show(MainForm)
+		End If
+	End Select
+End Sub
+
+Sub txtJQuery_TextChanged (Old As String, New As String)
+	jMash.PutSimple("lastjquery", txtJQuery.Text)
+	Dim jq As JQuery
+	jq.Initialize(txtJQuery.Text)
+	Dim sout As String = jq.transpile
+	'process the code to 
+	txtTranspile.Text = sout
+End Sub

@@ -1,0 +1,3 @@
+new-blocklevel-tags: article,nav,aside,main,audio,canvas,details,figure,footer,header,hgroup,menu,section,summary,video
+new-inline-tags: command,datalist,date,datetime,datetime-local,email,figcaption,keygen,mark,meter,month,output,progress,range,rp,rt,ruby,small,source,time,track,url,week
+new-empty-tags: command,keygen,source,track
